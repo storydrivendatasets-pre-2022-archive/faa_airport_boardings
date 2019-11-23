@@ -1,9 +1,9 @@
 .DEFAULT_GOAL := help
-.PHONY : clean help ALL
+.PHONY : clean help ALL \
+	stash process_stash fetch_stash
 
 SQLIZED_DB = data/sqlized.sqlite
-STUB_STASHED = data/stashed/hello.txt
-STUB_WRANGLED = data/wrangled/hello.csv
+
 
 help:
 	@echo 'Run `make ALL` to see how things run from scratch'
@@ -30,16 +30,21 @@ $(SQLIZED_DB): wrangle
 		$(SQLIZED_DB) \
 		data/wrangled
 
-# wrangle task should ideally call wrangling scripts
-# e.g. myfoo/wrangle/my_wrangler.py
-wrangle: $(STUB_WRANGLED)
 
-$(STUB_WRANGLED): $(STUB_STASHED)
+## stash stuff
+stash: fetch_stash process_stash
+
+process_stash:
+	./scripts/stash/pdf2txt.sh \
+		data/stashed/originals \
+		data/stashed/processed
 	@echo ""
-	@echo --- Wrangling $@
-	@echo
+	./scripts/stash/excel2csv.py \
+		data/stashed/originals \
+		data/stashed/processed
 
-	mkdir -p $(dir $@)
-	cat $< | tr '\t' ',' > $@
-
+# only run this when you need to do a full refresh of the source data
+# for some reason
+fetch_stash:
+	./scripts/stash/fetch_files.py
 

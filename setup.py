@@ -6,5 +6,14 @@ setup(
     packages=find_packages(),
     install_requires=[
         'pytest',
+        'PyYAML>=5.1',
+        'requests',
+        'openpyxl',
     ]
 )
+
+
+# install poppler w/ conda
+#    conda install -c conda-forge poppler
+# or homebrew
+#    brew install poppler

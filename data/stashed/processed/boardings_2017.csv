@@ -1,0 +1,518 @@
+Rank,RO,ST,Locid,City,Airport Name,S/L,Hub,CY 17 Enplanements,CY 16 Enplanements,% Change
+1,SO,GA,ATL,Atlanta,Hartsfield - Jackson Atlanta International,P,L,50251964,50501858,-0.0049
+2,WP,CA,LAX,Los Angeles,Los Angeles International,P,L,41232432,39636042,0.0403
+3,GL,IL,ORD,Chicago,Chicago O'Hare International,P,L,38593028,37589899,0.0267
+4,SW,TX,DFW,Fort Worth,Dallas-Fort Worth International,P,L,31816933,31283579,0.017
+5,NM,CO,DEN,Denver,Denver International,P,L,29809097,28267394,0.0545
+6,EA,NY,JFK,New York,John F Kennedy International,P,L,29533154,29239151,0.0101
+7,WP,CA,SFO,San Francisco International Airport,San Francisco International,P,L,26900048,25707101,0.0464
+8,WP,NV,LAS,Las Vegas,McCarran International,P,L,23364393,22833267,0.0233
+9,NM,WA,SEA,Seattle,Seattle-Tacoma International,P,L,22639124,21887110,0.0344
+10,SO,NC,CLT,Charlotte,Charlotte/Douglas International,P,L,22011251,21511880,0.0232
+11,EA,NJ,EWR,Newark,Newark Liberty International,P,L,21571198,19923009,0.0827
+12,SO,FL,MCO,Orlando,Orlando International,P,L,21565448,20283541,0.0632
+13,WP,AZ,PHX,Phoenix,Phoenix Sky Harbor International,P,L,21185458,20896265,0.0138
+14,SO,FL,MIA,Miami,Miami International,P,L,20709225,20875813,-0.008
+15,SW,TX,IAH,Houston,George Bush Intercontinental/Houston,P,L,19603731,20062072,-0.0228
+16,NE,MA,BOS,Boston,General Edward Lawrence Logan International,P,L,18759742,17759044,0.0563
+17,GL,MN,MSP,Minneapolis,Minneapolis-St Paul International/Wold-Chamberlain,P,L,18409704,18123844,0.0158
+18,GL,MI,DTW,Detroit,Detroit Metropolitan Wayne County,P,L,17036092,16847135,0.0112
+19,SO,FL,FLL,Fort Lauderdale,Fort Lauderdale/Hollywood International,P,L,15817043,14263270,0.1089
+20,EA,NY,LGA,New York,Laguardia,P,L,14614802,14762593,-0.01
+21,EA,PA,PHL,Philadelphia,Philadelphia International,P,L,14271243,14564419,-0.0201
+22,EA,MD,BWI,Glen Burnie,Baltimore/Washington International Thurgood Marshall,P,L,12976554,12340972,0.0515
+23,NM,UT,SLC,Salt Lake City,Salt Lake City International,P,L,11615954,11143738,0.0424
+24,EA,VA,DCA,Arlington,Ronald Reagan Washington National,P,L,11506310,11470854,0.0031
+25,WP,CA,SAN,San Diego,San Diego International,P,L,11139933,10340164,0.0773
+26,EA,VA,IAD,Dulles,Washington Dulles International,P,L,11024306,10596942,0.0403
+27,GL,IL,MDW,Chicago,Chicago Midway International,P,L,10912074,11044387,-0.012
+28,WP,HI,HNL,Honolulu,Daniel K Inouye International,P,L,9743989,9656340,0.0091
+29,SO,FL,TPA,Tampa,Tampa International,P,L,9548580,9194994,0.0385
+30,NM,OR,PDX,Portland,Portland International,P,L,9435473,9071154,0.0402
+,,,"=SUBTOTAL(3,D2:D31)",,Large Hubs,,,,,"=SUBTOTAL(9,K31:K31)"
+31,SW,TX,DAL,Dallas,Dallas Love Field,P,M,7593361,7554596,0.0051
+32,CE,MO,STL,St. Louis,St Louis Lambert International,P,M,7194745,6793076,0.0591
+33,SO,TN,BNA,Nashville,Nashville International,P,M,6902771,6338517,0.089
+34,SW,TX,AUS,Austin,Austin-Bergstrom International,P,M,6813171,6095545,0.1177
+35,SW,TX,HOU,Houston,William P Hobby,P,M,6538976,6285181,0.0404
+36,WP,CA,OAK,Oakland,Metropolitan Oakland International,P,M,6413842,5934639,0.0807
+37,WP,CA,SJC,San Jose,Norman Y Mineta San Jose International,P,M,6130878,5321603,0.1521
+38,SW,LA,MSY,Metairie,Louis Armstrong New Orleans International,P,M,6022318,5569705,0.0813
+39,SO,NC,RDU,Raleigh,Raleigh-Durham International,P,M,5692659,5401714,0.0539
+40,CE,MO,MCI,Kansas City,Kansas City International,P,M,5628581,5391557,0.044
+41,WP,CA,SMF,Sacramento,Sacramento International,P,M,5341595,4969366,0.0749
+42,WP,CA,SNA,Santa Ana,John Wayne Airport-Orange County,P,M,5082716,5217242,-0.0258
+43,GL,OH,CLE,Cleveland,Cleveland-Hopkins International,P,M,4446555,4083476,0.0889
+44,SW,TX,SAT,San Antonio,San Antonio International,P,M,4382127,4179994,0.0484
+45,SO,FL,RSW,Fort Myers,Southwest Florida International,P,M,4364224,4239261,0.0295
+46,GL,IN,IND,Indianapolis,Indianapolis International,P,M,4343722,4216766,0.0301
+47,EA,PA,PIT,Pittsburgh,Pittsburgh International,P,M,4327434,3986114,0.0856
+48,SO,PR,SJU,San Juan,Luis Munoz Marin International,P,M,4203766,4343354,-0.0321
+49,SO,KY,CVG,Greater Cincinnati International Airport,Cincinnati/Northern Kentucky International,P,M,3791989,3269979,0.1596
+50,GL,OH,CMH,Columbus,John Glenn Columbus International,P,M,3689570,3567864,0.0341
+51,WP,HI,OGG,Kahului,Kahului,P,M,3442189,3352813,0.0267
+52,GL,WI,MKE,Milwaukee,General Mitchell International,P,M,3414477,3327536,0.0261
+53,NE,CT,BDL,Windsor Locks,Bradley International,P,M,3164647,2982194,0.0612
+54,SO,FL,PBI,West Palm Beach,Palm Beach International,P,M,3110450,3100624,0.0032
+55,SO,FL,JAX,Jacksonville,Jacksonville International,P,M,2701861,2729129,-0.01
+56,AL,AK,ANC,Anchorage,Ted Stevens Anchorage International,P,M,2556191,2563524,-0.0029
+57,SW,NM,ABQ,Albuquerque,Albuquerque International Sunport,P,M,2412328,2341719,0.0302
+58,WP,CA,BUR,Burbank,Bob Hope,P,M,2402106,2077892,0.156
+59,EA,NY,BUF,Buffalo,Buffalo Niagara International,P,M,2348512,2313724,0.015
+60,WP,CA,ONT,Ontario,Ontario International,P,M,2247645,2104625,0.068
+61,CE,NE,OMA,Omaha,Eppley Airfield,P,M,2243658,2127387,0.0547
+,,,"=SUBTOTAL(3,D33:D63)",,Medium Hubs,,,,,"=SUBTOTAL(9,K63:K63)"
+62,SO,TN,MEM,Memphis,Memphis International,P,S,2102739,2016089,0.043
+63,WP,NV,RNO,Reno,Reno/Tahoe International,P,S,1953028,1771864,0.1022
+64,SO,SC,CHS,Charleston,Charleston AFB/International,P,S,1945699,1811695,0.074
+65,NE,RI,PVD,Warwick,Theodore Francis Green State,P,S,1940806,1803000,0.0764
+66,SW,OK,OKC,Oklahoma City,Will Rogers World,P,S,1894289,1796473,0.0544
+67,WP,CA,LGB,Long Beach,Long Beach /Daugherty Field/,P,S,1830745,1386357,0.3205
+68,EA,VA,RIC,Highland Springs,Richmond International,P,S,1822486,1777648,0.0252
+69,NM,ID,BOI,Boise,Boise Air Terminal/Gowen Field,P,S,1777642,1633507,0.0882
+70,WP,HI,KOA,Kailua Kona,Ellison Onizuka Kona International at Keahole,P,S,1764995,1569602,0.1245
+71,NM,WA,GEG,Spokane,Spokane International,P,S,1698433,1570652,0.0814
+72,EA,VA,ORF,Norfolk,Norfolk International,P,S,1694329,1602631,0.0572
+73,SO,KY,SDF,Louisville,Louisville International-Standiford Field,P,S,1684738,1631494,0.0326
+74,WP,AZ,TUS,Tucson,Tucson International,P,S,1669928,1594594,0.0472
+75,WP,GU,GUM,Tamuning,Guam International,P,S,1566429,1444299,0.0846
+76,WP,HI,LIH,Lihue,Lihue,P,S,1535075,1458940,0.0522
+77,SW,TX,ELP,El Paso,El Paso International,P,S,1450115,1414376,0.0253
+78,SO,FL,SFB,Sanford,Orlando Sanford International,P,S,1434990,1341699,0.0695
+79,GL,MI,GRR,Grand Rapids,Gerald R Ford International,P,S,1412132,1334979,0.0578
+80,EA,NY,ALB,Albany,Albany International,P,S,1393666,1388860,0.0035
+81,SW,OK,TUL,Tulsa,Tulsa International,P,S,1374424,1342315,0.0239
+82,SO,AL,BHM,Birmingham,Birmingham-Shuttlesworth International,P,S,1333967,1304467,0.0226
+83,CE,IA,DSM,Des Moines,Des Moines International,P,S,1257521,1216357,0.0338
+84,EA,NY,ROC,Rochester,Greater Rochester International,P,S,1205774,1186002,0.0167
+85,SO,GA,SAV,Savannah,Savannah/Hilton Head International,P,S,1192340,1056265,0.1288
+86,SO,SC,MYR,Myrtle Beach,Myrtle Beach International,P,S,1131959,944849,0.198
+87,WP,CA,PSP,Palm Springs,Palm Springs International,P,S,1055970,995801,0.0604
+88,SO,SC,GSP,Greer,Greenville Spartanburg International,P,S,1051089,991276,0.0603
+89,SO,FL,PIE,Clearwater,St Pete-Clearwater International,P,S,1023471,915672,0.1177
+90,EA,NY,SYR,Syracuse,Syracuse Hancock International,P,S,1013149,988496,0.0249
+91,SW,AR,LIT,Little Rock,Bill and Hillary Clinton National/Adams Field,P,S,979530,958824,0.0216
+92,NE,NH,MHT,Manchester,Manchester,P,S,969229,995403,-0.0263
+93,SO,TN,TYS,Alcoa,McGhee Tyson,P,S,963752,887103,0.0864
+94,GL,WI,MSN,Madison,Dane County Regional-Truax Field,P,S,943363,903155,0.0445
+95,GL,OH,DAY,Dayton,James M Cox Dayton International,P,S,935373,1019922,-0.0829
+96,NE,ME,PWM,Portland,Portland International Jetport,P,S,925903,886343,0.0446
+97,SO,NC,GSO,Greensboro,Piedmont Triad International,P,S,881024,848261,0.0386
+98,SO,FL,PNS,Pensacola,Pensacola International,P,S,839248,792916,0.0584
+99,NM,CO,COS,Colorado Springs,City of Colorado Springs Municipal,P,S,815839,657694,0.2405
+100,CE,KS,ICT,Wichita,Wichita Dwight D Eisenhower National,P,S,789533,781944,0.0097
+101,EA,NY,HPN,White Plains,Westchester County,P,S,759334,766170,-0.0089
+102,WP,CA,FAT,Fresno,Fresno Yosemite International,P,S,755140,761298,-0.0081
+103,WP,AZ,IWA,Mesa,Phoenix-Mesa Gateway,P,S,704247,705731,-0.0021
+104,SW,AR,XNA,Bentonville,Northwest Arkansas Regional,P,S,698257,673810,0.0363
+105,WP,MP,GSN,Saipan,Francisco C Ada/Saipan International,P,S,685642,430275,0.5935
+106,WP,HI,ITO,Hilo,Hilo International,P,S,664790,640757,0.0375
+107,EA,NY,ISP,Islip,Long Island MacArthur,P,S,648593,597133,0.0862
+108,SO,FL,PGD,Punta Gorda,Punta Gorda,P,S,643563,558482,0.1523
+109,SO,KY,LEX,Lexington,Blue Grass,P,S,637301,638316,-0.0016
+110,SO,VI,STT,Charlotte Amalie,Cyril E King,P,S,619729,729382,-0.1503
+111,GL,OH,CAK,Akron,Akron-Canton Regional,P,S,619321,685553,-0.0966
+112,NM,MT,BZN,Bozeman,Bozeman Yellowstone International,P,S,598712,553245,0.0822
+113,SO,FL,SRQ,Sarasota,Sarasota/Bradenton International,P,S,590941,589860,0.0018
+114,EA,PA,MDT,Harrisburg,Harrisburg International,P,S,582291,589511,-0.0122
+115,NE,VT,BTV,Burlington,Burlington International,P,S,578014,593311,-0.0258
+116,CE,IA,CID,Cedar Rapids,The Eastern Iowa,P,S,574636,547786,0.049
+117,SO,FL,VPS,Valparaiso,Eglin AFB/Destin-Ft Walton Beach,P,S,567633,440002,0.2901
+118,EA,NJ,ACY,Atlantic City,Atlantic City International,P,S,552690,589091,-0.0618
+119,AL,AK,FAI,Fairbanks,Fairbanks International,P,S,543839,538881,0.0092
+120,GL,SD,FSD,Sioux Falls,Joe Foss Field,P,S,540877,510105,0.0603
+121,NM,OR,EUG,Eugene,Mahlon Sweet Field,P,S,529149,483224,0.095
+122,SO,AL,HSV,Huntsville,Huntsville International-Carl T Jones Field,P,S,519003,527801,-0.0167
+123,SW,TX,MAF,Midland,Midland International Air And Space Port,P,S,516983,471490,0.0965
+124,SO,SC,CAE,Columbia,Columbia Metropolitan,P,S,510188,553658,-0.0785
+125,CE,MO,SGF,Springfield,Springfield-Branson National,P,S,483259,462126,0.0457
+126,SO,TN,CHA,Chattanooga,Lovell Field,P,S,482113,422442,0.1413
+127,SO,NC,AVL,Asheville,Asheville Regional,P,S,478061,416939,0.1466
+128,SO,MS,JAN,Jackson,Jackson-Medgar Wiley Evers International,P,S,462655,491464,-0.0586
+129,SW,TX,LBB,Lubbock,Lubbock Preston Smith International,P,S,460236,448093,0.0271
+130,SO,FL,ECP,Panama City,Northwest Florida Beaches International,P,S,454712,434302,0.047
+131,NM,OR,MFR,Medford,Rogue Valley International - Medford,P,S,440506,401469,0.0972
+,,,"=SUBTOTAL(3,D65:D134)",,Small Hubs,,,,,"=SUBTOTAL(9,K134:K134)"
+132,SO,NC,ILM,Wilmington,Wilmington International,P,N,422553,413185,0.0227
+133,AL,AK,JNU,Juneau,Juneau International,P,N,422266,420442,0.0043
+134,NM,MT,BIL,Billings,Billings Logan International,P,N,415093,423213,-0.0192
+135,GL,ND,FAR,Fargo,Hector International,P,N,404937,402976,0.0049
+136,GL,MI,FNT,Flint,Bishop International,P,N,393549,398508,-0.0124
+137,SO,FL,EYW,Key West,Key West International,P,N,392381,380505,0.0312
+138,NM,MT,MSO,Missoula,Missoula International,P,N,387976,381582,0.0168
+139,SW,LA,BTR,Baton Rouge,"Baton Rouge Metropolitan, Ryan Field",P,N,377670,364200,0.037
+140,NM,WA,PSC,Pasco,Tri-Cities,P,N,376044,374301,0.0047
+141,NM,WA,BLI,Bellingham,Bellingham International,P,N,370022,415285,-0.109
+142,NM,OR,RDM,Redmond,Roberts Field,P,N,364921,306517,0.1905
+143,EA,NJ,TTN,Trenton,Trenton Mercer,P,N,363654,278436,0.3061
+144,GL,IN,FWA,Fort Wayne,Fort Wayne International,P,N,359658,360369,-0.002
+145,WP,CA,SBA,Santa Barbara,Santa Barbara Municipal,P,N,356608,329751,0.0814
+146,SO,FL,TLH,Tallahassee,Tallahassee International,P,N,350174,345404,0.0138
+147,SO,FL,DAB,Daytona Beach,Daytona Beach International,P,N,346470,342495,0.0116
+148,NM,WY,JAC,Jackson,Jackson Hole,P,N,341662,342044,-0.0011
+149,SW,TX,MFE,McAllen,McAllen Miller International,P,N,336431,355224,-0.0529
+150,WP,AZ,GCN,Grand Canyon,Grand Canyon National Park,P,N,336255,319206,0.0534
+151,GL,IL,MLI,Moline,Quad City International,P,N,335940,364393,-0.0781
+152,SW,TX,AMA,Amarillo,Rick Husband Amarillo International,P,N,334563,334815,-0.0008
+153,EA,VA,CHO,Charlottesville-Albemarle Airport,Charlottesville-Albemarle,P,N,334347,295930,0.1298
+154,EA,PA,ABE,Allentown,Lehigh Valley International,P,N,328914,324511,0.0136
+155,SO,MS,GPT,Gulfport,Gulfport-Biloxi International,P,N,324611,305157,0.0638
+156,SW,TX,CRP,Corpus Christi,Corpus Christi International,P,N,320263,325815,-0.017
+157,GL,IL,PIA,Peoria,General Downing - Peoria International,P,N,312378,307189,0.0169
+158,EA,VA,ROA,Roanoke,Roanoke-Blacksburg Regional/Woodrum Field,P,N,309341,305212,0.0135
+159,GL,IN,SBN,South Bend,South Bend International,P,N,307471,329957,-0.0681
+160,NE,ME,BGR,Bangor,Bangor International,P,N,302224,269013,0.1235
+161,SO,GA,AGS,Augusta,Augusta Regional at Bush Field,P,N,288834,270797,0.0666
+162,SO,AL,MOB,Mobile,Mobile Regional,P,N,288222,288209,0
+163,GL,SD,RAP,Rapid City,Rapid City Regional,P,N,286567,272537,0.0515
+164,GL,WI,GRB,Green Bay,Green Bay-Austin Straubel International,P,N,283823,292868,-0.0309
+165,GL,WI,ATW,Appleton,Appleton International,P,N,281552,270633,0.0403
+166,GL,ND,BIS,Bismarck,Bismarck Municipal,P,N,275098,273980,0.0041
+167,SW,TX,HRL,Harlingen,Valley International,P,N,273070,263760,0.0353
+168,NM,MT,GPI,Kalispell,Glacier Park International,P,N,272279,247816,0.0987
+169,SW,LA,SHV,Shreveport,Shreveport Regional,P,N,267646,270395,-0.0102
+170,EA,PA,AVP,Avoca,Wilkes-Barre/Scranton International,P,N,261572,232855,0.1233
+171,WP,AZ,1G4,Peach Springs,Grand Canyon West,P,N,258038,128739,1.0043
+172,SO,PR,BQN,Aguadilla,Rafael Hernandez,P,N,252693,257871,-0.0201
+173,NM,CO,ASE,Aspen,Aspen-Pitkin County/Sardy Field,P,N,244808,254392,-0.0377
+174,SO,NC,FAY,Fayetteville,Fayetteville Regional/Grannis Field,P,N,238568,224541,0.0625
+175,GL,MI,TVC,Traverse City,Cherry Capital,P,N,235137,223924,0.0501
+176,EA,NY,SWF,Newburgh,Stewart International,P,N,228640,140328,0.6293
+177,NM,CO,GJT,Grand Junction,Grand Junction Regional,P,N,223452,218319,0.0235
+178,SO,FL,MLB,Melbourne,Melbourne International,P,N,221928,220360,0.0071
+179,WP,NV,BVU,Boulder City,Boulder City Municipal,P,N,220980,211615,0.0443
+180,SO,FL,GNV,Gainesville,Gainesville Regional,P,N,218578,206330,0.0594
+181,GL,IN,EVV,Evansville,Evansville Regional,P,N,213205,204352,0.0433
+182,EA,WV,CRW,Charleston,Yeager,P,N,202778,213412,-0.0498
+183,SW,LA,LFT,Lafayette,Lafayette Regional/Paul Fournet Field,P,N,202640,206667,-0.0195
+184,EA,VA,PHF,Newport News,Newport News/Williamsburg International,P,N,197994,199421,-0.0072
+185,WP,CA,SBP,San Luis Obispo,San Luis County Regional,P,N,197594,162719,0.2143
+186,WP,CA,MRY,Monterey,Monterey Regional,P,N,197099,192136,0.0258
+187,GL,MI,LAN,Clinton (Township of),Capital Region International,P,N,196617,161863,0.2147
+188,SO,VI,STX,Christiansted,Henry E Rohlsen,P,N,195634,196047,-0.0021
+189,WP,CA,STS,Santa Rosa,Charles M Schulz - Sonoma County,P,N,195296,167151,0.1684
+190,SO,TN,TRI,Bristol/Johnson/Kingsport,Tri-Cities,P,N,193068,204926,-0.0579
+191,NM,CO,DRO,Durango,Durango-La Plata County,P,N,186917,187789,-0.0046
+192,NM,MT,GTF,Great Falls,Great Falls International,P,N,171049,176730,-0.0321
+193,GL,IL,BMI,Bloomington-Normal Airport,Central IL Regional Airport at Bloomington-Normal,P,N,163475,188490,-0.1327
+194,SW,LA,AEX,Alexandria,Alexandria International,P,N,156145,129776,0.2032
+195,SO,NC,OAJ,Jacksonville,Albert J Ellis,P,N,155342,149987,0.0357
+196,SW,TX,GRK,Killeen,Robert Gray AAF,P,N,154951,157161,-0.0141
+197,NM,CO,EGE,Eagle,Eagle County Regional,P,N,154577,163840,-0.0565
+198,CE,NE,LNK,Lincoln,Lincoln,P,N,154465,162876,-0.0516
+199,SO,AL,MGM,Montgomery,Montgomery Regional (Dannelly Field),P,N,152773,173210,-0.118
+200,EA,PA,LBE,Latrobe,Arnold Palmer Regional,P,N,151207,146127,0.0348
+201,NM,ID,IDA,Idaho Falls,Idaho Falls Regional,P,N,147729,146213,0.0104
+202,AL,AK,BET,Bethel,Bethel,P,N,146652,155791,-0.0587
+203,GL,MI,AZO,Kalamazoo,Kalamazoo/Battle Creek International,P,N,146314,154242,-0.0514
+204,GL,MN,RST,Rochester,Rochester International,P,N,143675,112864,0.273
+205,EA,NY,IAG,Niagara Falls,Niagara Falls International,P,N,142605,126028,0.1315
+206,GL,ND,MOT,Minot,Minot International,P,N,141161,150634,-0.0629
+207,EA,NY,PBG,Plattsburgh,Plattsburgh International,P,N,139398,129622,0.0754
+208,EA,PA,UNV,State College,University Park,P,N,138423,134312,0.0306
+209,GL,OH,LCK,Columbus,Rickenbacker International,P,N,133649,102751,0.3007
+210,AL,AK,KTN,Ketchikan,Ketchikan International,P,N,131144,127881,0.0255
+211,WP,AZ,IFP,Bullhead City,Laughlin/Bullhead International,P,N,129949,109334,0.1886
+212,SO,NC,JQF,Concord,Concord Regional,P,N,129034,90338,0.4283
+213,EA,NY,ELM,Elmira,Elmira/Corning Regional,P,N,126472,139583,-0.0939
+214,GL,IL,BLV,Belleville,Scott AFB/Midamerica,P,N,123841,79988,0.5482
+215,NM,CO,MTJ,Montrose,Montrose Regional,P,N,123206,116272,0.0596
+216,GL,MN,DLH,Duluth,Duluth International,P,N,122726,124284,-0.0125
+217,GL,ND,GFK,Grand Forks,Grand Forks International,P,N,117520,132557,-0.1134
+218,GL,WI,CWA,Mosinee,Central Wisconsin,P,N,116404,119222,-0.0236
+219,SW,TX,BRO,Brownsville,Brownsville/South Padre Island International,P,N,116197,120151,-0.0329
+220,NE,MA,ACK,Nantucket,Nantucket Memorial,P,N,113009,126197,-0.1045
+221,GL,IL,RFD,Rockford,Chicago/Rockford International,P,N,112862,101790,0.1088
+222,SO,NC,EWN,New Bern,Coastal Carolina Regional,P,N,111147,106110,0.0475
+223,GL,MI,MBS,Saginaw,MBS International,P,N,110964,122469,-0.0939
+224,NE,NH,PSM,Portsmouth,Portsmouth International at Pease,P,N,105077,73247,0.4346
+225,NM,MT,HLN,Helena,Helena Regional,P,N,103773,103239,0.0052
+226,EA,WV,HTS,Huntington,Tri-State/Milton J Ferguson Field,P,N,103724,98489,0.0532
+227,SW,NM,SAF,Santa Fe,Santa Fe Municipal,P,N,103679,71252,0.4551
+228,NM,UT,SGU,St. George,St George Regional,P,N,103569,78680,0.3163
+229,SW,LA,MLU,Monroe,Monroe Regional,P,N,103547,102342,0.0118
+230,GL,OH,TOL,Toledo,Toledo Express,P,N,102988,92522,0.1131
+231,GL,IL,CMI,Savoy,University of Illinois-Willard,P,N,100133,89318,0.1211
+232,WP,CA,BFL,Bakersfield,Meadows Field,P,N,99472,100433,-0.0096
+233,EA,NY,ITH,Ithaca,Ithaca Tompkins Regional,P,N,97212,88692,0.0961
+234,NM,WY,CPR,Casper,Casper/Natrona County International,P,N,96843,92805,0.0435
+235,NM,CO,HDN,Hayden,Yampa Valley,P,N,96403,107339,-0.1019
+236,WP,CA,SCK,Stockton,Stockton Metropolitan,P,N,96201,93076,0.0336
+237,AL,AK,ENA,Kenai,Kenai Municipal,P,N,92973,92485,0.0053
+238,GL,WI,LSE,La Crosse,La Crosse Regional,P,N,92101,94047,-0.0207
+239,GL,IL,SPI,Springfield,Abraham Lincoln Capital,P,N,92048,93269,-0.0131
+240,NM,UT,PVU,Provo,Provo Municipal,P,N,91581,78451,0.1674
+241,SW,TX,LRD,Laredo,Laredo International,P,N,91462,101115,-0.0955
+242,SO,PR,PSE,Ponce,Mercedita,P,N,89334,105804,-0.1557
+243,CE,MO,COU,Columbia,Columbia Regional,P,N,88650,65014,0.3636
+244,NM,ID,SUN,Hailey,Friedman Memorial,P,N,86641,77729,0.1147
+245,SW,AR,FSM,Fort Smith,Fort Smith Regional,P,N,85726,83920,0.0215
+246,EA,PA,ERI,Erie,Erie International/Tom Ridge Field,P,N,85631,87647,-0.023
+247,SW,TX,ABI,Abilene,Abilene Regional,P,N,85085,84809,0.0033
+248,WP,HI,MKK,Kaunakakai,Molokai,P,N,84139,92560,-0.091
+249,AL,AK,SIT,Sitka,Sitka Rocky Gutierrez,P,N,83598,83404,0.0023
+250,AL,AK,ADQ,Kodiak,Kodiak,P,N,83577,79682,0.0489
+251,EA,VA,LYH,Timberlake,Lynchburg Regional/Preston Glenn Field,P,N,82489,75465,0.0931
+252,WP,AZ,NYL,Yuma,Yuma MCAS/Yuma International,P,N,79564,74742,0.0645
+253,NM,ID,LWS,Lewiston,Lewiston-Nez Perce County,P,N,76729,72724,0.0551
+254,SW,TX,CLL,College Station,Easterwood Field,P,N,73430,78907,-0.0694
+255,NM,WA,YKM,Yakima,Yakima Air Terminal/McAllister Field,P,N,71547,70993,0.0078
+256,WP,AS,PPG,Pago Pago,Pago Pago International,P,N,71401,65439,0.0911
+257,WP,AZ,FLG,Flagstaff,Flagstaff Pulliam,P,N,70710,64578,0.095
+258,GL,ND,ISN,Williston,Sloulin Field International,P,N,69802,68829,0.0141
+259,CE,KS,MHK,Manhattan,Manhattan Regional,P,N,68791,63761,0.0789
+260,AL,AK,OTZ,Kotzebue,Ralph Wien Memorial,P,N,67951,64481,0.0538
+261,CE,NE,GRI,Grand Island,Central Nebraska Regional,P,N,66842,68879,-0.0296
+262,WP,CA,ACV,Arcata,California Redwood Coast-Humboldt County,P,N,65932,69732,-0.0545
+263,AL,AK,OME,Nome,Nome,P,N,61651,60655,0.0164
+264,NM,WA,EAT,East Wenatchee,Pangborn Memorial,P,N,60335,60068,0.0044
+265,NM,WA,PUW,Pullman,Pullman/Moscow Regional,P,N,59246,61833,-0.0418
+266,SW,TX,SJT,San Angelo,San Angelo Regional/Mathis Field,P,N,59206,60277,-0.0178
+267,SW,TX,ACT,Waco,Waco Regional,P,N,58888,64356,-0.085
+268,EA,MD,SBY,Salisbury,Salisbury-Ocean City Wicomico Regional,P,N,57421,58695,-0.0217
+270,SW,NM,ROW,Roswell,Roswell International Air Center,P,N,55211,44378,0.2441
+271,NE,MA,ORH,Worcester,Worcester Regional,P,N,53931,57800,-0.0669
+272,SO,NC,PGV,Greenville,Pitt-Greenville,P,N,51966,47457,0.095
+273,SW,OK,LAW,Lawton,Lawton-Fort Sill Regional,P,N,50939,51088,-0.0029
+274,GL,MI,SAW,Gwinn,Sawyer International,P,N,50938,45462,0.1205
+275,SW,LA,LCH,Lake Charles,Lake Charles Regional,P,N,50899,53576,-0.05
+276,SO,PR,VQS,Vieques,Antonio Rivera Rodriguez,P,N,50510,63104,-0.1996
+277,SO,GA,CSG,Columbus,Columbus,P,N,49773,44813,0.1107
+278,NE,MA,MVY,Vineyard Haven,Martha's Vineyard,P,N,49767,54084,-0.0798
+279,NM,WA,ALW,Walla Walla,Walla Walla Regional,P,N,49702,47439,0.0477
+280,SW,TX,TYR,Tyler,Tyler Pounds Regional,P,N,49653,52494,-0.0541
+282,SO,AL,DHN,Dothan,Dothan Regional,P,N,47304,49411,-0.0426
+283,AL,AK,HOM,Homer,Homer,P,N,46322,44117,0.05
+284,AL,AK,BRW,Barrow,Wiley Post-Will Rogers Memorial,P,N,45958,45300,0.0145
+285,NM,ID,TWF,Twin Falls,Joslin Field - Magic Valley Regional,P,N,45736,38869,0.1767
+286,SO,GA,VLD,Valdosta,Valdosta Regional,P,N,43738,40275,0.086
+288,WP,CA,RDD,Redding,Redding Municipal,P,N,42361,43414,-0.0243
+289,SO,SC,FLO,Florence,Florence Regional,P,N,42058,45300,-0.0716
+290,AL,AK,SCC,Deadhorse,Deadhorse,P,N,41849,51205,-0.1827
+291,CE,IA,SUX,Sioux City,Sioux Gateway/Col Bud Day Field,P,N,41787,36413,0.1476
+292,SO,MS,GTR,Columbus,Golden Triangle Regional,P,N,41632,40823,0.0198
+293,CE,IA,DBQ,Dubuque,Dubuque Regional,P,N,40324,37954,0.0624
+294,NM,ID,PIH,Arbon Valley,Pocatello Regional,P,N,40188,34462,0.1662
+295,NM,WY,COD,Cody,Yellowstone Regional,P,N,39578,40340,-0.0189
+296,SW,TX,SPS,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,P,N,38773,40165,-0.0347
+297,WP,HI,LNY,Lanai City,Lanai,P,N,37993,43275,-0.1221
+298,SO,GA,ABY,Albany,Southwest Georgia Regional,P,N,37920,34226,0.1079
+299,GL,OH,YNG,Youngstown,Youngstown-Warren Regional,P,N,36455,53633,-0.3203
+300,SO,GA,BQK,Brunswick,Brunswick Golden Isles,P,N,36433,36054,0.0105
+302,CE,MO,JLN,Joplin,Joplin Regional,P,N,35498,27930,0.271
+303,WP,MP,TNI,Tinian (Municipality),Tinian International,P,N,34910,38452,-0.0921
+304,AL,AK,AKN,King Salmon,King Salmon,P,N,34800,36717,-0.0522
+305,SW,AR,TXK,Texarkana,Texarkana Regional-Webb Field,P,N,34101,33565,0.016
+306,EA,NY,BGM,Binghamton,Greater Binghamton/Edwin A Link Field,P,N,33425,68415,-0.5114
+308,GL,SD,PIR,Pierre,Pierre Regional,P,N,32822,8246,2.9804
+309,SO,PR,RVR,Ceiba,Jose Aponte De La Torre,P,N,32299,43005,-0.2489
+310,NM,CO,GUC,Gunnison,Gunnison-Crested Butte Regional,P,N,32250,34979,-0.078
+311,GL,OH,LUK,Cincinnati,Cincinnati Municipal Airport Lunken Field,P,N,30681,25706,0.1935
+312,AL,AK,DUT,Unalaska,Unalaska,P,N,30080,31055,-0.0314
+313,NE,MA,HYA,Hyannis,Barnstable Municipal-Boardman/Polando Field,P,N,29455,31027,-0.0507
+314,NM,WY,GCC,Gillette,Gillette-Campbell County,P,N,29271,28383,0.0313
+315,GL,MN,BJI,Bemidji,Bemidji Regional,P,N,29038,25510,0.1383
+316,AL,AK,DLG,Dillingham,Dillingham,P,N,28895,33616,-0.1404
+317,NE,CT,HVN,New Haven,Tweed-New Haven,P,N,28669,27911,0.0272
+318,NM,MT,BTM,Butte,Bert Mooney,P,N,27703,25890,0.07
+319,GL,SD,ABR,Aberdeen,Aberdeen Regional,P,N,27635,26529,0.0417
+320,SW,OK,SWO,Stillwater,Stillwater Regional,P,N,27370,10362,1.6414
+321,CE,IA,ALO,Waterloo,Waterloo Regional,P,N,27358,27069,0.0107
+323,CE,KS,GCK,Garden City,Garden City Regional,P,N,26687,26825,-0.0051
+324,SO,PR,CPX,Culebra,Benjamin Rivera Noriega,P,N,26556,31141,-0.1472
+325,SO,SC,HXD,Hilton Head Island,Hilton Head,P,N,26220,30956,-0.153
+326,EA,MD,HGR,Hagerstown,Hagerstown Regional-Richard A Henson Field,P,N,25584,27274,-0.062
+327,EA,WV,CKB,Clarksburg,North Central West Virginia,P,N,25105,26025,-0.0354
+328,GL,MI,CMX,Hancock,Houghton County Memorial,P,N,24843,25439,-0.0234
+329,WP,CA,SMX,Santa Maria,Santa Maria Public/Capt G Allan Hancock Field,P,N,24527,40120,-0.3887
+330,GL,MI,PLN,Pellston,Pellston Regional Airport of Emmet County,P,N,23961,25497,-0.0602
+331,SO,MS,MEI,Meridian,Key Field,P,N,23923,26359,-0.0924
+332,SW,TX,BPT,Beaumont,Jack Brooks Regional,P,N,23767,26518,-0.1037
+334,GL,WI,RHI,Rhinelander,Rhinelander-Oneida County,P,N,23014,20414,0.1274
+335,EA,NY,OGS,Ogdensburg,Ogdensburg International,P,N,22957,10281,1.233
+336,AL,AK,PSG,Petersburg,Petersburg James A Johnson,P,N,22915,21896,0.0465
+337,GL,WI,EAU,Eau Claire,Chippewa Valley Regional,P,N,22822,21304,0.0713
+338,EA,NY,ART,Watertown,Watertown International,P,N,22785,17312,0.3161
+339,GL,MI,CIU,Sault Ste. Marie,Chippewa County International,P,N,22261,20974,0.0614
+341,GL,MN,BRD,Brainerd,Brainerd Lakes Regional,P,N,21383,18328,0.1667
+342,WP,CA,MMH,Mammoth Lakes,Mammoth Yosemite,P,N,21352,21826,-0.0217
+343,WP,AZ,PGA,Page,Page Municipal,P,N,21347,17435,0.2244
+345,WP,MP,GRO,Northern Islands (Municipality),Benjamin Taisacan Manglona International,P,N,21214,19178,0.1062
+346,GL,MN,STC,St. Cloud,St. Cloud Regional,P,N,20918,15615,0.3396
+347,SO,KY,PAH,Paducah,Barkley Regional,P,N,20910,20266,0.0318
+348,AL,AK,LHD,Anchorage,Lake Hood,P,N,20689,23382,-0.1152
+349,NM,UT,OGD,Ogden,Ogden-Hinckley,P,N,20324,15609,0.3021
+350,SO,KY,OWB,Owensboro,Owensboro-Daviess County Regional,P,N,19578,23537,-0.1682
+352,SW,TX,GGG,Longview,East Texas Regional,P,N,19261,22480,-0.1432
+353,GL,ND,DIK,Dickinson,Dickinson - Theodore Roosevelt Regional,P,N,18963,16822,0.1273
+354,SO,PR,SIG,San Juan,Fernando Luis Ribas Dominicci,P,N,18361,24054,-0.2367
+355,EA,PA,IPT,Williamsport,Williamsport Regional,P,N,18323,19320,-0.0516
+356,AL,AK,MRI,Anchorage,Merrill Field,P,N,18298,19144,-0.0442
+357,AL,AK,CDV,Cordova,Merle K (Mudhole) Smith,P,N,18280,18649,-0.0198
+359,NM,WY,RKS,Rock Springs,Rock Springs-Sweetwater County,P,N,18109,16110,0.1241
+360,GL,MI,IMT,Iron Mountain,Ford,P,N,17707,12604,0.4049
+361,NM,WA,BFI,Seattle,Boeing Field/King County International,P,N,17294,17795,-0.0282
+362,WP,NV,EKO,Elko,Elko Regional,P,N,17115,14893,0.1492
+363,NE,RI,WST,Westerly,Westerly State,P,N,17021,17218,-0.0114
+364,GL,MI,MKG,Muskegon,Muskegon County,P,N,17007,18165,-0.0637
+365,GL,MI,ESC,Escanaba,Delta County,P,N,16781,16822,-0.0024
+366,SW,NM,HOB,Hobbs,Lea County Regional,P,N,16216,14707,0.1026
+367,AL,AK,UNK,Unalakleet,Unalakleet,P,N,16111,16948,-0.0494
+368,NE,ME,RKD,Rockland,Knox County Regional,P,N,16092,16206,-0.007
+369,NM,WY,LAR,Laramie,Laramie Regional,P,N,16072,15957,0.0072
+370,NM,UT,CDC,Cedar City,Cedar City Regional,P,N,15588,14413,0.0815
+371,NE,RI,BID,Block Island,Block Island State,P,N,15497,17225,-0.1003
+372,GL,MN,HIB,Hibbing,Range Regional,P,N,15377,12654,0.2152
+373,GL,MN,INL,International Falls,Falls International-Einarson Field,P,N,15278,13831,0.1046
+375,WP,CA,CCR,Concord,Buchanan Field,P,N,14517,67,215.6716
+377,CE,KS,SLN,Salina,Salina Regional,P,N,13850,3967,2.4913
+378,AL,AK,WRG,Wrangell,Wrangell,P,N,13160,12569,0.047
+379,NM,OR,OTH,North Bend,Southwest Oregon Regional,P,N,12971,14719,-0.1188
+382,AL,AK,ANI,Aniak,Aniak,P,N,12735,13688,-0.0696
+383,NE,ME,PQI,Presque Isle,Northern Maine Regional Airport at Presque Isle,P,N,12735,12526,0.0167
+384,GL,OH,BKL,Cleveland,Burke Lakefront,P,N,12024,9917,0.2125
+385,SO,MS,PIB,Moselle,Hattiesburg-Laurel Regional,P,N,11726,12367,-0.0518
+386,AL,AK,KSM,St. Mary's (ANV/ANVSA),St Mary's,P,N,11528,12851,-0.1029
+387,SO,MS,TUP,Tupelo,Tupelo Regional,P,N,11441,7539,0.5176
+388,SO,FL,SGJ,Saint Augustine,Northeast Florida Regional,P,N,11431,28462,-0.5984
+390,AL,AK,VDZ,Valdez,Valdez Pioneer Field,P,N,11321,12631,-0.1037
+391,GL,MI,APN,Alpena,Alpena County Regional,P,N,11317,10031,0.1282
+392,GL,SD,ATY,Watertown,Watertown Regional,P,N,11160,2117,4.2716
+394,GL,IL,MWA,Marion,Veterans Airport of Southern Illinois,P,N,11029,10044,0.0981
+395,NE,MA,BED,Bedford,Laurence G Hanscom Field,P,N,10956,15105,-0.2747
+396,AL,AK,AKW,Klawock,Klawock,P,N,10923,10628,0.0278
+397,GL,ND,JMS,Jamestown,Jamestown Regional,P,N,10917,11123,-0.0185
+398,AL,AK,YAK,Yakutat,Yakutat,P,N,10886,10756,0.0121
+399,NM,WY,SHR,Sheridan,Sheridan County,P,N,10876,9211,0.1808
+401,NE,NH,LEB,Lebanon,Lebanon Municipal,P,N,10383,10245,0.0135
+402,NM,WA,FHR,Friday Harbor,Friday Harbor,P,N,10359,12831,-0.1927
+403,NM,UT,CNY,Moab,Canyonlands Field,P,N,10032,7837,0.2801
+411,NM,MT,WYS,West Yellowstone,Yellowstone,P,N,8786,8525,0.0306
+,,,"=SUBTOTAL(3,D136:D390)",,Nonhub Primary,,,,,"=SUBTOTAL(9,K390:K390)"
+404,AL,AK,GAL,Galena,Edward G Pitka Sr,CS,None,9664,10532,-0.0824
+405,NE,ME,BHB,Bar Harbor,Hancock County-Bar Harbor,CS,None,9509,10094,-0.058
+406,CE,KS,HYS,Hays,Hays Regional,CS,None,9460,8265,0.1446
+407,SO,FL,VRB,Vero Beach,Vero Beach Regional,CS,None,9110,4581,0.9886
+408,CE,MO,TBN,Fort Leonard Wood (U.S. Army),Waynesville-St Robert Regional Forney Field,CS,None,9078,8108,0.1196
+409,AL,AK,GST,Gustavus,Gustavus,CS,None,9061,11438,-0.2078
+410,NE,MA,PVC,Provincetown,Provincetown Municipal,CS,None,8900,10074,-0.1165
+413,NM,MT,SDY,Sidney,Sidney-Richland Regional,CS,None,8429,8065,0.0451
+415,GL,IL,DEC,Decatur,Decatur,CS,None,8324,8453,-0.0153
+416,WP,CA,MCE,Merced,Merced Regional/Macready Field,CS,None,8318,9426,-0.1175
+417,NM,WY,RIW,Riverton,Riverton Regional,CS,None,8277,4228,0.9577
+419,AL,AK,ENM,Emmonak,Emmonak,CS,None,8004,8072,-0.0084
+421,NM,CO,CEZ,Cortez,Cortez Municipal,CS,None,7890,4564,0.7287
+422,AL,AK,HNS,Haines,Haines,CS,None,7864,8936,-0.12
+423,GL,ND,DVL,Devils Lake,Devils Lake Regional,CS,None,7767,8209,-0.0538
+424,CE,IA,BRL,Burlington,Southeast Iowa Regional,CS,None,7759,7086,0.095
+425,GL,IL,UIN,Quincy,Quincy Regional-Baldwin Field,CS,None,7709,7847,-0.0176
+426,CE,IA,MCW,Mason City,Mason City Municipal,CS,None,7502,7734,-0.03
+427,AL,AK,SGY,Skagway,Skagway,CS,None,7380,8714,-0.1531
+428,AL,AK,CDB,Cold Bay,Cold Bay,CS,None,7338,7403,-0.0088
+431,NM,WA,ORS,Eastsound,Orcas Island,CS,None,7223,7826,-0.0771
+432,CE,IA,FOD,Fort Dodge,Fort Dodge Regional,CS,None,7140,7271,-0.018
+433,AL,AK,HNH,Hoonah,Hoonah,CS,None,6820,8809,-0.2258
+434,WP,CA,CEC,Crescent City,Jack McNamara Field,CS,None,6802,8667,-0.2152
+435,AL,AK,FYU,Fort Yukon,Fort Yukon,CS,None,6799,6552,0.0377
+436,NM,UT,VEL,Vernal,Vernal Regional,CS,None,6615,4007,0.6509
+437,EA,VA,SHD,Weyers Cave,Shenandoah Valley Regional,CS,None,6605,5442,0.2137
+438,NM,CO,ALS,Alamosa,San Luis Valley Regional/Bergman Field,CS,None,6494,3863,0.6811
+439,SO,AL,MSL,Muscle Shoals,Northwest Alabama Regional,CS,None,6490,5295,0.2257
+440,AL,AK,CXF,Coldfoot,Coldfoot,CS,None,6345,7203,-0.1191
+441,CE,MO,CGI,Scott City,Cape Girardeau Regional,CS,None,6321,5532,0.1426
+442,SO,PR,MAZ,Mayaguez,Eugenio Maria De Hostos,CS,None,6255,5344,0.1705
+444,WP,CA,IPL,Imperial,Imperial County,CS,None,6136,4136,0.4836
+445,AL,AK,AQH,Quinhagak,Quinhagak,CS,None,6101,7012,-0.1299
+446,NE,MA,EWB,New Bedford,New Bedford Regional,CS,None,5998,7022,-0.1458
+447,WP,CA,CRQ,Carlsbad,McClellan-Palomar,CS,None,5931,180,31.95
+448,WP,AZ,PRC,Prescott,Ernest A Love Field,CS,None,5888,3451,0.7062
+449,AL,AK,ILI,Iliamna,Iliamna,CS,None,5752,5835,-0.0142
+450,GL,MN,TVF,Thief River Falls,Thief River Falls Regional,CS,None,5735,3524,0.6274
+451,NM,OR,PDT,Pendleton,Eastern Oregon Regional at Pendleton,CS,None,5701,2582,1.208
+452,EA,WV,MGW,Morgantown,Morgantown Municipal-Walter L Bill Hart Field,CS,None,5698,7851,-0.2742
+453,SW,NM,SVC,Silver City,Grant County,CS,None,5686,5442,0.0448
+455,SO,MS,GLH,Greenville,Greenville Mid-Delta,CS,None,5646,4986,0.1324
+456,WP,HI,LUP,Kalaupapa,Kalaupapa,CS,None,5598,6119,-0.0851
+457,CE,NE,CDR,Chadron,Chadron Municipal,CS,None,5532,4474,0.2365
+458,NM,OR,LMT,Klamath Falls,Crater Lake-Klamath Regional,CS,None,5529,2827,0.9558
+459,EA,WV,LWB,Lewisburg,Greenbrier Valley,CS,None,5495,4965,0.1067
+460,NE,ME,AUG,Augusta,Augusta State,CS,None,5435,5128,0.0599
+461,GL,MI,IWD,Ironwood,Gogebic-Iron County,CS,None,5348,5069,0.055
+462,AL,AK,WLK,Selawik,Selawik,CS,None,5260,5011,0.0497
+463,AL,AK,VAK,Chevak,Chevak,CS,None,5243,5654,-0.0727
+464,AL,AK,IIK,Kipnuk,Kipnuk,CS,None,5176,5747,-0.0994
+465,CE,MO,IRK,Kirksville,Kirksville Regional,CS,None,5152,4733,0.0885
+466,SW,NM,CVN,Clovis,Clovis Municipal,CS,None,5053,4854,0.041
+467,NE,VT,RUT,Rutland,Rutland - Southern Vermont Regional,CS,None,5024,5146,-0.0237
+468,AL,AK,HPB,Hooper Bay,Hooper Bay,CS,None,5022,5635,-0.1088
+469,EA,NY,SLK,Saranac Lake,Adirondack Regional,CS,None,4977,4732,0.0518
+470,AL,AK,PHO,Point Hope,Point Hope,CS,None,4964,5338,-0.0701
+472,WP,AZ,SOW,Show Low,Show Low Regional,CS,None,4917,4139,0.188
+473,CE,KS,FOE,Topeka,Topeka Regional,CS,None,4901,6051,-0.1901
+475,EA,NY,MSS,Massena,Massena International-Richards Field,CS,None,4852,5311,-0.0864
+476,SW,AR,JBR,Jonesboro,Jonesboro Municipal,CS,None,4785,4593,0.0418
+477,AL,AK,OOK,Wade Hampton (Census Area),Toksook Bay,CS,None,4777,5316,-0.1014
+478,AL,AK,WTK,Noatak,Noatak,CS,None,4716,4681,0.0075
+479,CE,NE,EAR,Kearney,Kearney Regional,CS,None,4607,4180,0.1022
+480,EA,PA,LNS,Lititz,Lancaster,CS,None,4577,4230,0.082
+481,AL,AK,BVK,Buckland,Buckland,CS,None,4456,4198,0.0615
+482,AL,AK,D76,Noorvik,Robert /Bob/ Curtis Memorial,CS,None,4444,4004,0.1099
+483,WP,HI,MUE,Kamuela,Waimea-Kohala,CS,None,4407,4445,-0.0085
+484,SW,AR,HRO,Harrison,Boone County,CS,None,4371,1178,2.7105
+486,AL,AK,SOV,Seldovia,Seldovia,CS,None,4206,4133,0.0177
+487,AL,AK,SVA,Savoonga,Savoonga,CS,None,4188,4197,-0.0021
+488,EA,WV,PKB,Parkersburg,Mid-Ohio Valley Regional,CS,None,4155,4170,-0.0036
+490,AL,AK,SCM,Scammon Bay,Scammon Bay,CS,None,4093,4513,-0.0931
+491,AL,AK,CFK,Chefornak,Chefornak,CS,None,4027,4456,-0.0963
+492,SO,TN,MKL,Jackson,McKellar-Sipes Regional,CS,None,4007,3661,0.0945
+493,AL,AK,SDP,Sand Point,Sand Point,CS,None,3998,4146,-0.0357
+494,SW,NM,CNM,Carlsbad,Cavern City Air Terminal,CS,None,3972,3057,0.2993
+495,CE,NE,LBF,North Platte,North Platte Regional Airport Lee Bird Field,CS,None,3911,4075,-0.0402
+497,EA,PA,BFD,Bradford,Bradford Regional,CS,None,3897,2623,0.4857
+498,EA,PA,DUJ,Brookville,Dubois Regional,CS,None,3888,2934,0.3252
+500,AL,AK,AKP,Anaktuvuk Pass,Anaktuvuk Pass,CS,None,3856,3522,0.0948
+501,NM,CO,PUB,Pueblo,Pueblo Memorial,CS,None,3833,2377,0.6125
+502,EA,PA,AOO,Altoona,Altoona-Blair County,CS,None,3806,1865,1.0408
+503,NM,MT,OLF,Wolf Point,L M Clayton,CS,None,3804,3439,0.1061
+505,AL,AK,AWI,Barrow (County),Wainwright,CS,None,3756,3932,-0.0448
+506,CE,NE,BFF,Scottsbluff,Western Nebraska Regional/William B Heilig Field,CS,None,3709,4262,-0.1298
+509,AL,AK,A61,Tuntutuliak,Tuntutuliak,CS,None,3614,3875,-0.0674
+510,AL,AK,2A9,Kotlik,Kotlik,CS,None,3612,3531,0.0229
+511,EA,PA,JST,Johnstown,John Murtha Johnstown-Cambria County,CS,None,3594,4193,-0.1429
+512,AL,AK,DUY,Kongiganak,Kongiganak,CS,None,3589,3978,-0.0978
+513,NM,MT,GGW,Glasgow,Wokal Field/Glasgow International,CS,None,3517,3251,0.0818
+516,AL,AK,GAM,Gambell,Gambell,CS,None,3493,3860,-0.0951
+517,AL,AK,IAN,Kiana,Bob Baker Memorial,CS,None,3485,3127,0.1145
+519,AL,AK,KVL,Kivalina,Kivalina,CS,None,3454,3421,0.0096
+520,AL,AK,SHH,Shishmaref,Shishmaref,CS,None,3360,3445,-0.0247
+521,AL,AK,0AK,Pilot Station,Pilot Station,CS,None,3353,4127,-0.1875
+522,AL,AK,GGV,Kwigillingok,Kwigillingok,CS,None,3341,3870,-0.1367
+524,AL,AK,MOU,Mountain Village,Mountain Village,CS,None,3263,4159,-0.2154
+525,SO,GA,PDK,Atlanta,Dekalb-Peachtree,CS,None,3259,472,5.9047
+526,AL,AK,BTI,Kaktovik,Barter Island,CS,None,3212,3136,0.0242
+528,AL,AK,16A,Nunapitchuk,Nunapitchuk,CS,None,3096,3628,-0.1466
+529,AL,AK,KAE,Kake,Kake,CS,None,3087,3227,-0.0434
+530,AL,AK,Z09,Kasigluk,Kasigluk,CS,None,3049,4190,-0.2723
+533,WP,HI,HNM,Hana,Hana,CS,None,2967,2211,0.3419
+534,AL,AK,KWT,Kwethluk,Kwethluk,CS,None,2948,3706,-0.2045
+536,AL,AK,KLG,Kalskag,Kalskag,CS,None,2915,3142,-0.0722
+537,AL,AK,HLA,Huslia,Huslia,CS,None,2897,2728,0.062
+538,AL,AK,EEK,Eek,Eek,CS,None,2839,3406,-0.1665
+539,AL,AK,2C7,Shaktoolik,Shaktoolik,CS,None,2779,2299,0.2088
+540,SW,NM,FMN,Farmington,Four Corners Regional,CS,None,2739,1359,1.0155
+541,AL,AK,AUK,Alakanuk,Alakanuk,CS,None,2733,2854,-0.0424
+542,NM,MT,HVR,Havre,Havre City-County,CS,None,2716,2323,0.1692
+543,CE,NE,MCK,McCook,McCook Ben Nelson Regional,CS,None,2710,1619,0.6739
+544,AL,AK,WBB,Stebbins,Stebbins,CS,None,2687,2571,0.0451
+545,SW,AR,HOT,Hot Springs,Memorial Field,CS,None,2654,1603,0.6556
+546,AL,AK,2A3,Larsen Bay,Larsen Bay,CS,None,2651,2649,0.0008
+547,AL,AK,SMK,St. Michael (ANV/ANVSA),St Michael,CS,None,2641,2464,0.0718
+548,AL,AK,TAL,Tanana,Ralph M Calhoun Memorial,CS,None,2633,2952,-0.1081
+549,AL,AK,EWU,Newtok,Newtok,CS,None,2602,2936,-0.1138
+550,AL,AK,SNP,Saint Paul Island,St Paul Island,CS,None,2595,2838,-0.0856
+551,AL,AK,6R7,Old Harbor,Old Harbor,CS,None,2586,1285,1.0125
+553,AL,AK,MCG,McGrath,McGrath,CS,None,2566,3236,-0.207
+554,AL,AK,Z13,Akiachak,Akiachak,CS,None,2556,3045,-0.1606
+555,AL,AK,MDM,Marshall,Marshall Don Hunter Sr,CS,None,2505,3194,-0.2157
+,,,"=SUBTOTAL(3,D391:D516)",,"Nonhub Primary, Commercial Service ",,,,,
+,,,"=SUBTOTAL(3,D2:D516)",,Total Commercial Service,,,,,
