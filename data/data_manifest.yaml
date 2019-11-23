@@ -1,5 +1,18 @@
 # Just an informal way of noting where you got data from
 
+### airport data
+
+stashed/originals/airports.xls:
+  url: 'https://www.faa.gov/airports/airport_safety/airportdata_5010/menu/nfdcfacilitiesexport.cfm?Region=&District=&State=&County=&City=&Use=PU&Certification='
+  landing_page: https://www.faa.gov/airports/airport_safety/airportdata_5010/menu/
+
+stashed/originals/runways.xls:
+  url: 'https://www.faa.gov/airports/airport_safety/airportdata_5010/menu/nfdcrunwaysexport.cfm?Region=&District=&State=&County=&City=&Use=PU&Certification='
+  landing_page: https://www.faa.gov/airports/airport_safety/airportdata_5010/menu/
+
+
+## boarding data
+
 stashed/originals/boardings_2018.xlsx:
   url: https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/media/cy18-commercial-service-enplanements.xlsx
   landing_page: https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/
