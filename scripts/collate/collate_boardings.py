@@ -55,8 +55,19 @@ def process_file(srcpath):
         for row in records[1:]: # skip header row
             d = {h: cleanspace(row[i]) for i, h in enumerate(headers)}
             d['year'] = year
+
+            # for special cases, in which the filename denotes the type of airports
+            #  and there is no service_level field
             if '_primary' in fname and not d.get('service_level'):
                 d['service_level'] = 'P'
+
+            # for some older XLS files, integer values in rank, boardings, and previous_year_boardings
+            #   were converted to floats during the convert stage
+            for _k in ('rank', 'boardings', 'previous_year_boardings'):
+                val = d.get(_k)
+                if val:
+                    d[_k] = int(float(val))
+
             data.append(d)
 
     return data
@@ -69,13 +80,16 @@ def main():
     outs = csv.DictWriter(destfile, fieldnames=OUTPUT_HEADERS, restval=None, extrasaction='ignore')
     outs.writeheader()
 
+    rcount = 0
     for srcpath in sorted(SRC_DIR.glob('*.csv')):
         stderr.write(f"Opening {srcpath}\n")
         data = process_file(srcpath)
+        stderr.write(f"\tProcessed {len(data)} rows\n")
+        rcount += len(data)
+
         outs.writerows(data)
-        stderr.write(f"\tWrote {len(data)} rows to {DEST_PATH}\n")
 
     destfile.close()
-
+    stderr.write(f"{rcount} rows written to {DEST_PATH}\n")
 if __name__ == '__main__':
     main()

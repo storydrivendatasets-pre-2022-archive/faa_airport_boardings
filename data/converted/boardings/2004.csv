@@ -1,0 +1,1939 @@
+Rank,ST,Locid,City,Airport Name,Service Level,Hub Type,CY 2004 Boardings,CY 2003 Boardings,% Change
+62.0,AK,ANC,Anchorage,Ted Stevens Anchorage International,P,M,2439969.0,2246683.0,0.086
+126.0,AK,FAI,Fairbanks,Fairbanks International,P,S,420394.0,388841.0,0.0811
+135.0,AK,JNU,Juneau,Juneau International,P,S,377505.0,366200.0,0.0309
+196.0,AK,BET,Bethel,Bethel,P,N,140035.0,137782.0,0.0164
+210.0,AK,KTN,Ketchikan,Ketchikan International,P,N,107141.0,103313.0,0.0371
+218.0,AK,ENA,Kenai,Kenai Municipal,P,N,85439.0,84426.0,0.012
+224.0,AK,SIT,Sitka,Sitka Rocky Gutierrez,P,N,76150.0,69109.0,0.1019
+241.0,AK,ADQ,Kodiak,Kodiak,P,N,66309.0,63284.0,0.0478
+243.0,AK,OME,Nome,Nome,P,N,63725.0,57981.0,0.0991
+251.0,AK,OTZ,Kotzebue,Ralph Wien Memorial,P,N,58999.0,56458.0,0.045
+256.0,AK,5KE,Ketchikan,Ketchikan Harbor,GA,None,49887.0,42193.0,0.1824
+265.0,AK,DLG,Dillingham,Dillingham,P,N,46311.0,48168.0,-0.0386
+284.0,AK,AKN,King Salmon,King Salmon,P,N,39030.0,37102.0,0.052
+287.0,AK,HOM,Homer,Homer,P,N,38744.0,37990.0,0.0198
+293.0,AK,BRW,Barrow,Wiley Post-Will Rogers Memorial,P,N,35178.0,35767.0,-0.0165
+306.0,AK,DUT,Unalaska,Unalaska,P,N,29733.0,28843.0,0.0309
+317.0,AK,MRI,Anchorage,Merrill Field,P,N,26504.0,11211.0,1.3641
+330.0,AK,ANI,Aniak,Aniak,P,N,20660.0,18065.0,0.1436
+336.0,AK,CDV,Cordova,Merle K (Mudhole) Smith,P,N,19454.0,18275.0,0.0645
+343.0,AK,PSG,Petersburg,Petersburg James A Johnson,P,N,18022.0,17501.0,0.0298
+344.0,AK,VDZ,Valdez,Valdez Pioneer Field,P,N,17613.0,16599.0,0.0611
+357.0,AK,SCC,Deadhorse,Deadhorse,P,N,14507.0,14033.0,0.0338
+365.0,AK,LHD,Anchorage,Lake Hood,P,N,13040.0,23831.0,-0.4528
+368.0,AK,GAL,Galena,Edward G. Pitka Sr,P,N,12667.0,11133.0,0.1378
+372.0,AK,YAK,Yakutat,Yakutat,P,N,12400.0,11330.0,0.0944
+378.0,AK,GST,Gustavus,Gustavus,P,N,11673.0,7105.0,0.6429
+390.0,AK,HNH,Hoonah,Hoonah,P,N,10832.0,8715.0,0.2429
+397.0,AK,WRG,Wrangell,Wrangell,P,N,10106.0,9252.0,0.0923
+400.0,AK,SOV,Seldovia,Seldovia,CS,None,9968.0,10405.0,-0.042
+401.0,AK,KSM,St Mary's,St Mary's,CS,None,9931.0,9281.0,0.07
+404.0,AK,UNK,Unalakleet,Unalakleet,CS,None,9600.0,10084.0,-0.048
+405.0,AK,FYU,Fort Yukon,Fort Yukon,CS,None,9523.0,8876.0,0.0729
+406.0,AK,SGY,Skagway,Skagway,CS,None,9520.0,9396.0,0.0132
+412.0,AK,CDB,Cold Bay,Cold Bay,CS,None,8800.0,9035.0,-0.026
+415.0,AK,MBA,Manokotak,Manokotak,CS,None,8559.0,12086.0,-0.2918
+416.0,AK,ILI,Iliamna,Iliamna,CS,None,8531.0,7668.0,0.1125
+424.0,AK,HNS,Haines,Haines,CS,None,7940.0,7712.0,0.0296
+432.0,AK,AED,Red Dog Mine,Red Dog,GA,None,7155.0,9438.0,-0.2419
+435.0,AK,KDK,Kodiak,Kodiak Municipal,CS,None,6963.0,9103.0,-0.2351
+437.0,AK,ENM,Emmonak,Emmonak,CS,None,6794.0,5958.0,0.1403
+445.0,AK,HPB,Hooper Bay,Hooper Bay,CS,None,6213.0,5697.0,0.0906
+448.0,AK,IIK,Kipnuk,Kipnuk,CS,None,6122.0,5611.0,0.0911
+450.0,AK,WLK,Selawik,Selawik,CS,None,6035.0,5858.0,0.0302
+452.0,AK,AQH,Quinhagak,Quinhagak,CS,None,5994.0,4772.0,0.2561
+455.0,AK,MOU,Mountain Village,Mountain Village,CS,None,5646.0,5573.0,0.0131
+457.0,AK,VAK,Chevak,Chevak,CS,None,5330.0,4993.0,0.0675
+458.0,AK,D76,Noorvik,Robert /Bob/ Curtis Memorial,CS,None,5310.0,5047.0,0.0521
+463.0,AK,OOK,Toksook Bay,Toksook Bay,CS,None,5173.0,4550.0,0.1369
+464.0,AK,MCG,McGrath,McGrath,CS,None,5172.0,4582.0,0.1288
+466.0,AK,MTM,Metlakatla,Metlakatla,CS,None,5018.0,7520.0,-0.3327
+467.0,AK,WTK,Noatak,Noatak,CS,None,5001.0,4459.0,0.1216
+472.0,AK,SVA,Savoonga,Savoonga,CS,None,4731.0,3907.0,0.2109
+473.0,AK,GAM,Gambell,Gambell,CS,None,4723.0,3743.0,0.2618
+475.0,AK,KLG,Kalskag,Kalskag,CS,None,4662.0,4568.0,0.0206
+476.0,AK,SHH,Shishmaref,Shishmaref,CS,None,4603.0,4250.0,0.0831
+478.0,AK,5Z9,Katmai National Park,Lake Brooks,GA,None,4529.0,1220.0,2.7123
+480.0,AK,AQT,Nuiqsut,Nuiqsut,CS,None,4408.0,3701.0,0.191
+481.0,AK,PHO,Point Hope,Point Hope,CS,None,4407.0,4230.0,0.0418
+485.0,AK,2A9,Kotlik,Kotlik,CS,None,4106.0,4041.0,0.0161
+486.0,AK,SDP,Sand Point,Sand Point,CS,None,4055.0,3978.0,0.0194
+487.0,AK,0AK,Pilot Station,Pilot Station,CS,None,4033.0,4284.0,-0.0586
+488.0,AK,BVK,Buckland,Buckland,CS,None,4029.0,4030.0,-0.0002
+489.0,AK,AUK,Alakanuk,Alakanuk,CS,None,3955.0,3791.0,0.0433
+490.0,AK,CGA,Craig,Craig,CS,None,3931.0,3441.0,0.1424
+491.0,AK,A61,Tuntutuliak,Tuntutuliak,CS,None,3819.0,3926.0,-0.0273
+492.0,AK,SCM,Scammon Bay,Scammon Bay,CS,None,3801.0,3696.0,0.0284
+493.0,AK,NUL,Nulato,Nulato,CS,None,3800.0,3658.0,0.0388
+497.0,AK,AWI,Wainwright,Wainwright,CS,None,3631.0,3700.0,-0.0186
+498.0,AK,DUY,Kongiganak,Kongiganak,CS,None,3630.0,3028.0,0.1988
+501.0,AK,KVL,Kivalina,Kivalina,CS,None,3591.0,3736.0,-0.0388
+502.0,AK,BTI,Kaktovik,Barter Island LRRS,CS,None,3590.0,3391.0,0.0587
+503.0,AK,IAN,Kiana,Bob Baker Memorial,CS,None,3570.0,3844.0,-0.0713
+505.0,AK,TYE,Tyonek,Tyonek,GA,None,3520.0,3591.0,-0.0198
+507.0,AK,BLG,Beluga,Beluga,GA,None,3450.0,2662.0,0.296
+508.0,AK,TAL,Tanana,Ralph M Calhoun Memorial,CS,None,3438.0,3507.0,-0.0197
+509.0,AK,PGM,Port Graham,Port Graham,CS,None,3437.0,3566.0,-0.0362
+510.0,AK,GGV,Kwigillingok,Kwigillingok,CS,None,3412.0,2841.0,0.201
+511.0,AK,KEB,English Bay,English Bay,CS,None,3397.0,3369.0,0.0083
+515.0,AK,HLA,Huslia,Huslia,CS,None,3333.0,3430.0,-0.0283
+516.0,AK,MDM,Marshall,Marshall Don Hunter Sr,CS,None,3298.0,3090.0,0.0673
+518.0,AK,CFK,Chefornak,Chefornak,CS,None,3175.0,2850.0,0.114
+521.0,AK,SNP,Saint Paul Island,St Paul Island,CS,None,3049.0,2617.0,0.1651
+525.0,AK,TLT,Tuluksak,Tuluksak,CS,None,2948.0,2760.0,0.0681
+527.0,AK,Z09,Kasigluk,Kasigluk,CS,None,2920.0,2845.0,0.0264
+529.0,AK,KVC,King Cove,King Cove,CS,None,2908.0,2953.0,-0.0152
+531.0,AK,WBB,Stebbins,Stebbins,CS,None,2890.0,2994.0,-0.0347
+532.0,AK,RSH,Russian Mission,Russian Mission,CS,None,2888.0,2999.0,-0.037
+536.0,AK,EEK,Eek,Eek,CS,None,2863.0,2579.0,0.1101
+539.0,AK,AKP,Anaktuvuk Pass,Anaktuvuk Pass,CS,None,2807.0,2738.0,0.0252
+541.0,AK,ATK,Atqasuk,Atqasuk Edward Burnell Sr Memorial,CS,None,2774.0,2521.0,0.1004
+542.0,AK,KTB,Thorne Bay,Thorne Bay,CS,None,2761.0,2118.0,0.3036
+543.0,AK,KKA,Koyuk,Koyuk Alfred Adams,CS,None,2753.0,2610.0,0.0548
+547.0,AK,TOG,Togiak Village,Togiak,CS,None,2683.0,2282.0,0.1757
+548.0,AK,ELI,Elim,Elim,CS,None,2633.0,3127.0,-0.158
+552.0,AK,KAL,Kaltag,Kaltag,CS,None,2578.0,2535.0,0.017
+554.0,AK,16A,Nunapitchuk,Nunapitchuk,CS,None,2550.0,2380.0,0.0714
+555.0,AK,KAE,Kake,Kake,CS,None,2548.0,2902.0,-0.122
+558.0,AK,KWT,Kwethluk,Kwethluk,CS,None,2506.0,2342.0,0.07
+564.0,AK,N93,Golovin,Golovin,GA,None,2409.0,2176.0,0.1071
+565.0,AK,AGN,Angoon,Angoon,GA,None,2408.0,2379.0,0.0122
+567.0,AK,AFM,Ambler,Ambler,GA,None,2330.0,2680.0,-0.1306
+568.0,AK,TPO,Port Alsworth,Port Alsworth,GA,None,2288.0,84.0,26.2381
+569.0,AK,HCA,Holy Cross,Holy Cross,GA,None,2263.0,2005.0,0.1287
+571.0,AK,HRR,Healy,Healy River,GA,None,2259.0,76.0,28.7237
+572.0,AK,VEE,Venetie,Venetie,GA,None,2252.0,2054.0,0.0964
+574.0,AK,KTS,Brevig Mission,Brevig Mission,GA,None,2239.0,1960.0,0.1423
+576.0,AK,SMK,St Michael,St Michael,GA,None,2234.0,2308.0,-0.0321
+577.0,AK,2A3,Larsen Bay,Larsen Bay,GA,None,2224.0,2294.0,-0.0305
+578.0,AK,6A8,Allakaket,Allakaket,GA,None,2200.0,1873.0,0.1746
+580.0,AK,EWU,Newtok,Newtok,GA,None,2154.0,2552.0,-0.156
+581.0,AK,2C7,Shaktoolik,Shaktoolik,GA,None,2149.0,2243.0,-0.0419
+582.0,AK,WMO,White Mountain,White Mountain,GA,None,2125.0,2027.0,0.0483
+583.0,AK,KQA,Akutan,Akutan,GA,None,2123.0,2130.0,-0.0033
+586.0,AK,Z13,Akiachak,Akiachak,GA,None,2103.0,1980.0,0.0621
+588.0,AK,4KA,Tununak,Tununak,GA,None,2085.0,1565.0,0.3323
+590.0,AK,MYU,Mekoryuk,Mekoryuk,GA,None,2074.0,2132.0,-0.0272
+591.0,AK,T44,Kodiak,Trident Basin,GA,None,2069.0,2553.0,-0.1896
+592.0,AK,RBY,Ruby,Ruby,GA,None,2052.0,2116.0,-0.0302
+594.0,AK,5NN,Nondalton,Nondalton,GA,None,2037.0,678.0,2.0044
+596.0,AK,4A2,Atmautluak,Atmautluak,GA,None,2022.0,1829.0,0.1055
+597.0,AK,AKI,Akiak,Akiak,GA,None,2014.0,1834.0,0.0981
+599.0,AK,SHG,Shungnak,Shungnak,GA,None,1989.0,2247.0,-0.1148
+604.0,AK,9K2,Kokhanok,Kokhanok,GA,None,1845.0,1119.0,0.6488
+605.0,AK,ELV,Elfin Cove,Elfin Cove,GA,None,1736.0,286.0,5.0699
+606.0,AK,FBK,Fairbanks/Ft Wainwright,Wainwright AAF,GA,None,1730.0,1343.0,0.2882
+609.0,AK,PIZ,Point Lay,Point Lay LRRS,GA,None,1702.0,1498.0,0.1362
+610.0,AK,IWK,Wales,Wales,GA,None,1697.0,1419.0,0.1959
+612.0,AK,HYL,Hollis,Hollis,GA,None,1691.0,1873.0,-0.0972
+614.0,AK,DEE,Deering,Deering,GA,None,1667.0,1522.0,0.0953
+615.0,AK,IGT,Nightmute,Nightmute,GA,None,1660.0,1291.0,0.2858
+616.0,AK,KWF,Waterfall,Waterfall,GA,None,1658.0,2005.0,-0.1731
+617.0,AK,ADK,Adak (Naval) Station/Mitchell Field,Adak,GA,None,1650.0,1286.0,0.283
+618.0,AK,6R7,Old Harbor,Old Harbor,GA,None,1635.0,2184.0,-0.2514
+619.0,AK,KGX,Grayling,Grayling,GA,None,1629.0,1191.0,0.3678
+622.0,AK,WNA,Napakiak,Napakiak,GA,None,1611.0,1378.0,0.1691
+623.0,AK,ARC,Arctic Village,Arctic Village,GA,None,1596.0,1797.0,-0.1119
+625.0,AK,BTT,Bettles,Bettles,GA,None,1581.0,1478.0,0.0697
+636.0,AK,SHX,Shageluk,Shageluk,GA,None,1408.0,1234.0,0.141
+638.0,AK,TER,Teller,Teller,GA,None,1388.0,1098.0,0.2641
+639.0,AK,ORI,Port Lions,Port Lions,GA,None,1383.0,1662.0,-0.1679
+641.0,AK,SXP,Sheldon Point,Sheldon Point,GA,None,1364.0,1486.0,-0.0821
+642.0,AK,GNU,Goodnews,Goodnews,GA,None,1344.0,848.0,0.5849
+643.0,AK,EII,Egegik,Egegik,GA,None,1326.0,1544.0,-0.1412
+644.0,AK,ANV,Anvik,Anvik,GA,None,1322.0,903.0,0.464
+646.0,AK,KNW,New Stuyahok,New Stuyahok,GA,None,1304.0,867.0,0.504
+648.0,AK,4K5,Ouzinkie,Ouzinkie,GA,None,1287.0,1538.0,-0.1632
+650.0,AK,SXQ,Soldotna,Soldotna,GA,None,1277.0,2249.0,-0.4322
+654.0,AK,OBU,Kobuk,Kobuk,GA,None,1244.0,1282.0,-0.0296
+658.0,AK,PTH,Port Heiden,Port Heiden,GA,None,1201.0,1149.0,0.0453
+659.0,AK,AJC,Chignik,Chignik,GA,None,1194.0,1139.0,0.0483
+660.0,AK,CLP,Clarks Point,Clarks Point,GA,None,1185.0,1578.0,-0.249
+663.0,AK,HWI,Hawk Inlet,Hawk Inlet,GA,None,1174.0,3.0,390.3333
+664.0,AK,LKK,Kulik Lake,Kulik Lake,GA,None,1169.0,1186.0,-0.0143
+665.0,AK,CIK,Chalkyitsik,Chalkyitsik,GA,None,1162.0,1098.0,0.0583
+671.0,AK,TKE,Tenakee Springs,Tenakee,GA,None,1104.0,1170.0,-0.0564
+672.0,AK,KCG,Chignik,Chignik Fisheries,GA,None,1102.0,1284.0,-0.1417
+673.0,AK,KYU,Koyukuk,Koyukuk,GA,None,1101.0,1174.0,-0.0622
+674.0,AK,GBH,Galbraith Lake,Galbraith Lake,GA,None,1094.0,1053.0,0.0389
+675.0,AK,PNP,Pilot Point,Pilot Point,GA,None,1075.0,1027.0,0.0467
+680.0,AK,CJX,Crooked Creek,Crooked Creek,GA,None,1007.0,896.0,0.1239
+681.0,AK,PKA,Napaskiak,Napaskiak,GA,None,1005.0,1111.0,-0.0954
+684.0,AK,HUS,Hughes,Hughes,GA,None,999.0,1035.0,-0.0348
+685.0,AK,WBQ,Beaver,Beaver,GA,None,998.0,978.0,0.0204
+686.0,AK,4K0,Pedro Bay,Pedro Bay,GA,None,995.0,365.0,1.726
+689.0,AK,EDF,Anchorage,Elmendorf AFB,GA,None,972.0,4784.0,-0.7968
+694.0,AK,IGG,Igiugig,Igiugig,GA,None,920.0,786.0,0.1705
+697.0,AK,UUO,Willow,Willow,GA,None,902.0,0.0,0.0
+700.0,AK,AKK,Akhiok,Akhiok,GA,None,892.0,1087.0,-0.1794
+703.0,AK,SLQ,Sleetmute,Sleetmute,GA,None,842.0,672.0,0.253
+704.0,AK,PEC,Pelican,Pelican,GA,None,821.0,949.0,-0.1349
+712.0,AK,9A3,Chuathbaluk,Chuathbaluk,GA,None,787.0,709.0,0.11
+717.0,AK,UBW,Kuparuk,Ugnu-Kuparuk,GA,None,769.0,0.0,0.0
+721.0,AK,PEV,Perryville,Perryville,GA,None,748.0,784.0,-0.0459
+723.0,AK,EAA,Eagle,Eagle,GA,None,726.0,740.0,-0.0189
+725.0,AK,SVS,Stevens Village,Stevens Village,GA,None,699.0,942.0,-0.258
+726.0,AK,PPC,Prospect Creek,Prospect Creek,GA,None,695.0,649.0,0.0709
+728.0,AK,9Z8,Levelock,Levelock,GA,None,679.0,754.0,-0.0995
+733.0,AK,PBV,St. George,St George,GA,None,647.0,827.0,-0.2177
+734.0,AK,A29,Sitka,Sitka,GA,None,630.0,3100.0,-0.7968
+738.0,AK,A14,Portage Creek,Portage Creek,GA,None,603.0,383.0,0.5744
+739.0,AK,78K,Yes Bay,Yes Bay Lodge,GA,None,584.0,521.0,0.1209
+740.0,AK,JZZ,Koliganek,Koliganek,GA,None,574.0,704.0,-0.1847
+741.0,AK,KYK,Karluk,Karluk,GA,None,564.0,541.0,0.0425
+742.0,AK,AK15,Deadhorse,Alpine Airstrip,GA,None,562.0,23.0,23.4348
+743.0,AK,EIL,Fairbanks,Eielson AFB,GA,None,552.0,247.0,1.2348
+746.0,AK,4AK1,Deadhorse,Inigok,GA,None,542.0,99.0,4.4747
+748.0,AK,PTU,Platinum,Platinum,GA,None,531.0,433.0,0.2263
+752.0,AK,KCL,Chignik Flats,Chignik Lagoon,GA,None,517.0,571.0,-0.0946
+753.0,AK,A63,Twin Hills,Twin Hills,GA,None,515.0,707.0,-0.2716
+755.0,AK,WSN,South Naknek,South Naknek Nr 2,GA,None,509.0,611.0,-0.1669
+758.0,AK,FSP,Nikolai,Nikolai,GA,None,488.0,320.0,0.525
+761.0,AK,AKW,Klawock,Klawock,GA,None,476.0,867.0,-0.451
+767.0,AK,Z91,Birch Creek,Birch Creek,GA,None,436.0,460.0,-0.0522
+769.0,AK,1AK3,Cold Bay,Port Moller Air Force Station,GA,None,421.0,426.0,-0.0117
+773.0,AK,SRV,Stony River,Stony River 2,GA,None,408.0,353.0,0.1558
+775.0,AK,AK96,Egegik,Bartletts,GA,None,389.0,454.0,-0.1432
+776.0,AK,76AK,Delta Junction,Pogo Mine Airstrip,GA,None,386.0,0.0,0.0
+781.0,AK,KEK,Ekwok,Ekwok,GA,None,369.0,385.0,-0.0416
+782.0,AK,CXF,Coldfoot,Coldfoot,GA,None,367.0,691.0,-0.4689
+785.0,AK,CRC,Circle,Circle City /New/,GA,None,355.0,354.0,0.0028
+786.0,AK,UMT,Umiat,Umiat,GA,None,349.0,354.0,-0.0141
+788.0,AK,MOS,Elim,Moses Point,GA,None,345.0,9.0,37.3333
+791.0,AK,AKA,Atka,Atka,GA,None,336.0,319.0,0.0533
+797.0,AK,GKN,Gulkana,Gulkana,GA,None,325.0,290.0,0.1207
+798.0,AK,7AK2,Snettisham,Snettisham,GA,None,321.0,0.0,0.0
+806.0,AK,KFP,False Pass,False Pass,GA,None,301.0,397.0,-0.2418
+807.0,AK,8AK1,Gulkana,Jacobus,GA,None,300.0,0.0,0.0
+812.0,AK,RDV,Red Devil,Red Devil,GA,None,293.0,264.0,0.1098
+813.0,AK,FNR,Funter Bay,Funter Bay,GA,None,290.0,30.0,8.6667
+818.0,AK,IKO,Nikolski,Nikolski AS,GA,None,278.0,296.0,-0.0608
+826.0,AK,RMP,Rampart,Rampart,GA,None,265.0,321.0,-0.1745
+827.0,AK,OUL,Nelson Lagoon,Nelson Lagoon,GA,None,262.0,269.0,-0.026
+828.0,AK,7KA,Tatitlek,Tatitlek,GA,None,260.0,278.0,-0.0647
+844.0,AK,8AK3,Selawik,Roland Norton Memorial Airstrip,GA,None,227.0,139.0,0.6331
+845.0,AK,SKW,Skwentna,Skwentna,GA,None,226.0,144.0,0.5694
+858.0,AK,EXI,Excursion Inlet,Excursion Inlet,GA,None,202.0,461.0,-0.5618
+857.0,AK,51Z,Minto,Minto,GA,None,202.0,188.0,0.0745
+866.0,AK,LUR,Cape Lisburne,Cape Lisburne LRRS,GA,None,193.0,101.0,0.9109
+867.0,AK,UGB,Pilot Point,Ugashik Bay,GA,None,193.0,257.0,-0.249
+879.0,AK,MHM,Lake Minchumina,Minchumina,GA,None,172.0,230.0,-0.2522
+888.0,AK,KCC,Coffman Cove,Coffman Cove,GA,None,163.0,113.0,0.4425
+887.0,AK,5NK,Naknek,Naknek,GA,None,163.0,135.0,0.2074
+890.0,AK,TSG,Tanacross,Tanacross,GA,None,161.0,40.0,3.025
+892.0,AK,AK40,McGrath,Nixon Fork Mine,GA,None,159.0,71.0,1.2394
+896.0,AK,KPC,Port Clarence,Port Clarence CGS,GA,None,149.0,148.0,0.0068
+897.0,AK,TCT,Takotna,Takotna,GA,None,149.0,120.0,0.2417
+900.0,AK,KKU,Ekuk,Ekuk,GA,None,141.0,105.0,0.3429
+901.0,AK,BCV,Birchwood,Birchwood,GA,None,140.0,252.0,-0.4444
+907.0,AK,4Z7,Hyder,Hyder,GA,None,127.0,144.0,-0.1181
+909.0,AK,TKJ,Tok,Tok,GA,None,124.0,227.0,-0.4537
+912.0,AK,DM2,Diomede,Diomede,GA,None,122.0,258.0,-0.5271
+913.0,AK,CZF,Cape Romanzof,Cape Romanzof LRRS,GA,None,120.0,103.0,0.165
+916.0,AK,UTO,Utopia Creek,Indian Mountain LRRS,GA,None,119.0,145.0,-0.1793
+923.0,AK,C05,Chenega,Chenega Bay,GA,None,112.0,47.0,1.383
+931.0,AK,EHM,Cape Newenham,Cape Newenham LRRS,GA,None,106.0,111.0,-0.045
+930.0,AK,9Z3,Kodiak,Kodiak /Lily Lake/,GA,None,106.0,307.0,-0.6547
+934.0,AK,CHP,Circle Hot Springs,Circle Hot Springs,GA,None,105.0,24.0,3.375
+939.0,AK,MLY,Manley Hot Springs,Manley Hot Springs,GA,None,104.0,129.0,-0.1938
+944.0,AK,WCR,Chandalar Lake,Chandalar Lake,GA,None,101.0,113.0,-0.1062
+943.0,AK,5AK0,Trading Bay,Trading Bay Production,GA,None,101.0,461.0,-0.7809
+949.0,AK,TNC,Tin City,Tin City LRRS,GA,None,98.0,133.0,-0.2632
+955.0,AK,PAQ,Palmer,Palmer Municipal,GA,None,93.0,98.0,-0.051
+957.0,AK,2AK6,Hogatza,Hog River,GA,None,92.0,71.0,0.2958
+965.0,AK,ZNC,Nyac,Nyac,GA,None,88.0,72.0,0.2222
+978.0,AK,TLJ,Takotna,Tatalina LRRS,GA,None,82.0,95.0,-0.1368
+999.0,AK,19P,Port Protection,Port Protection,GA,None,70.0,66.0,0.0606
+1013.0,AK,KPB,Point Baker,Point Baker,GA,None,65.0,40.0,0.625
+1016.0,AK,ALZ,Lazy Bay,Alitak,GA,None,64.0,61.0,0.0492
+1022.0,AK,KXA,Kasaan,Kasaan,GA,None,63.0,55.0,0.1455
+1025.0,AK,DCK,Dahl Creek,Dahl Creek,GA,None,62.0,25.0,1.48
+1024.0,AK,AK71,Lonely,Lonely AS,GA,None,62.0,125.0,-0.504
+1034.0,AK,15Z,McCarthy,McCarthy,GA,None,58.0,42.0,0.381
+1039.0,AK,84K,Meyers Chuck,Meyers Chuck,GA,None,57.0,108.0,-0.4722
+1042.0,AK,2Z6,False Island,False Island,GA,None,56.0,0.0,0.0
+1057.0,AK,38AK,Wasilla,Mels,GA,None,51.0,0.0,0.0
+1061.0,AK,CEM,Central,Central,GA,None,50.0,48.0,0.0417
+1060.0,AK,2AK,Lime Village,Lime Village,GA,None,50.0,73.0,-0.3151
+1067.0,AK,CZN,Chisana,Chisana,GA,None,49.0,34.0,0.4412
+1066.0,AK,AFE,Kake,Kake,GA,None,49.0,0.0,0.0
+1068.0,AK,ENN,Nenana,Nenana Municipal,GA,None,49.0,8.0,5.125
+1086.0,AK,8AK7,Kaktovik,Bullen Point Air Force Station,GA,None,44.0,0.0,0.0
+1120.0,AK,HYG,Hydaburg,Hydaburg,GA,None,35.0,23.0,0.5217
+1118.0,AK,AK60,Jensens,Fort Jensen,GA,None,35.0,26.0,0.3462
+1131.0,AK,96Z,North Whale Pass,North Whale,GA,None,32.0,25.0,0.28
+1138.0,AK,CYM,Chatham,Chatham,GA,None,31.0,3.0,9.3333
+1169.0,AK,5A8,Aleknagik,Aleknagik /New/,GA,None,27.0,27.0,0.0
+1176.0,AK,TKL,Taku Lodge,Taku Lodge,GA,None,27.0,346.0,-0.922
+1196.0,AK,BIG,Delta Junction Ft Greely,Allen AAF,GA,None,24.0,15.0,0.6
+1197.0,AK,KIB,Ivanof Bay,Ivanof Bay,GA,None,24.0,19.0,0.2632
+1208.0,AK,AK13,Chena Hot Springs,Chena Hot Springs,GA,None,23.0,18.0,0.2778
+1209.0,AK,AK78,Deadhorse,Badami,GA,None,23.0,0.0,0.0
+1214.0,AK,37AK,Big Mountain Radio Relay Site (U.S. Air Force),Big Mountain,GA,None,21.0,4.0,4.25
+1225.0,AK,SWD,Seward,Seward,GA,None,21.0,18.0,0.1667
+1221.0,AK,KWP,West Point,West Point Village,GA,None,21.0,32.0,-0.3438
+1234.0,AK,KMY,Moser Bay,Moser Bay,GA,None,20.0,13.0,0.5385
+1232.0,AK,IYS,Wasilla,Wasilla,GA,None,20.0,0.0,0.0
+1245.0,AK,CKX,Chicken,Chicken,GA,None,19.0,3.0,5.3333
+1252.0,AK,SYA,Shemya,Eareckson AS,GA,None,19.0,0.0,0.0
+1260.0,AK,ORT,Northway,Northway,GA,None,18.0,23.0,-0.2174
+1273.0,AK,KOY,Olga Bay,Olga Bay,GA,None,17.0,23.0,-0.2609
+1267.0,AK,0AK6,Victory Bible Camp,Victory,GA,None,17.0,0.0,0.0
+1279.0,AK,AK80,American Creek,American Creek,GA,None,16.0,22.0,-0.2727
+1283.0,AK,D66,Delta Junction,Delta Junction,GA,None,16.0,2.0,7.0
+1300.0,AK,LSR,Lost River,Lost River 1,GA,None,15.0,3.0,4.0
+1310.0,AK,AK75,Candle,Candle 2,GA,None,14.0,20.0,-0.3
+1307.0,AK,3T4,Tetlin,Tetlin,GA,None,14.0,0.0,0.0
+1335.0,AK,BNF,Baranof,Warm Spring Bay,GA,None,13.0,8.0,0.625
+1348.0,AK,WSJ,San Juan,San Juan /Uganik/,GA,None,13.0,22.0,-0.4091
+1356.0,AK,9A8,Ugashik,Ugashik/New,GA,None,12.0,2.0,5.0
+1388.0,AK,FWL,Farewell,Farewell,GA,None,11.0,9.0,0.2222
+1408.0,AK,BQV,Bartlett Cove,Bartlett Cove,GA,None,10.0,26.0,-0.6154
+1446.0,AK,KCN,Chernofski Harbor,Chernofski Harbor,GA,None,9.0,4.0,1.25
+1432.0,AK,A79,Chignik Lake,Chignik Lake,GA,None,9.0,0.0,0.0
+1500.0,AK,AK81,Amook Bay,Amook Bay,GA,None,7.0,26.0,-0.7308
+1505.0,AK,CXC,Chitina,Chitina,GA,None,7.0,6.0,0.1667
+1517.0,AK,KKB,Kitoi Bay,Kitoi Bay,GA,None,7.0,14.0,-0.5
+1564.0,AK,KBE,Bell Island,Bell Island Hot Springs,GA,None,6.0,12.0,-0.5
+1588.0,AK,Z93,Copper Center,Copper Center 2,GA,None,6.0,0.0,0.0
+1566.0,AK,KPY,Port Bailey,Port Bailey,GA,None,6.0,6.0,0.0
+1565.0,AK,KPR,Port Williams,Port Williams,GA,None,6.0,11.0,-0.4545
+1543.0,AK,9AK2,Russian Mission,Kako,GA,None,6.0,0.0,0.0
+1633.0,AK,SVW,Sparrevohn,Sparrevohn LRRS,GA,None,5.0,0.0,0.0
+1642.0,AK,2AK1,Fairbanks /Ft Wainwright/,Blair Lake,GA,None,4.0,0.0,0.0
+1689.0,AK,Z81,Salmon Lake,Salmon Lake,GA,None,4.0,0.0,0.0
+1699.0,AK,5C5,Craig,El Capitan Lodge,GA,None,3.0,0.0,0.0
+1719.0,AK,FLT,Flat,Flat,GA,None,3.0,8.0,-0.625
+1737.0,AK,MYK,May Creek,May Creek,GA,None,3.0,33.0,-0.9091
+1744.0,AK,OLI,Oliktok Point,Oliktok LRRS,GA,None,3.0,3.0,0.0
+1692.0,AK,2K5,Telida,Telida,GA,None,3.0,7.0,-0.5714
+1810.0,AK,K29,Council,Council,GA,None,2.0,7.0,-0.7143
+1807.0,AK,INR,McKinley Park,McKinley National Park,GA,None,2.0,468.0,-0.9957
+1781.0,AK,AK49,Taylor,Taylor,GA,None,2.0,0.0,0.0
+1865.0,AK,5Z5,Kantishna,Kantishna,GA,None,1.0,2742.0,-0.9996
+1862.0,AK,57A,Tokeen,Tokeen,GA,None,1.0,0.0,0.0
+73.0,AL,BHM,Birmingham,Birmingham International,P,S,1498651.0,1376152.0,0.089
+110.0,AL,HSV,Huntsville,Huntsville International-Carl T Jones Field,P,S,585058.0,512540.0,0.1415
+145.0,AL,MOB,Mobile,Mobile Regional,P,N,308227.0,302035.0,0.0205
+171.0,AL,MGM,Montgomery,Montgomery Regional (Dannelly Field),P,N,215553.0,212660.0,0.0136
+236.0,AL,DHN,Dothan,Dothan Regional,P,N,69094.0,61143.0,0.13
+465.0,AL,MSL,Muscle Shoals,Northwest Alabama Regional,CS,None,5166.0,5928.0,-0.1285
+645.0,AL,TCL,Tuscaloosa,Tuscaloosa Regional,GA,None,1309.0,1765.0,-0.2584
+787.0,AL,ANB,Anniston,Anniston Metropolitan,GA,None,346.0,708.0,-0.5113
+793.0,AL,BFM,Mobile,Mobile Downtown,GA,None,334.0,23.0,13.5217
+865.0,AL,MXF,Montgomery,Maxwell AFB,GA,None,194.0,332.0,-0.4157
+872.0,AL,MVC,Monroeville,Monroe County,GA,None,178.0,110.0,0.6182
+1035.0,AL,4A9,Fort Payne,Isbell Field,GA,None,58.0,3.0,18.3333
+1097.0,AL,DCU,Mooresville,Pryor Field Regional,GA,None,41.0,48.0,-0.1458
+1102.0,AL,7A2,Demopolis,Demopolis Municipal,GA,None,40.0,11.0,2.6364
+1135.0,AL,8A0,Albertville,The Albertville Municipal-Thomas J Brumlik Field,GA,None,31.0,3.0,9.3333
+1136.0,AL,ASN,Talladega,Talladega Municipal,GA,None,31.0,45.0,-0.3111
+1148.0,AL,EKY,Bessemer,Bessemer,GA,None,30.0,34.0,-0.1176
+1161.0,AL,EET,Alabaster,Shelby County,GA,None,28.0,12.0,1.3333
+1178.0,AL,JKA,Gulf Shores,Jack Edwards,GA,None,26.0,23.0,0.1304
+1379.0,AL,1M4,Haleyville,Posey Field,GA,None,11.0,0.0,0.0
+1405.0,AL,AUO,Auburn,Auburn-Opelika Robert G. Pitts,GA,None,10.0,10.0,0.0
+1467.0,AL,EUF,Eufaula,Weedon Field,GA,None,8.0,8.0,0.0
+1509.0,AL,EDN,Enterprise,Enterprise Municipal,GA,None,7.0,6.0,0.1667
+1511.0,AL,GAD,Gadsden,Gadsden Municipal,GA,None,7.0,10.0,-0.3
+1581.0,AL,SCD,Sylacauga,Merkel Field Sylacauga Municipal,GA,None,6.0,8.0,-0.25
+1594.0,AL,4R4,Fairhope,H. L. (Sonny) Callahan,GA,None,5.0,51.0,-0.902
+1630.0,AL,PRN,Greenville,MacCrenshaw Memorial,GA,None,5.0,1.0,4.0
+1668.0,AL,M22,Russellville,Russellville Municipal,GA,None,4.0,0.0,0.0
+1762.0,AL,12J,Brewton,Brewton Municipal,GA,None,2.0,6.0,-0.6667
+1919.0,AL,PLR,Pell City,St Clair County,GA,None,1.0,15.0,-0.9333
+84.0,AR,LIT,Little Rock,Adams Field,P,S,1138249.0,1063920.0,0.0699
+119.0,AR,XNA,Cave Springs,Northwest Arkansas Regional,P,S,492855.0,427417.0,0.1531
+216.0,AR,FSM,Fort Smith,Fort Smith Regional,P,N,90613.0,89510.0,0.0123
+301.0,AR,TXK,Texarkana,Texarkana Regional-Webb Field,P,N,32243.0,27802.0,0.1597
+499.0,AR,HOT,Hot Springs,Memorial Field,CS,None,3616.0,2606.0,0.3876
+500.0,AR,HRO,Harrison,Boone County,CS,None,3614.0,2668.0,0.3546
+551.0,AR,JBR,Jonesboro,Jonesboro Municipal,CS,None,2578.0,1865.0,0.3823
+573.0,AR,ELD,El Dorado,South Arkansas Regional at Goodwin Field,GA,None,2240.0,1524.0,0.4698
+722.0,AR,FYV,Fayetteville,Drake Field,GA,None,736.0,230.0,2.2
+772.0,AR,MEZ,Mena,Mena Intermountain Municipal,GA,None,417.0,4.0,103.25
+804.0,AR,ASG,Springdale,Springdale Municipal,GA,None,302.0,123.0,1.4553
+950.0,AR,LRF,Jacksonville,Little Rock AFB,GA,None,97.0,65.0,0.4923
+971.0,AR,ROG,Rogers,Rogers Municipal-Carter Field,GA,None,84.0,16.0,4.25
+1217.0,AR,BPK,Mountain Home,Ozark Regional,GA,None,21.0,29.0,-0.2759
+1362.0,AR,BVX,Batesville,Batesville Regional,GA,None,12.0,7.0,0.7143
+1376.0,AR,VBT,Bentonville,Bentonville Municipal/Louise M Thaden Field,GA,None,12.0,0.0,0.0
+1460.0,AR,BYH,Blytheville,Arkansas International,GA,None,8.0,1.0,7.0
+1526.0,AR,SGT,Ulm,Stuttgart Municipal,GA,None,7.0,17.0,-0.5882
+1575.0,AR,PGR,Paragould,Kirk Field,GA,None,6.0,0.0,0.0
+1578.0,AR,RUE,Russellville,Russellville Regional,GA,None,6.0,0.0,0.0
+1545.0,AR,AWM,West Memphis,West Memphis Municipal,GA,None,6.0,2.0,2.0
+1706.0,AR,ARG,Walnut Ridge,Walnut Ridge Regional,GA,None,3.0,0.0,0.0
+234.0,AS,PPG,Pago Pago,Pago Pago International,P,N,70863.0,68202.0,0.039
+640.0,AS,FAQ,Fitiuta,Fitiuta,GA,None,1372.0,3208.0,-0.5723
+695.0,AS,Z08,Ofu Village,Ofu,GA,None,920.0,1682.0,-0.453
+7.0,AZ,PHX,Phoenix,Phoenix Sky Harbor International,P,L,19336099.0,18252853.0,0.0593
+67.0,AZ,TUS,Tucson,Tucson International,P,M,1863790.0,1699762.0,0.0965
+137.0,AZ,GCN,Grand Canyon,Grand Canyon National Park,P,S,368330.0,325815.0,0.1305
+214.0,AZ,IFP,Bullhead City,Laughlin/Bullhead International,P,N,95489.0,85661.0,0.1147
+244.0,AZ,YUM,Yuma,Yuma MCAS/Yuma International,P,N,63426.0,58916.0,0.0765
+260.0,AZ,1G4,Peach Springs,Grand Canyon West,P,N,49010.0,33067.0,0.4821
+286.0,AZ,FLG,Flagstaff,Flagstaff Pulliam,P,N,38872.0,34635.0,0.1223
+323.0,AZ,PGA,Page,Page Municipal,P,N,22321.0,14929.0,0.4951
+408.0,AZ,HII,Lake Havasu City,Lake Havasu City,CS,None,9432.0,8543.0,0.1041
+434.0,AZ,PRC,Prescott,Ernest A. Love Field,CS,None,7014.0,4786.0,0.4655
+469.0,AZ,SOW,Show Low,Show Low Regional,CS,None,4895.0,3968.0,0.2336
+530.0,AZ,IWA,Mesa,Williams Gateway,GA,None,2891.0,218.0,12.2615
+540.0,AZ,SDL,Scottsdale,Scottsdale,GA,None,2778.0,3159.0,-0.1206
+561.0,AZ,IGM,Kingman,Kingman,GA,None,2473.0,2504.0,-0.0124
+690.0,AZ,0V7,Kayenta,Kayenta,GA,None,961.0,1265.0,-0.2403
+750.0,AZ,E91,Chinle,Chinle Municipal,GA,None,519.0,1309.0,-0.6035
+784.0,AZ,3AZ5,Peach Springs,Hualapai,GA,None,357.0,340.0,0.05
+800.0,AZ,DMA,Tucson,Davis Monthan AFB,GA,None,313.0,640.0,-0.5109
+885.0,AZ,GEU,Glendale,Glendale Municipal,GA,None,166.0,0.0,0.0
+932.0,AZ,PAN,Payson,Payson,GA,None,106.0,242.0,-0.562
+964.0,AZ,FHU,Fort Huachuca Sierra Vista,Sierra Vista Municipal-Libby AAF,GA,None,88.0,553.0,-0.8409
+969.0,AZ,LUF,Glendale,Luke AFB,GA,None,84.0,80.0,0.05
+1029.0,AZ,CFT,Clifton,Greenlee County,GA,None,60.0,2.0,29.0
+1031.0,AZ,DVT,Phoenix,Phoenix Deer Valley,GA,None,60.0,177.0,-0.661
+1084.0,AZ,SAD,Safford,Safford Regional,GA,None,45.0,10.0,3.5
+1099.0,AZ,MZJ,Marana,Pinal Airpark,GA,None,41.0,0.0,0.0
+1175.0,AZ,SEZ,Sedona,Sedona,GA,None,27.0,347.0,-0.9222
+1180.0,AZ,L41,Marble Canyon,Marble Canyon,GA,None,26.0,21.0,0.2381
+1398.0,AZ,P19,Chandler,Stellar Airpark,GA,None,11.0,2.0,4.5
+1441.0,AZ,GYR,Goodyear,Phoenix Goodyear,GA,None,9.0,3.0,2.0
+1522.0,AZ,OLS,Nogales,Nogales International,GA,None,7.0,4.0,0.75
+1752.0,AZ,TYL,Taylor,Taylor,GA,None,3.0,0.0,0.0
+1880.0,AZ,DUG,Douglas,Bisbee Douglas International,GA,None,1.0,0.0,0.0
+1881.0,AZ,E63,Gila Bend,Gila Bend Municipal,GA,None,1.0,0.0,0.0
+3.0,CA,LAX,Los Angeles,Los Angeles International,P,L,28925341.0,26239584.0,0.1024
+13.0,CA,SFO,San Francisco International Airport,San Francisco International,P,L,15605822.0,14079173.0,0.1084
+29.0,CA,SAN,San Diego,San Diego International,P,L,8135832.0,7565196.0,0.0754
+31.0,CA,OAK,Oakland,Metropolitan Oakland International,P,M,6923690.0,6638343.0,0.043
+37.0,CA,SJC,San Jose,Norman Y. Mineta San Jose International,P,M,5269849.0,5104201.0,0.0325
+41.0,CA,SMF,Sacramento,Sacramento International,P,M,4795970.0,4390847.0,0.0923
+42.0,CA,SNA,Santa Ana,John Wayne Airport-Orange County,P,M,4621107.0,4266083.0,0.0832
+52.0,CA,ONT,Ontario,Ontario International,P,M,3291726.0,3089025.0,0.0656
+61.0,CA,BUR,Burbank,Bob Hope,P,M,2455574.0,2352465.0,0.0438
+77.0,CA,LGB,Long Beach,Long Beach /Daugherty Field/,P,S,1425875.0,1409039.0,0.0119
+101.0,CA,PSP,Palm Springs,Palm Springs International,P,S,687098.0,627231.0,0.0954
+115.0,CA,FAT,Fresno,Fresno Yosemite International,P,S,538394.0,501373.0,0.0738
+128.0,CA,SBA,Santa Barbara,Santa Barbara Municipal,P,S,417285.0,383902.0,0.087
+181.0,CA,MRY,Monterey,Monterey Peninsula,P,N,183785.0,182725.0,0.0058
+191.0,CA,SBP,San Luis Obispo,San Luis County Regional,P,N,158107.0,141649.0,0.1162
+205.0,CA,BFL,Bakersfield,Meadows Field,P,N,118046.0,90187.0,0.3089
+213.0,CA,ACV,Arcata/Eureka,Arcata,P,N,96289.0,90202.0,0.0675
+248.0,CA,RDD,Redding,Redding Municipal,P,N,60978.0,53868.0,0.132
+258.0,CA,CRQ,Carlsbad,McClellan-Palomar,P,N,49447.0,49275.0,0.0035
+290.0,CA,SMX,Santa Maria,Santa Maria Public/Capt G Allan Hancock Field,P,N,38082.0,61989.0,-0.3857
+300.0,CA,VCV,Victorville,Southern California Logistics,P,N,32421.0,29020.0,0.1172
+307.0,CA,RIV,Riverside,March ARB,GA,None,29580.0,28575.0,0.0352
+320.0,CA,OXR,Oxnard,Oxnard,P,N,23832.0,21975.0,0.0845
+333.0,CA,MOD,Modesto,Modesto City County-Harry Sham Field,P,N,19798.0,14594.0,0.3566
+345.0,CA,CIC,Chico,Chico Municipal,P,N,17561.0,16237.0,0.0815
+367.0,CA,IYK,Inyokern,Inyokern,P,N,12725.0,11427.0,0.1136
+371.0,CA,CEC,Crescent City,Jack McNamara Field,P,N,12472.0,11267.0,0.1069
+423.0,CA,MCE,Merced,Merced Municipal/MacReady Field,CS,None,8004.0,7522.0,0.0641
+433.0,CA,IPL,Imperial,Imperial County,CS,None,7106.0,8066.0,-0.119
+496.0,CA,NKX,San Diego,Miramar MCAS/Mitscher Field,GA,None,3682.0,2162.0,0.7031
+523.0,CA,SUU,Fairfield,Travis AFB,GA,None,3004.0,3700.0,-0.1881
+566.0,CA,HWD,Hayward,Hayward Executive,GA,None,2402.0,1.0,2401.0
+602.0,CA,SCK,Stockton,Stockton Metropolitan,GA,None,1863.0,13700.0,-0.864
+631.0,CA,NZY,San Diego,North Island NAS /Halsey Field/,GA,None,1486.0,5368.0,-0.7232
+651.0,CA,NTD,Point Mugu,Point Mugu NAS,GA,None,1275.0,7617.0,-0.8326
+670.0,CA,VIS,Visalia,Visalia Municipal,GA,None,1105.0,2839.0,-0.6108
+751.0,CA,VNY,Van Nuys,Van Nuys,GA,None,518.0,310.0,0.671
+780.0,CA,NLC,Lemoore,Lemoore NAS (Reeves Field),GA,None,371.0,0.0,0.0
+805.0,CA,SMO,Santa Monica,Santa Monica Municipal,GA,None,302.0,103.0,1.932
+819.0,CA,MHR,Sacramento,Sacramento Mather,GA,None,277.0,488.0,-0.4324
+823.0,CA,PRB,Paso Robles,Paso Robles Municipal,GA,None,268.0,224.0,0.1964
+829.0,CA,MYV,Marysville,Yuba County,GA,None,260.0,150.0,0.7333
+837.0,CA,VBG,Lompoc,Vandenberg AFB,GA,None,242.0,1799.0,-0.8655
+842.0,CA,HHR,Hawthorne,Jack Northrop Field/Hawthorne Municipal,GA,None,230.0,431.0,-0.4664
+849.0,CA,TVL,South Lake Tahoe,Lake Tahoe,GA,None,219.0,74.0,1.9595
+902.0,CA,PMD,Palmdale,Palmdale Production Flight/Test Installation AF Plant 42,GA,None,139.0,0.0,0.0
+915.0,CA,SAC,Sacramento,Sacramento Executive,GA,None,120.0,123.0,-0.0244
+926.0,CA,MYF,San Diego,Montgomery Field,GA,None,108.0,224.0,-0.5179
+936.0,CA,L08,Borrego Springs,Borrego Valley,GA,None,105.0,4.0,25.25
+966.0,CA,FCH,Fresno,Fresno Chandler Executive,GA,None,87.0,71.0,0.2254
+988.0,CA,MCC,Sacramento,McClellan Airfield,GA,None,76.0,0.0,0.0
+991.0,CA,SEE,San Diego/El Cajon,Gillespie Field,GA,None,75.0,21.0,2.5714
+998.0,CA,UKI,Ukiah,Ukiah Municipal,GA,None,71.0,50.0,0.42
+1023.0,CA,MHV,Mojave,Mojave,GA,None,63.0,9.0,6.0
+1028.0,CA,UDD,Palm Springs,Bermuda Dunes,GA,None,61.0,60.0,0.0167
+1050.0,CA,NUQ,Mountain View,Moffett Federal Airfield,GA,None,53.0,0.0,0.0
+1056.0,CA,O85,Redding,Benton Field,GA,None,52.0,50.0,0.04
+1065.0,CA,A30,Fort Jones,Scott Valley,GA,None,49.0,56.0,-0.125
+1071.0,CA,SBD,San Bernardino,San Bernardino International,GA,None,49.0,54.0,-0.0926
+1073.0,CA,HJO,Hanford,Hanford Municipal,GA,None,48.0,0.0,0.0
+1115.0,CA,DLO,Delano,Delano Municipal,GA,None,36.0,0.0,0.0
+1116.0,CA,MMH,Mammoth Lakes,Mammoth Yosemite,GA,None,36.0,40.0,-0.1
+1186.0,CA,APC,Napa,Napa County,GA,None,25.0,80.0,-0.6875
+1210.0,CA,CCR,Concord,Buchanan Field,GA,None,23.0,14.0,0.6429
+1239.0,CA,STS,Santa Rosa,Charles M. Schulz - Sonoma County,GA,None,20.0,36.0,-0.4444
+1259.0,CA,IZA,Santa Ynez,Santa Ynez,GA,None,18.0,8.0,1.25
+1266.0,CA,TRK,Truckee,Truckee-Tahoe,GA,None,18.0,33.0,-0.4545
+1293.0,CA,BIH,Bishop,Eastern Sierra Regional,GA,None,15.0,109.0,-0.8624
+1322.0,CA,SNS,Salinas,Salinas Municipal,GA,None,14.0,4.0,2.5
+1320.0,CA,SDM,San Diego,Brown Field Municipal,GA,None,14.0,78.0,-0.8205
+1386.0,CA,FOT,Fortuna,Rohnerville,GA,None,11.0,5.0,1.2
+1400.0,CA,SIY,Montague,Siskiyou County,GA,None,11.0,1.0,10.0
+1402.0,CA,TRM,Palm Springs,Jacqueline Cochran Regional,GA,None,11.0,11.0,0.0
+1447.0,CA,MIT,Shafter,Shafter-Minter Field,GA,None,9.0,0.0,0.0
+1474.0,CA,L06,Death Valley National Park,Furnace Creek,GA,None,8.0,0.0,0.0
+1502.0,CA,AVX,Avalon,Catalina,GA,None,7.0,10.0,-0.3
+1510.0,CA,EKA,Eureka,Murray Field,GA,None,7.0,5.0,0.4
+1521.0,CA,O24,Lee Vining,Lee Vining,GA,None,7.0,0.0,0.0
+1533.0,CA,1O5,Montague,Montague-Yreka Rohrer Field,GA,None,6.0,11.0,-0.4545
+1574.0,CA,O46,Weed,Weed,GA,None,6.0,14.0,-0.5714
+1619.0,CA,LVK,Livermore,Livermore Municipal,GA,None,5.0,2.0,1.5
+1624.0,CA,O32,Reedley,Reedley Municipal,GA,None,5.0,0.0,0.0
+1676.0,CA,O16,Garberville,Garberville,GA,None,4.0,0.0,0.0
+1688.0,CA,WJF,Lancaster,General Wm J Fox Airfield,GA,None,4.0,14.0,-0.7143
+1655.0,CA,F70,Murrieta/Temecula,French Valley,GA,None,4.0,1.0,3.0
+1742.0,CA,O22,Columbia,Columbia,GA,None,3.0,0.0,0.0
+1743.0,CA,O41,Woodland,Watts-Woodland,GA,None,3.0,0.0,0.0
+1766.0,CA,2O1,Quincy,Gansner Field,GA,None,2.0,0.0,0.0
+1877.0,CA,CMA,Camarillo,Camarillo,GA,None,1.0,27.0,-0.963
+1850.0,CA,1O6,Dunsmuir,Dunsmuir Municipal-Mott,GA,None,1.0,0.0,0.0
+1846.0,CA,0O9,Gasquet,Ward Field,GA,None,1.0,0.0,0.0
+1914.0,CA,O70,Jackson,Westover Field Amador County,GA,None,1.0,0.0,0.0
+1849.0,CA,1O2,Lakeport,Lampson Field,GA,None,1.0,0.0,0.0
+1918.0,CA,PAO,Palo Alto,Palo Alto Airport of Santa Clara County,GA,None,1.0,28.0,-0.9643
+1915.0,CA,O86,Trinity Center,Trinity Center,GA,None,1.0,0.0,0.0
+5.0,CO,DEN,Denver,Denver International,P,L,20407002.0,17969754.0,0.1356
+87.0,CO,COS,Colorado Springs,City of Colorado Springs Municipal,P,S,1024656.0,1010985.0,0.0135
+177.0,CO,EGE,Eagle,Eagle County Regional,P,N,194173.0,168347.0,0.1534
+180.0,CO,ASE,Aspen,Aspen-Pitkin County/Sardy Field,P,N,184261.0,189881.0,-0.0296
+195.0,CO,GJT,Grand Junction,Walker Field,P,N,140618.0,128066.0,0.098
+203.0,CO,HDN,Hayden,Yampa Valley,P,N,120323.0,102375.0,0.1753
+212.0,CO,DRO,Durango,Durango-La Plata County,P,N,96560.0,86198.0,0.1202
+230.0,CO,MTJ,Montrose,Montrose Regional,P,N,72448.0,69386.0,0.0441
+288.0,CO,GUC,Gunnison,Gunnison-Crested Butte Regional,P,N,38395.0,37717.0,0.018
+302.0,CO,FNL,Fort Collins/Loveland,Fort Collins-Loveland Municipal,P,N,31928.0,10307.0,2.0977
+341.0,CO,TEX,Telluride,Telluride Regional,P,N,18493.0,15386.0,0.2019
+425.0,CO,CEZ,Cortez,Cortez Municipal,CS,None,7870.0,6733.0,0.1689
+462.0,CO,ALS,Alamosa,San Luis Valley Regional/Bergman Field,CS,None,5188.0,3839.0,0.3514
+479.0,CO,PUB,Pueblo,Pueblo Memorial,CS,None,4511.0,3901.0,0.1564
+881.0,CO,BKF,Aurora,Buckley AFB,GA,None,169.0,0.0,0.0
+899.0,CO,RIL,Rifle,Garfield County Regional,GA,None,146.0,29.0,4.0345
+948.0,CO,LAA,Lamar,Lamar Municipal,GA,None,99.0,86.0,0.1512
+954.0,CO,BJC,Broomfield,Jeffco,GA,None,94.0,129.0,-0.2713
+1078.0,CO,APA,Englewood,Centennial,GA,None,46.0,404.0,-0.8861
+1127.0,CO,FTG,Watkins,Front Range,GA,None,33.0,6.0,4.5
+1357.0,CO,9V7,Eads,Eads Municipal,GA,None,12.0,13.0,-0.0769
+1354.0,CO,6V6,Nucla,Hopkins Field,GA,None,12.0,0.0,0.0
+1440.0,CO,GXY,Greeley,Greeley-Weld County,GA,None,9.0,12.0,-0.25
+1470.0,CO,GWS,Glenwood Springs,Glenwood Springs Municipal,GA,None,8.0,0.0,0.0
+1764.0,CO,20V,Kremmling,Mc Elroy Airfield,GA,None,2.0,0.0,0.0
+1780.0,CO,8V7,Springfield,Springfield Municipal,GA,None,2.0,1.0,1.0
+1855.0,CO,3V4,Fort Morgan,Fort Morgan Municipal,GA,None,1.0,0.0,0.0
+1873.0,CO,C08,Westcliffe,Silver West,GA,None,1.0,0.0,0.0
+49.0,CT,BDL,Windsor Locks,Bradley International,P,M,3326461.0,3098556.0,0.0736
+282.0,CT,HVN,New Haven,Tweed-New Haven,P,N,39736.0,15446.0,1.5726
+803.0,CT,OXC,Oxford,Waterbury-Oxford,GA,None,303.0,13.0,22.3077
+904.0,CT,GON,Groton New London,Groton-New London,GA,None,135.0,5952.0,-0.9773
+992.0,CT,BDR,Bridgeport,Igor I Sikorsky Memorial,GA,None,74.0,248.0,-0.7016
+1069.0,CT,HFD,Hartford,Hartford-Brainard,GA,None,49.0,192.0,-0.7448
+1199.0,CT,MMK,Meriden,Meriden Markham Municipal,GA,None,24.0,3.0,7.0
+1313.0,CT,DXR,Danbury,Danbury Municipal,GA,None,14.0,10.0,0.4
+1749.0,CT,SNC,Chester,Chester,GA,None,3.0,0.0,0.0
+1698.0,CT,4B8,Plainville,Robertson Field,GA,None,3.0,49.0,-0.9388
+1724.0,CT,IJD,Willimantic,Windham,GA,None,3.0,0.0,0.0
+657.0,DE,ILG,Wilmington,New Castle,GA,None,1217.0,1825.0,-0.3332
+705.0,DE,DOV,Dover,Dover AFB,GA,None,817.0,535.0,0.5271
+1247.0,DE,GED,Georgetown,Sussex County,GA,None,19.0,13.0,0.4615
+14.0,FL,MCO,Orlando,Orlando International,P,L,15270347.0,13375162.0,0.1417
+15.0,FL,MIA,Miami,Miami International,P,L,14515591.0,14198321.0,0.0223
+24.0,FL,FLL,Fort Lauderdale,Fort Lauderdale/Hollywood International,P,L,10040598.0,8682781.0,0.1564
+28.0,FL,TPA,Tampa,Tampa International,P,L,8436025.0,7672533.0,0.0995
+50.0,FL,RSW,Fort Myers,Southwest Florida International,P,M,3320019.0,2906367.0,0.1423
+53.0,FL,PBI,West Palm Beach,Palm Beach International,P,M,3281656.0,3011968.0,0.0895
+59.0,FL,JAX,Jacksonville,Jacksonville International,P,M,2619494.0,2415747.0,0.0843
+91.0,FL,SFB,Sanford,Orlando Sanford International,P,S,926820.0,619894.0,0.4951
+97.0,FL,PNS,Pensacola,Pensacola Regional,P,S,734921.0,689268.0,0.0662
+103.0,FL,PIE,Clearwater,St Petersburg-Clearwater International,P,S,666904.0,522308.0,0.2768
+109.0,FL,TLH,Tallahassee,Tallahassee Regional,P,S,585263.0,568514.0,0.0295
+113.0,FL,SRQ,Sarasota/Bradenton,Sarasota/Bradenton International,P,S,562398.0,533045.0,0.0551
+134.0,FL,VPS,Valparaiso,Eglin AFB,P,S,380871.0,347645.0,0.0956
+146.0,FL,DAB,Daytona Beach,Daytona Beach International,P,N,307295.0,275895.0,0.1138
+151.0,FL,EYW,Key West,Key West International,P,N,298790.0,299193.0,-0.0013
+175.0,FL,MLB,Melbourne,Melbourne International,P,N,201148.0,194409.0,0.0347
+178.0,FL,PFN,Panama City,Panama City-Bay County International,P,N,189565.0,182027.0,0.0414
+199.0,FL,GNV,Gainesville,Gainesville Regional,P,N,135340.0,120547.0,0.1227
+418.0,FL,NIP,Jacksonville,Jacksonville NAS /Towers Field/,GA,None,8436.0,6130.0,0.3762
+419.0,FL,APF,Naples,Naples Municipal,CS,None,8395.0,6688.0,0.2552
+538.0,FL,OPF,Miami,Opa Locka,GA,None,2833.0,5745.0,-0.5069
+687.0,FL,PAM,Panama City,Tyndall AFB,GA,None,980.0,993.0,-0.0131
+688.0,FL,EVB,New Smyrna Beach,New Smyrna Beach Municipal,GA,None,976.0,1161.0,-0.1593
+706.0,FL,COF,Cocoa Beach,Patrick AFB,GA,None,816.0,722.0,0.1302
+720.0,FL,MTH,Marathon,The Florida Keys Marathon,GA,None,761.0,559.0,0.3614
+759.0,FL,FXE,Fort Lauderdale,Fort Lauderdale Executive,GA,None,486.0,170.0,1.8588
+830.0,FL,DTS,Destin,Destin-Fort Walton Beach,GA,None,259.0,71.0,2.6479
+838.0,FL,HWO,Hollywood,North Perry,GA,None,240.0,0.0,0.0
+859.0,FL,NQX,Key West,Key West NAS /Boca Chica Field/,GA,None,202.0,89.0,1.2697
+883.0,FL,MCF,Tampa,MacDill AFB,GA,None,167.0,1862.0,-0.9103
+889.0,FL,NRB,Mayport,Mayport NS (Adm David L. McDonald Field),GA,None,163.0,51.0,2.1961
+903.0,FL,TIX,Titusville,Space Coast Regional,GA,None,139.0,31.0,3.4839
+925.0,FL,NPA,Pensacola,Pensacola NAS/Forrest Sherman Field/,GA,None,112.0,254.0,-0.5591
+942.0,FL,OCF,Ocala,Ocala International-Jim Taylor Field,GA,None,102.0,10.0,9.2
+958.0,FL,HST,Homestead,Homestead ARB,GA,None,91.0,96.0,-0.0521
+963.0,FL,BCT,Boca Raton,Boca Raton,GA,None,88.0,28.0,2.1429
+979.0,FL,CGC,Crystal River,Crystal River,GA,None,80.0,84.0,-0.0476
+1020.0,FL,SUA,Stuart,Witham Field,GA,None,64.0,138.0,-0.5362
+1026.0,FL,ORL,Orlando,Executive,GA,None,62.0,2195.0,-0.9718
+1076.0,FL,ISM,Kissimmee,Kissimmee Gateway,GA,None,47.0,27.0,0.7407
+1119.0,FL,FPR,Fort Pierce,St Lucie County International,GA,None,35.0,9.0,2.8889
+1133.0,FL,PGD,Punta Gorda,Charlotte County,GA,None,32.0,10.0,2.2
+1141.0,FL,FMY,Fort Myers,Page Field,GA,None,31.0,106.0,-0.7075
+1144.0,FL,TMB,Miami,Kendall-Tamiami Executive,GA,None,31.0,1.0,30.0
+1181.0,FL,MKY,Marco Island,Marco Island,GA,None,26.0,12.0,1.1667
+1183.0,FL,SGJ,Saint Augustine,St Augustine,GA,None,26.0,25.0,0.04
+1242.0,FL,X47,Bunnell,Flagler County,GA,None,20.0,21.0,-0.0476
+1241.0,FL,VRB,Vero Beach,Vero Beach Municipal,GA,None,20.0,26.0,-0.2308
+1281.0,FL,CRG,Jacksonville,Craig Municipal,GA,None,16.0,21.0,-0.2381
+1298.0,FL,LCQ,Lake City,Lake City Municipal,GA,None,15.0,8.0,0.875
+1329.0,FL,07FA,Key Largo,Ocean Reef Club,GA,None,13.0,4.0,2.25
+1344.0,FL,LAL,Lakeland,Lakeland Linder Regional,GA,None,13.0,0.0,0.0
+1340.0,FL,F45,West Palm Beach,North Palm Beach County General Aviation,GA,None,13.0,2.0,5.5
+1381.0,FL,55J,Fernandina Beach,Fernandina Beach Municipal,GA,None,11.0,14.0,-0.2143
+1419.0,FL,LEE,Leesburg,Leesburg Regional,GA,None,10.0,8.0,0.25
+1463.0,FL,CEW,Crestview,Bob Sikes,GA,None,8.0,0.0,0.0
+1576.0,FL,PHK,Pahokee,Palm Beach County Glades,GA,None,6.0,0.0,0.0
+1639.0,FL,VQQ,Jacksonville,Cecil Field,GA,None,5.0,0.0,0.0
+1634.0,FL,TPF,Tampa,Peter O Knight,GA,None,5.0,36.0,-0.8611
+1650.0,FL,COI,Merritt Island,Merritt Island,GA,None,4.0,0.0,0.0
+1680.0,FL,SEF,Sebring,Sebring Regional,GA,None,4.0,1.0,3.0
+1686.0,FL,VNC,Venice,Venice Municipal,GA,None,4.0,72.0,-0.9444
+1665.0,FL,LNA,West Palm Beach,Palm Beach County Park,GA,None,4.0,0.0,0.0
+1696.0,FL,40J,Perry,Perry-Foley,GA,None,3.0,0.0,0.0
+1784.0,FL,BKV,Brooksville,Hernando County,GA,None,2.0,1.0,1.0
+1886.0,FL,GIF,Winter Haven,Winter Haven's Gilbert,GA,None,1.0,0.0,0.0
+1.0,GA,ATL,Atlanta,Hartsfield - Jackson Atlanta International,P,L,41123857.0,38893670.0,0.0573
+90.0,GA,SAV,Savannah,Savannah/Hilton Head International,P,S,957208.0,829821.0,0.1535
+184.0,GA,AGS,Augusta,Augusta Regional at Bush Field,P,N,174316.0,165874.0,0.0509
+253.0,GA,CSG,Columbus,Columbus Metropolitan,P,N,56900.0,55552.0,0.0243
+263.0,GA,VLD,Valdosta,Valdosta Regional,P,N,47458.0,32814.0,0.4463
+279.0,GA,BQK,Brunswick,Brunswick Golden Isles,P,N,40814.0,38538.0,0.0591
+291.0,GA,ABY,Albany,Southwest Georgia Regional,P,N,36076.0,33520.0,0.0763
+294.0,GA,MCN,Macon,Middle Georgia Regional,P,N,34533.0,29355.0,0.1764
+339.0,GA,SVN,Savannah,Hunter AAF,GA,None,18903.0,15391.0,0.2282
+393.0,GA,AHN,Athens,Athens/Ben Epps,P,N,10747.0,7550.0,0.4234
+444.0,GA,LSF,Fort Benning (U.S. Army),Lawson AAF (Fort Benning),GA,None,6226.0,297.0,19.963
+668.0,GA,PDK,Atlanta,Dekalb-Peachtree,GA,None,1142.0,223.0,4.1211
+737.0,GA,MGE,Marietta,Dobbins Air Reserve Base (Atlanta NAS),GA,None,605.0,189.0,2.2011
+765.0,GA,WRB,Warner Robins,Robins AFB,GA,None,456.0,7825.0,-0.9417
+801.0,GA,FTY,Atlanta,Fulton County Airport-Brown Field,GA,None,311.0,16.0,18.4375
+809.0,GA,RYY,Marietta,Cobb County-McCollum Field,GA,None,295.0,13.0,21.6923
+869.0,GA,VAD,Valdosta,Moody AFB,GA,None,184.0,0.0,0.0
+877.0,GA,RMG,Rome,Richard B Russell,GA,None,174.0,0.0,0.0
+935.0,GA,GVL,Gainesville,Lee Gilmer Memorial,GA,None,105.0,16.0,5.5625
+1033.0,GA,SSI,Brunswick,Malcolm McKinnon,GA,None,60.0,31.0,0.9355
+1085.0,GA,TMA,Tifton,Henry Tift Myers,GA,None,45.0,0.0,0.0
+1132.0,GA,LZU,Lawrenceville,Gwinnett County - Briscoe Field,GA,None,32.0,17.0,0.8824
+1211.0,GA,DNL,Augusta,Daniel Field,GA,None,23.0,16.0,0.4375
+1306.0,GA,3J7,Greensboro,Greene County Regional,GA,None,14.0,2.0,6.0
+1311.0,GA,AYS,Waycross,Waycross-Ware County,GA,None,14.0,0.0,0.0
+1373.0,GA,PXE,Perry,Perry-Houston County,GA,None,12.0,0.0,0.0
+1384.0,GA,DQH,Douglas,Douglas Municipal,GA,None,11.0,15.0,-0.2667
+1434.0,GA,BGE,Bainbridge,Decatur County Industrial Air Park,GA,None,9.0,0.0,0.0
+1465.0,GA,CZL,Calhoun,Tom B. David Field,GA,None,8.0,0.0,0.0
+1466.0,GA,DNN,Dalton,Dalton Municipal,GA,None,8.0,7.0,0.1429
+1497.0,GA,9A1,Covington,Covington Municipal,GA,None,7.0,8.0,-0.125
+1539.0,GA,4A7,Hampton,Clayton County - Tara Field,GA,None,6.0,14.0,-0.5714
+1590.0,GA,11J,Blakely,Early County,GA,None,5.0,0.0,0.0
+1635.0,GA,TVI,Thomasville,Thomasville Regional,GA,None,5.0,5.0,0.0
+1651.0,GA,DBN,Dublin,W H 'Bud' Barron,GA,None,4.0,3.0,0.3333
+1677.0,GA,OPN,Thomaston,Thomaston-Upson County,GA,None,4.0,0.0,0.0
+1709.0,GA,CTJ,Carrollton,West Georgia Regional - O V Gray Field,GA,None,3.0,1.0,2.0
+1704.0,GA,AJR,Cornelia,Habersham County,GA,None,3.0,0.0,0.0
+1718.0,GA,FFC,Peachtree City,Peachtree City-Falcon Field,GA,None,3.0,4.0,-0.25
+1723.0,GA,HQU,Thomson,Thomson-McDuffie County,GA,None,3.0,14.0,-0.7857
+1812.0,GA,LGC,La Grange,La Grange-Callaway,GA,None,2.0,0.0,0.0
+1822.0,GA,PIM,Pine Mountain,Callaway Gardens-Harris County,GA,None,2.0,0.0,0.0
+1844.0,GA,WDR,Winder,Winder-Barrow,GA,None,2.0,0.0,0.0
+1910.0,GA,MGR,Moultrie,Moultrie Municipal,GA,None,1.0,0.0,0.0
+80.0,GU,GUM,Agana,Guam International,P,S,1336766.0,1076944.0,0.2413
+608.0,GU,UAM,"Andersen,Mariana Island",Andersen AFB,GA,None,1708.0,5785.0,-0.7048
+25.0,HI,HNL,Honolulu,Honolulu International,P,L,9579076.0,9044409.0,0.0591
+58.0,HI,OGG,Kahului,Kahului,P,M,2695000.0,2656254.0,0.0146
+81.0,HI,KOA,Kailua Kona,Kona International at Keahole,P,S,1260328.0,1183215.0,0.0652
+83.0,HI,LIH,Lihue,Lihue,P,S,1233883.0,1228675.0,0.0042
+104.0,HI,ITO,Hilo,Hilo International,P,S,647533.0,630498.0,0.027
+240.0,HI,MKK,Kaunakakai,Molokai,P,N,66558.0,62739.0,0.0609
+261.0,HI,JHM,Lahaina,Kapalua,GA,None,48719.0,40971.0,0.1891
+267.0,HI,LNY,Lanai City,Lanai,P,N,45493.0,48231.0,-0.0568
+446.0,HI,HNM,Hana,Hana,CS,None,6199.0,8131.0,-0.2376
+451.0,HI,PAK,Hanapepe,Port Allen,GA,None,6000.0,8025.0,-0.2523
+559.0,HI,MUE,Kamuela,Waimea-Kohala,GA,None,2488.0,3348.0,-0.2569
+621.0,HI,LUP,Kalaupapa,Kalaupapa,GA,None,1616.0,1782.0,-0.0932
+655.0,HI,NGF,Kaneohe,Kaneohe Bay MCAF,GA,None,1231.0,828.0,0.4867
+1088.0,HI,HFS,Tern Island,French Frigate Shoals,GA,None,44.0,0.0,0.0
+89.0,IA,DSM,Des Moines,Des Moines International,P,S,975859.0,887515.0,0.0995
+120.0,IA,CID,Cedar Rapids,The Eastern Iowa,P,S,473770.0,468056.0,0.0122
+273.0,IA,ALO,Waterloo,Waterloo Regional,P,N,42281.0,35538.0,0.1897
+274.0,IA,SUX,Sioux City,Sioux Gateway/Col. Bud Day Field,P,N,41849.0,42262.0,-0.0098
+285.0,IA,DBQ,Dubuque,Dubuque Regional,P,N,38982.0,38644.0,0.0087
+352.0,IA,MCW,Mason City,Mason City Municipal,P,N,15893.0,14373.0,0.1058
+414.0,IA,FOD,Fort Dodge,Fort Dodge Regional,CS,None,8584.0,7556.0,0.1361
+429.0,IA,BRL,Burlington,Southeast Iowa Regional,CS,None,7261.0,7602.0,-0.0449
+719.0,IA,IOW,Iowa City,Iowa City Municipal,GA,None,765.0,36.0,20.25
+783.0,IA,CIN,Carroll,Arthur N Neu,GA,None,363.0,488.0,-0.2561
+911.0,IA,OTM,Ottumwa,Ottumwa Industrial,GA,None,123.0,6.0,19.5
+953.0,IA,SPW,Spencer,Spencer Municipal,GA,None,95.0,78.0,0.2179
+973.0,IA,MXO,Monticello,Monticello Regional,GA,None,83.0,0.0,0.0
+993.0,IA,0F3,Spirit Lake,Spirit Lake Municipal,GA,None,73.0,72.0,0.0139
+1007.0,IA,PEA,Pella,Pella Municipal,GA,None,68.0,35.0,0.9429
+1103.0,IA,CBF,Council Bluffs,Council Bluffs Municipal,GA,None,40.0,42.0,-0.0476
+1123.0,IA,EOK,Keokuk,Keokuk Municipal,GA,None,34.0,5.0,5.8
+1139.0,IA,EST,Estherville,Estherville Municipal,GA,None,31.0,30.0,0.0333
+1147.0,IA,DVN,Davenport,Davenport Municipal,GA,None,30.0,32.0,-0.0625
+1152.0,IA,SHL,Sheldon,Sheldon Municipal,GA,None,30.0,400.0,-0.925
+1255.0,IA,AMW,Ames,Ames Municipal,GA,None,18.0,550.0,-0.9673
+1258.0,IA,IKV,Ankeny,Ankeny Regional,GA,None,18.0,71.0,-0.7465
+1272.0,IA,FSW,Fort Madison,Fort Madison Municipal,GA,None,17.0,0.0,0.0
+1274.0,IA,ORC,Orange City,Orange City Municipal,GA,None,17.0,1.0,16.0
+1275.0,IA,SOY,Sioux Center,Sioux Center Municipal,GA,None,17.0,0.0,0.0
+1366.0,IA,IFA,Iowa Falls,Iowa Falls Municipal,GA,None,12.0,0.0,0.0
+1369.0,IA,MIW,Marshalltown,Marshalltown Municipal,GA,None,12.0,8.0,0.5
+1383.0,IA,CWI,Clinton,Clinton Municipal,GA,None,11.0,10.0,0.1
+1396.0,IA,MPZ,Mount Pleasant,Mount Pleasant Municipal,GA,None,11.0,0.0,0.0
+1399.0,IA,RRQ,Rock Rapids,Rock Rapids Municipal,GA,None,11.0,0.0,0.0
+1458.0,IA,AXA,Algona,Algona Municipal,GA,None,8.0,5.0,0.6
+1461.0,IA,CCY,Charles City,Charles City Municipal,GA,None,8.0,4.0,1.0
+1473.0,IA,ISB,Sibley,Sibley Municipal,GA,None,8.0,0.0,0.0
+1506.0,IA,DNS,Denison,Denison Municipal,GA,None,7.0,1.0,6.0
+1550.0,IA,EGQ,Emmetsburg,Emmetsburg Municipal,GA,None,6.0,0.0,0.0
+1568.0,IA,LRJ,Le Mars,Le Mars Municipal,GA,None,6.0,9.0,-0.3333
+1607.0,IA,FFL,Fairfield,Fairfield Municipal,GA,None,5.0,0.0,0.0
+1684.0,IA,TZT,Belle Plaine,Belle Plaine Municipal,GA,None,4.0,6.0,-0.3333
+1652.0,IA,DEH,Decorah,Decorah Municipal,GA,None,4.0,11.0,-0.6364
+1656.0,IA,FXY,Forest City,Forest City Municipal,GA,None,4.0,6.0,-0.3333
+1679.0,IA,SDA,Shenandoah,Shenandoah Municipal,GA,None,4.0,0.0,0.0
+1697.0,IA,46IA,Ankeny,Todd Field,GA,None,3.0,0.0,0.0
+1774.0,IA,4D8,Milford,Fuller,GA,None,2.0,0.0,0.0
+1885.0,IA,GFZ,Greenfield,Greenfield Municipal,GA,None,1.0,0.0,0.0
+75.0,ID,BOI,Boise,Boise Air Terminal/Gowen Field,P,S,1451728.0,1357984.0,0.069
+206.0,ID,IDA,Idaho Falls,Idaho Falls Regional,P,N,117619.0,116326.0,0.0111
+229.0,ID,SUN,Hailey,Friedman Memorial,P,N,72522.0,74741.0,-0.0297
+268.0,ID,PIH,Arbon Valley,Pocatello Regional,P,N,44435.0,43667.0,0.0176
+271.0,ID,LWS,Lewiston,Lewiston-Nez Perce County,P,N,43436.0,53907.0,-0.1942
+275.0,ID,TWF,Twin Falls,Joslin Field - Magic Valley Regional,P,N,41834.0,34201.0,0.2232
+666.0,ID,SMN,Salmon,Lemhi County,GA,None,1160.0,2304.0,-0.4965
+698.0,ID,LLJ,Challis,Challis,GA,None,900.0,0.0,0.0
+708.0,ID,S76,Coeur d'Alene,Brooks,GA,None,802.0,0.0,0.0
+796.0,ID,2U8,Stanley,Thomas Creek,GA,None,325.0,0.0,0.0
+815.0,ID,65S,Bonners Ferry,Boundary County,GA,None,282.0,0.0,0.0
+820.0,ID,S81,Indian Creek,Indian Creek USFS,GA,None,275.0,0.0,0.0
+862.0,ID,I08,Big Creek Ranger Station,Cabin Creek USFS,GA,None,200.0,0.0,0.0
+927.0,ID,MYL,McCall,McCall Municipal,GA,None,108.0,606.0,-0.8218
+937.0,ID,COE,Hayden Lake,Coeur d'Alene Air Terminal,GA,None,104.0,123.0,-0.1545
+1166.0,ID,U01,American Falls,American Falls,GA,None,28.0,125.0,-0.776
+1191.0,ID,RXE,Rexburg,Rexburg-Madison County,GA,None,25.0,0.0,0.0
+1185.0,ID,2U7,Stanley,Stanley,GA,None,25.0,0.0,0.0
+1256.0,ID,BYI,Burley,Burley Municipal,GA,None,18.0,0.0,0.0
+1265.0,ID,SZT,Sandpoint,Sandpoint,GA,None,18.0,11.0,0.6364
+1276.0,ID,U78,Soda Springs,Allen H Tigert,GA,None,17.0,13.0,0.3077
+1528.0,ID,U02,Blackfoot,McCarley Field,GA,None,7.0,0.0,0.0
+1834.0,ID,U59,Driggs,Driggs-Reed Memorial,GA,None,2.0,0.0,0.0
+1928.0,ID,S72,Saint Maries,St Maries Municipal,GA,None,1.0,0.0,0.0
+2.0,IL,ORD,Chicago,Chicago O'Hare International,P,L,36100147.0,32920387.0,0.0966
+26.0,IL,MDW,Chicago,Chicago Midway International,P,L,9238592.0,8687215.0,0.0635
+123.0,IL,MLI,Moline,Quad City International,P,S,441359.0,408219.0,0.0812
+166.0,IL,PIA,Peoria,Greater Peoria Regional,P,N,223407.0,178769.0,0.2497
+169.0,IL,BMI,Bloomington/Normal,Central IL Regional Airport at Bloomington-Normal,P,N,219918.0,207278.0,0.061
+204.0,IL,CMI,Champaign/Urbana,University of Illinois-Willard,P,N,118403.0,97189.0,0.2183
+208.0,IL,SPI,Springfield,Abraham Lincoln Capital,P,N,112017.0,123019.0,-0.0894
+259.0,IL,RFD,Rockford,Greater Rockford,P,N,49229.0,16982.0,1.8989
+363.0,IL,DEC,Decatur,Decatur,P,N,13245.0,14514.0,-0.0874
+388.0,IL,MWA,Marion,Williamson County Regional,P,N,11053.0,11200.0,-0.0131
+411.0,IL,UIN,Quincy,Quincy Regional-Baldwin Field,CS,None,8932.0,9218.0,-0.031
+456.0,IL,BLV,Belleville,Scott AFB/Midamerica,CS,None,5569.0,3802.0,0.4648
+730.0,IL,MQB,Macomb,Macomb Municipal,GA,None,673.0,7.0,95.1429
+754.0,IL,GBG,Galesburg,Galesburg Municipal,GA,None,509.0,456.0,0.1162
+779.0,IL,LOT,Chicago/Romeoville,Lewis University,GA,None,371.0,298.0,0.245
+832.0,IL,PWK,Chicago/Prospect Hgts/Whee,Palwaukee Municipal,GA,None,253.0,839.0,-0.6985
+836.0,IL,UGN,Chicago/Waukegan,Waukegan Regional,GA,None,243.0,88.0,1.7614
+848.0,IL,CPS,Cahokia/St Louis,St Louis Downtown,GA,None,219.0,29.0,6.5517
+878.0,IL,DPA,Chicago/West Chicago,Dupage,GA,None,172.0,317.0,-0.4574
+917.0,IL,MTO,Mattoon/Charleston,Coles County Memorial,GA,None,118.0,178.0,-0.3371
+920.0,IL,MDH,Carbondale/Murphysboro,Southern Illinois,GA,None,117.0,91.0,0.2857
+940.0,IL,1H2,Effingham,Effingham County Memorial,GA,None,102.0,15.0,5.8
+1049.0,IL,IKK,Kankakee,Greater Kankakee,GA,None,53.0,66.0,-0.197
+1055.0,IL,I01,Joliet,Empress River Casino,GA,None,52.0,0.0,0.0
+1063.0,IL,I63,Mount Sterling,Mount Sterling Municipal,GA,None,50.0,0.0,0.0
+1101.0,IL,3MY,Peoria,Mount Hawley Auxiliary,GA,None,40.0,30.0,0.3333
+1109.0,IL,ARR,Chicago/Aurora,Aurora Municipal,GA,None,39.0,126.0,-0.6905
+1146.0,IL,CTK,Canton,Ingersoll,GA,None,30.0,2.0,14.0
+1155.0,IL,ALN,Alton/St Louis,St Louis Regional,GA,None,29.0,1.0,28.0
+1189.0,IL,IGQ,Chicago,Lansing Municipal,GA,None,25.0,0.0,0.0
+1230.0,IL,DKB,De Kalb,De Kalb Taylor Municipal,GA,None,20.0,23.0,-0.1304
+1264.0,IL,SLO,Salem,Salem-Leckrone,GA,None,18.0,0.0,0.0
+1397.0,IL,MVN,Mount Vernon,Mount Vernon,GA,None,11.0,0.0,0.0
+1489.0,IL,06C,Chicago/Schaumburg,Schaumburg Regional,GA,None,7.0,23.0,-0.6957
+1507.0,IL,DNV,Danville,Vermilion County,GA,None,7.0,59.0,-0.8814
+1553.0,IL,FEP,Freeport,Albertus,GA,None,6.0,0.0,0.0
+1558.0,IL,HSB,Harrisburg,Harrisburg-Raleigh,GA,None,6.0,0.0,0.0
+1609.0,IL,FOA,Flora,Flora Municipal,GA,None,5.0,3.0,0.6667
+1654.0,IL,ENL,Centralia,Centralia Municipal,GA,None,4.0,0.0,0.0
+1681.0,IL,SQI,Sterling/Rockfalls,Whiteside County-Jos H Bittorf Field,GA,None,4.0,3.0,0.3333
+1720.0,IL,FWC,Fairfield,Fairfield Municipal,GA,None,3.0,0.0,0.0
+1707.0,IL,C15,Pekin,Pekin Municipal,GA,None,3.0,0.0,0.0
+1756.0,IL,VYS,Peru,Illinois Valley Regional-Walter A Duncan Field,GA,None,3.0,163.0,-0.9816
+1874.0,IL,C09,Morris,Morris Municipal - James R. Washburn Field,GA,None,1.0,0.0,0.0
+1851.0,IL,2H0,Shelbyville,Shelby County,GA,None,1.0,0.0,0.0
+45.0,IN,IND,Indianapolis,Indianapolis International,P,M,3992097.0,3673648.0,0.0867
+131.0,IN,SBN,South Bend,South Bend Regional,P,S,397565.0,404607.0,-0.0174
+143.0,IN,FWA,Fort Wayne,Fort Wayne International,P,N,329135.0,294127.0,0.119
+164.0,IN,EVV,Evansville,Evansville Regional,P,N,229671.0,217247.0,0.0572
+313.0,IN,GYY,Gary,Gary/Chicago International,P,N,27350.0,831.0,31.9122
+579.0,IN,LAF,Lafayette,Purdue University,GA,None,2177.0,9518.0,-0.7713
+620.0,IN,HUF,Terre Haute,Terre Haute International-Hulman Field,GA,None,1627.0,1131.0,0.4385
+710.0,IN,BMG,Bloomington,Monroe County,GA,None,794.0,1101.0,-0.2788
+799.0,IN,MIE,Muncie,Delaware County - Johnson Field,GA,None,319.0,165.0,0.9333
+851.0,IN,GGP,Logansport,Logansport/Cass County,GA,None,217.0,0.0,0.0
+910.0,IN,JVY,Jeffersonville,Clark Regional,GA,None,123.0,149.0,-0.1745
+986.0,IN,C65,Plymouth,Plymouth Municipal,GA,None,76.0,19.0,3.0
+1015.0,IN,VPZ,Valparaiso,Porter County Municipal,GA,None,65.0,28.0,1.3214
+1043.0,IN,GWB,Auburn,De Kalb County,GA,None,56.0,4.0,13.0
+1202.0,IN,PPO,La Porte,La Porte Municipal,GA,None,24.0,0.0,0.0
+1220.0,IN,EYE,Indianapolis,Eagle Creek Airpark,GA,None,21.0,20.0,0.05
+1223.0,IN,MQJ,McCordsville,Mount Comfort,GA,None,21.0,18.0,0.1667
+1285.0,IN,EKM,Elkhart,Elkhart Municipal,GA,None,16.0,167.0,-0.9042
+1280.0,IN,ASW,Warsaw,Warsaw Municipal,GA,None,16.0,40.0,-0.6
+1290.0,IN,TYQ,Zionsville,Indianapolis Executive,GA,None,16.0,16.0,0.0
+1304.0,IN,UMP,Fishers,Indianapolis Metropolitan,GA,None,15.0,19.0,-0.2105
+1342.0,IN,HFY,Greenwood,Greenwood Municipal,GA,None,13.0,6.0,1.1667
+1375.0,IN,TEL,Tell City,Perry County Municipal,GA,None,12.0,0.0,0.0
+1433.0,IN,BAK,Columbus,Columbus Municipal,GA,None,9.0,31.0,-0.7097
+1444.0,IN,HNB,Huntingburg,Huntingburg,GA,None,9.0,7.0,0.2857
+1443.0,IN,HHG,Huntington,Huntington Municipal,GA,None,9.0,0.0,0.0
+1445.0,IN,I76,Peru,Peru Municipal,GA,None,9.0,3.0,2.0
+1457.0,IN,ANQ,Angola,Tri-State Steuben County,GA,None,8.0,0.0,0.0
+1452.0,IN,05C,Griffith,Griffith-Merrillville,GA,None,8.0,0.0,0.0
+1495.0,IN,4I7,Greencastle,Putnam County,GA,None,7.0,10.0,-0.3
+1573.0,IN,MZZ,Marion,Marion Municipal,GA,None,6.0,38.0,-0.8421
+1559.0,IN,I22,Winchester,Randolph County,GA,None,6.0,96.0,-0.9375
+1597.0,IN,AID,Anderson,Anderson Municipal-Darlington Field,GA,None,5.0,62.0,-0.9194
+1601.0,IN,BFR,Bedford,Virgil I Grissom Municipal,GA,None,5.0,0.0,0.0
+1678.0,IN,OXI,Knox,Starke County,GA,None,4.0,0.0,0.0
+1672.0,IN,MCX,Monticello,White County,GA,None,4.0,7.0,-0.4286
+1748.0,IN,SMD,Fort Wayne,Smith Field,GA,None,3.0,2.0,0.5
+1732.0,IN,MGC,Michigan City,Michigan City Municipal,GA,None,3.0,10.0,-0.7
+1722.0,IN,GEZ,Shelbyville,Shelbyville Municipal,GA,None,3.0,0.0,0.0
+1788.0,IN,C62,Kendallville,Kendallville Municipal,GA,None,2.0,8.0,-0.75
+1786.0,IN,C03,Nappanee,Nappanee Municipal,GA,None,2.0,0.0,0.0
+1883.0,IN,FKR,Frankfort,Frankfort Municipal,GA,None,1.0,0.0,0.0
+1916.0,IN,OKK,Kokomo,Kokomo Municipal,GA,None,1.0,23.0,-0.9565
+1895.0,IN,IMS,Madison,Madison Municipal,GA,None,1.0,5.0,-0.8
+1923.0,IN,RID,Richmond,Richmond Municipal,GA,None,1.0,11.0,-0.9091
+98.0,KS,ICT,Wichita,Wichita Mid-Continent,P,S,729051.0,691191.0,0.0548
+360.0,KS,MHK,Manhattan,Manhattan Regional,P,N,13479.0,11395.0,0.1829
+399.0,KS,FOE,Topeka,Forbes Field,P,N,10009.0,12779.0,-0.2168
+409.0,KS,GCK,Garden City,Garden City Regional,CS,None,9373.0,7310.0,0.2822
+431.0,KS,HYS,Hays,Hays Regional,CS,None,7220.0,5666.0,0.2743
+449.0,KS,SLN,Salina,Salina Municipal,CS,None,6101.0,4983.0,0.2244
+460.0,KS,LBL,Liberal,Liberal Municipal,CS,None,5258.0,5208.0,0.0096
+474.0,KS,DDC,Dodge City,Dodge City Regional,CS,None,4717.0,2755.0,0.7122
+727.0,KS,GBD,Great Bend,Great Bend Municipal,GA,None,681.0,431.0,0.58
+825.0,KS,TOP,Topeka,Philip Billard Municipal,GA,None,268.0,0.0,0.0
+905.0,KS,HUT,Hutchinson,Hutchinson Municipal,GA,None,130.0,0.0,0.0
+919.0,KS,AAO,Wichita,Colonel James Jabara,GA,None,117.0,10.0,10.7
+928.0,KS,WLD,Winfield,Strother Field,GA,None,108.0,16.0,5.75
+995.0,KS,SYF,St. Francis,Cheyenne County Municipal,GA,None,72.0,112.0,-0.3571
+1047.0,KS,LWC,Lawrence,Lawrence Municipal,GA,None,54.0,21.0,1.5714
+1125.0,KS,OJC,Olathe,Johnson County Executive,GA,None,34.0,1072.0,-0.9683
+1145.0,KS,2K3,Johnson,Stanton County Municipal,GA,None,30.0,0.0,0.0
+1367.0,KS,IXD,Olathe,New Century Aircenter,GA,None,12.0,28.0,-0.5714
+1372.0,KS,PTS,Pittsburg,Atkinson Municipal,GA,None,12.0,0.0,0.0
+1415.0,KS,EWK,Newton,Newton-City-County,GA,None,10.0,335.0,-0.9701
+1428.0,KS,ULS,Ulysses,Ulysses,GA,None,10.0,1.0,9.0
+1469.0,KS,GLD,Goodland,Renner Field /Goodland Municipal/,GA,None,8.0,155.0,-0.9484
+1484.0,KS,PHG,Phillipsburg,Phillipsburg Municipal,GA,None,8.0,0.0,0.0
+1620.0,KS,MEJ,Meade,Meade Municipal,GA,None,5.0,0.0,0.0
+1727.0,KS,K59,Atchison,Amelia Earhart,GA,None,3.0,0.0,0.0
+1738.0,KS,MYZ,Marysville,Marysville Municipal,GA,None,3.0,2.0,0.5
+1728.0,KS,K83,Sabetha,Sabetha Municipal,GA,None,3.0,0.0,0.0
+1694.0,KS,3K3,Syracuse,Syracuse-Hamilton County Municipal,GA,None,3.0,0.0,0.0
+1878.0,KS,CNU,Chanute,Chanute Martin Johnson,GA,None,1.0,6.0,-0.8333
+22.0,KY,CVG,Covington,Cincinnati/Northern Kentucky International,P,L,10864547.0,10449930.0,0.0397
+68.0,KY,SDF,Louisville,Louisville International-Standiford Field,P,S,1720377.0,1656609.0,0.0385
+112.0,KY,LEX,Lexington,Blue Grass,P,S,582328.0,581899.0,0.0007
+299.0,KY,PAH,Paducah,Barkley Regional,P,N,32971.0,32839.0,0.004
+537.0,KY,OWB,Owensboro,Owensboro-Daviess County,CS,None,2850.0,6635.0,-0.5705
+560.0,KY,HOP,Fort Campbell,Campbell AAF (Fort Campbell),GA,None,2484.0,16570.0,-0.8501
+749.0,KY,BWG,Bowling Green,Bowling Green-Warren County Regional,GA,None,522.0,303.0,0.7228
+880.0,KY,LOU,Louisville,Bowman Field,GA,None,171.0,50.0,2.42
+941.0,KY,EHR,Henderson,Henderson City-County,GA,None,102.0,101.0,0.0099
+1140.0,KY,FFT,Frankfort,Capital City,GA,None,31.0,25.0,0.24
+1157.0,KY,FGX,Flemingsburg,Fleming-Mason,GA,None,29.0,23.0,0.2609
+1154.0,KY,27K,Georgetown,Georgetown Scott County - Marshall Field,GA,None,29.0,11.0,1.6364
+1212.0,KY,HVC,Hopkinsville,Hopkinsville-Christian County,GA,None,23.0,46.0,-0.5
+1226.0,KY,2I0,Madisonville,Madisonville Municipal,GA,None,20.0,10.0,1.0
+1246.0,KY,DWU,Worthington,Ashland-Boyd County,GA,None,19.0,9.0,1.1111
+1299.0,KY,LOZ,London,London-Corbin Airport-Magee Field,GA,None,15.0,19.0,-0.2105
+1417.0,KY,K22,Debord,Big Sandy Regional,GA,None,10.0,7.0,0.4286
+1416.0,KY,I39,Richmond,Madison,GA,None,10.0,0.0,0.0
+1436.0,KY,CEY,Murray,Kyle-Oakley Field,GA,None,9.0,9.0,0.0
+1549.0,KY,DVK,Danville,Stuart Powell Field,GA,None,6.0,5.0,0.2
+1532.0,KY,1A6,Middlesboro,Middlesboro-Bell County,GA,None,6.0,0.0,0.0
+1628.0,KY,PBX,Pikeville,Pike County-Hatcher Field,GA,None,5.0,6.0,-0.1667
+1658.0,KY,GLW,Glasgow,Glasgow Municipal,GA,None,4.0,27.0,-0.8519
+1669.0,KY,M25,Mayfield,Mayfield Graves County,GA,None,4.0,10.0,-0.6
+1662.0,KY,IOB,Mount Sterling,Mount Sterling-Montgomery County,GA,None,4.0,418.0,-0.9904
+1726.0,KY,K20,Hazard,Wendell H Ford,GA,None,3.0,5.0,-0.4
+1857.0,KY,44I,Albany,Dale Hollow Regional (Petro Field),GA,None,1.0,0.0,0.0
+1872.0,KY,BRY,Bardstown,Samuels Field,GA,None,1.0,4.0,-0.75
+1848.0,KY,1M9,Cadiz,Lake Barkley State Park,GA,None,1.0,0.0,0.0
+1908.0,KY,M34,Gilbertsville,Kentucky Dam State Park,GA,None,1.0,0.0,0.0
+1901.0,KY,K24,Jamestown,Russell County,GA,None,1.0,0.0,0.0
+40.0,LA,MSY,Metairie,Louis Armstrong New Orleans International,P,M,4839400.0,4647706.0,0.0412
+136.0,LA,BTR,Baton Rouge,"Baton Rouge Metropolitan, Ryan Field",P,S,368354.0,355491.0,0.0362
+149.0,LA,SHV,Shreveport,Shreveport Regional,P,N,304490.0,290101.0,0.0496
+189.0,LA,LFT,Lafayette,Lafayette Regional,P,N,162080.0,155520.0,0.0422
+192.0,LA,AEX,Alexandria,Alexandria International,P,N,153124.0,112497.0,0.3611
+207.0,LA,MLU,Monroe,Monroe Regional,P,N,115424.0,102280.0,0.1285
+270.0,LA,LCH,Lake Charles,Lake Charles Regional,P,N,44108.0,40911.0,0.0781
+603.0,LA,0R3,Abbeville,Abbeville Chris Crusta Memorial,GA,None,1856.0,26.0,70.3846
+676.0,LA,BAD,Bossier City,Barksdale AFB,GA,None,1074.0,1350.0,-0.2044
+713.0,LA,NEW,New Orleans,Lakefront,GA,None,785.0,301.0,1.608
+794.0,LA,PTN,Patterson,Harry P Williams Memorial,GA,None,333.0,0.0,0.0
+850.0,LA,HUM,Houma,Houma-Terrebonne,GA,None,218.0,0.0,0.0
+1205.0,LA,TVR,"Tallulah/Vicksburg, MS",Vicksburg Tallulah Regional,GA,None,24.0,0.0,0.0
+1610.0,LA,GAO,Galliano,South Lafourche,GA,None,5.0,0.0,0.0
+1605.0,LA,DTN,Shreveport,Shreveport Downtown,GA,None,5.0,0.0,0.0
+1717.0,LA,ESF,Pineville,Esler Regional,GA,None,3.0,2.0,0.5
+1894.0,LA,IER,Natchitoches,Natchitoches Regional,GA,None,1.0,0.0,0.0
+18.0,MA,BOS,Boston,General Edward Lawrence Logan International,P,L,12758020.0,11087799.0,0.1506
+161.0,MA,ACK,Nantucket,Nantucket Memorial,P,N,243313.0,229300.0,0.0611
+185.0,MA,HYA,Hyannis,Barnstable Municipal-Boardman/Polando Field,P,N,167522.0,158360.0,0.0579
+257.0,MA,MVY,Vineyard Haven,Marthas Vineyard,P,N,49480.0,53011.0,-0.0666
+335.0,MA,EWB,New Bedford,New Bedford Regional,P,N,19686.0,21097.0,-0.0669
+346.0,MA,BED,Bedford,Laurence G Hanscom Field,P,N,17049.0,19375.0,-0.1201
+383.0,MA,PVC,Provincetown,Provincetown Municipal,P,N,11424.0,11801.0,-0.0319
+652.0,MA,ORH,Worcester,Worcester Regional,GA,None,1274.0,2234.0,-0.4297
+814.0,MA,CEF,Springfield/Chicopee,Westover ARB/Metropolitan,GA,None,286.0,377.0,-0.2414
+1081.0,MA,GDM,Gardner,Gardner Municipal,GA,None,45.0,0.0,0.0
+1114.0,MA,BVY,Beverly,Beverly Municipal,GA,None,36.0,14.0,1.5714
+1126.0,MA,OWD,Norwood,Norwood Memorial,GA,None,34.0,8.0,3.25
+1151.0,MA,PSF,Pittsfield,Pittsfield Municipal,GA,None,30.0,149.0,-0.7987
+1270.0,MA,BAF,Westfield,Barnes Municipal,GA,None,17.0,191.0,-0.911
+1333.0,MA,5B6,Falmouth,Falmouth Airpark,GA,None,13.0,0.0,0.0
+1409.0,MA,CQX,Chatham,Chatham Municipal,GA,None,10.0,2.0,4.0
+1451.0,MA,PYM,Plymouth,Plymouth Municipal,GA,None,9.0,0.0,0.0
+1476.0,MA,LWM,Lawrence,Lawrence Municipal,GA,None,8.0,2.0,3.0
+1608.0,MA,FIT,Fitchburg,Fitchburg Municipal,GA,None,5.0,16.0,-0.6875
+1600.0,MA,AQW,North Adams,Harriman-And-West,GA,None,5.0,0.0,0.0
+1646.0,MA,7B2,Northampton,Northampton,GA,None,4.0,60.0,-0.9333
+1770.0,MA,3B0,Southbridge,Southbridge Municipal,GA,None,2.0,0.0,0.0
+1884.0,MA,GBR,Great Barrington,Walter J. Koladza,GA,None,1.0,2.0,-0.5
+1847.0,MA,1B9,Mansfield,Mansfield Municipal,GA,None,1.0,0.0,0.0
+1917.0,MA,ORE,Orange,Orange Municipal,GA,None,1.0,8.0,-0.875
+23.0,MD,BWI,Glen Burnie,Baltimore/Washington International Thurgood Marshal,P,L,10103563.0,9768040.0,0.0343
+249.0,MD,SBY,Salisbury,Salisbury-Ocean City Wicomico Regional,P,N,60549.0,43163.0,0.4028
+370.0,MD,HGR,Hagerstown,Hagerstown Regional-Richard A Henson Field,P,N,12558.0,15709.0,-0.2006
+470.0,MD,ADW,Camp Springs,Andrews AFB,GA,None,4867.0,5078.0,-0.0416
+921.0,MD,CBE,Cumberland,Greater Cumberland Regional,GA,None,115.0,464.0,-0.7522
+1019.0,MD,MTN,Middle River,Martin State,GA,None,64.0,128.0,-0.5
+1075.0,MD,CGE,Cambridge,Cambridge-Dorchester,GA,None,47.0,42.0,0.119
+1314.0,MD,GAI,Gaithersburg,Montgomery County Airpark,GA,None,14.0,74.0,-0.8108
+1338.0,MD,ESN,Easton,Easton/Newnam Field,GA,None,13.0,321.0,-0.9595
+1341.0,MD,FDK,Frederick,Frederick Municipal,GA,None,13.0,37.0,-0.6486
+1380.0,MD,2W6,Leonardtown,Capt Walter Francis Duke Regional at St Mary's,GA,None,11.0,37.0,-0.7027
+1523.0,MD,OXB,Ocean City,Ocean City Municipal,GA,None,7.0,12.0,-0.4167
+1713.0,MD,DMW,Westminster,Carroll County Regional/Jack B Poage Field,GA,None,3.0,9.0,-0.6667
+1813.0,MD,M06,Havre de Grace,Havre de Grace,GA,None,2.0,0.0,0.0
+1841.0,MD,W29,Stevensville,Bay Bridge,GA,None,2.0,0.0,0.0
+100.0,ME,PWM,Portland,Portland International Jetport,P,S,687344.0,625267.0,0.0993
+138.0,ME,BGR,Bangor,Bangor International,P,S,357040.0,302547.0,0.1801
+349.0,ME,PQI,Presque Isle,Northern Maine Regional Airport at Presque Isle,P,N,16607.0,15775.0,0.0527
+369.0,ME,RKD,Rockland,Knox County Regional,P,N,12563.0,11945.0,0.0517
+394.0,ME,BHB,Bar Harbor,Hancock County-Bar Harbor,P,N,10647.0,9730.0,0.0942
+471.0,ME,AUG,Augusta,Augusta State,CS,None,4754.0,3310.0,0.4363
+683.0,ME,21M,Greenville Junction,Currier's,GA,None,1000.0,1850.0,-0.4595
+764.0,ME,NHZ,Brunswick,Brunswick NAS,GA,None,457.0,292.0,0.5651
+835.0,ME,85B,Patten,Shin Pond,GA,None,243.0,0.0,0.0
+864.0,ME,CAR,Caribou,Caribou Municipal,GA,None,197.0,73.0,1.6986
+952.0,ME,57B,Islesboro,Islesboro,GA,None,96.0,99.0,-0.0303
+1002.0,ME,HUL,Houlton,Houlton International,GA,None,70.0,145.0,-0.5172
+1038.0,ME,SFM,Sanford,Sanford Regional,GA,None,58.0,12.0,3.8333
+1092.0,ME,LEW,Auburn,Auburn/Lewiston Municipal,GA,None,42.0,376.0,-0.8883
+1219.0,ME,EPM,Eastport,Eastport Municipal,GA,None,21.0,29.0,-0.2759
+1244.0,ME,BST,Belfast,Belfast Municipal,GA,None,19.0,16.0,0.1875
+1287.0,ME,FVE,Frenchville,Northern Aroostook Regional,GA,None,16.0,24.0,-0.3333
+1346.0,ME,MVM,Machias,Machias Valley,GA,None,13.0,19.0,-0.3158
+1407.0,ME,B21,Carrabassett,Sugarloaf Regional,GA,None,10.0,0.0,0.0
+1420.0,ME,ME16,Limestone,Loring International,GA,None,10.0,12.0,-0.1667
+1563.0,ME,IZG,Fryeburg,Eastern Slopes Regional,GA,None,6.0,1.0,5.0
+1562.0,ME,IWI,Wiscasset,Wiscasset,GA,None,6.0,15.0,-0.6
+1693.0,ME,3B1,Greenville,Greenville Municipal,GA,None,3.0,0.0,0.0
+1757.0,ME,WVL,Waterville,Waterville Robert Lafleur,GA,None,3.0,18.0,-0.8333
+1760.0,ME,0B1,Bethel,Bethel Regional,GA,None,2.0,0.0,0.0
+1823.0,ME,PNN,Princeton,Princeton Municipal,GA,None,2.0,18.0,-0.8889
+11.0,MI,DTW,Detroit,Detroit Metropolitan Wayne County,P,L,17046176.0,15754017.0,0.082
+86.0,MI,GRR,Grand Rapids,Gerald R. Ford International,P,S,1074816.0,986923.0,0.0891
+108.0,MI,FNT,Flint,Bishop International,P,S,596484.0,479350.0,0.2444
+142.0,MI,LAN,Lansing,Capital City,P,N,330416.0,273426.0,0.2084
+165.0,MI,MBS,Saginaw,MBS International,P,N,227462.0,222095.0,0.0242
+167.0,MI,AZO,Kalamazoo,Kalamazoo/Battle Creek International,P,N,222128.0,222880.0,-0.0034
+176.0,MI,TVC,Traverse City,Cherry Capital,P,N,198189.0,191166.0,0.0367
+252.0,MI,SAW,Gwinn,Sawyer International,P,N,57450.0,53615.0,0.0715
+289.0,MI,PLN,Pellston,Pellston Regional Airport of Emmet County,P,N,38168.0,32958.0,0.1581
+292.0,MI,MKG,Muskegon,Muskegon County,P,N,35209.0,32693.0,0.077
+314.0,MI,CMX,Hancock,Houghton County Memorial,P,N,27213.0,26573.0,0.0241
+361.0,MI,CIU,Sault Ste. Marie,Chippewa County International,P,N,13461.0,13554.0,-0.0069
+366.0,MI,CVX,Charlevoix,Charlevoix Municipal,P,N,12769.0,15465.0,-0.1743
+395.0,MI,ESC,Escanaba,Delta County,P,N,10412.0,8359.0,0.2456
+420.0,MI,APN,Alpena,Alpena County Regional,CS,None,8193.0,8913.0,-0.0808
+422.0,MI,IMT,Iron Mountain Kingsford,Ford,CS,None,8029.0,5638.0,0.4241
+514.0,MI,PTK,Pontiac,Oakland County International,GA,None,3335.0,1451.0,1.2984
+524.0,MI,IWD,Ironwood,Gogebic-Iron County,CS,None,2957.0,2264.0,0.3061
+534.0,MI,MGN,Harbor Springs,Harbor Springs,GA,None,2880.0,2038.0,0.4132
+544.0,MI,MBL,Manistee,Manistee County-Blacker,CS,None,2718.0,2108.0,0.2894
+557.0,MI,YIP,Detroit,Willow Run,GA,None,2522.0,2573.0,-0.0198
+707.0,MI,BTL,Battle Creek,W K Kellogg,GA,None,805.0,594.0,0.3552
+732.0,MI,GLR,Gaylord,Gaylord Regional,GA,None,667.0,515.0,0.2951
+747.0,MI,JXN,Jackson,Jackson County-Reynolds Field,GA,None,534.0,76.0,6.0263
+792.0,MI,DET,Detroit,Coleman A. Young Municipal,GA,None,335.0,178.0,0.882
+834.0,MI,ACB,Bellaire,Antrim County,GA,None,248.0,164.0,0.5122
+847.0,MI,ARB,Ann Arbor,Ann Arbor Municipal,GA,None,219.0,81.0,1.7037
+853.0,MI,LDM,Ludington,Mason County,GA,None,211.0,0.0,0.0
+863.0,MI,VLL,Troy,Oakland/Troy,GA,None,198.0,256.0,-0.2266
+960.0,MI,MCD,Mackinac Island,Mackinac Island,GA,None,90.0,76.0,0.1842
+977.0,MI,MTC,Mount Clemens,Selfridge Angb,GA,None,82.0,850.0,-0.9035
+1010.0,MI,CAD,Cadillac,Wexford County,GA,None,65.0,35.0,0.8571
+1021.0,MI,TTF,Monroe,Custer,GA,None,64.0,5.0,11.8
+1036.0,MI,BIV,Holland,Tulip City,GA,None,58.0,90.0,-0.3556
+1045.0,MI,BEH,Benton Harbor,Southwest Michigan Regional,GA,None,55.0,35.0,0.5714
+1087.0,MI,ANJ,Sault Ste. Marie,Sault Ste Marie Municipal/Sanderson Field,GA,None,44.0,13.0,2.3846
+1124.0,MI,MNM,Menominee,Menominee-Marinette Twin County,GA,None,34.0,306.0,-0.8889
+1261.0,MI,PHN,Port Huron,St Clair County International,GA,None,18.0,33.0,-0.4545
+1296.0,MI,FKS,Frankfort,Frankfort Dow Memorial Field,GA,None,15.0,9.0,0.6667
+1309.0,MI,ADG,Adrian,Lenawee County,GA,None,14.0,83.0,-0.8313
+1331.0,MI,3GM,Grand Haven,Grand Haven Memorial Airpark,GA,None,13.0,3.0,3.3333
+1352.0,MI,4Y4,Gaylord,Lakes of the North,GA,None,12.0,0.0,0.0
+1371.0,MI,OSC,Oscoda,Oscoda-Wurtsmith,GA,None,12.0,0.0,0.0
+1392.0,MI,HTL,Houghton Lake,Roscommon County,GA,None,11.0,25.0,-0.56
+1385.0,MI,DUH,Lambertville,Toledo Suburban,GA,None,11.0,33.0,-0.6667
+1390.0,MI,HAI,Three Rivers,Three Rivers Municipal Dr Haines,GA,None,11.0,0.0,0.0
+1431.0,MI,50D,Crystal Falls,Iron County,GA,None,9.0,0.0,0.0
+1475.0,MI,LWA,South Haven,South Haven Area Regional,GA,None,8.0,138.0,-0.942
+1516.0,MI,JYM,Hillsdale,Hillsdale Municipal,GA,None,7.0,18.0,-0.6111
+1527.0,MI,TEW,Mason,Mason Jewett Field,GA,None,7.0,6.0,0.1667
+1536.0,MI,3CM,Bay City,James Clements Municipal,GA,None,6.0,4.0,0.5
+1587.0,MI,Y66,Drummond Island,Drummond Island,GA,None,6.0,0.0,0.0
+1571.0,MI,MOP,Mount Pleasant,Mount Pleasant Municipal,GA,None,6.0,2.0,2.0
+1599.0,MI,AMN,Alma,Gratiot Community,GA,None,5.0,0.0,0.0
+1604.0,MI,D98,Romeo,Romeo State,GA,None,5.0,0.0,0.0
+1675.0,MI,N98,Boyne City,Boyne City Municipal,GA,None,4.0,2.0,1.0
+1663.0,MI,ISQ,Manistique,Schoolcraft County,GA,None,4.0,45.0,-0.9111
+1768.0,MI,35D,Allegan,Padgham Field,GA,None,2.0,0.0,0.0
+1778.0,MI,6G8,Brooklyn,Shamrock Field,GA,None,2.0,0.0,0.0
+1830.0,MI,SLH,Cheboygan,Cheboygan County,GA,None,2.0,5.0,-0.6
+1772.0,MI,3FM,Fremont,Fremont Municipal,GA,None,2.0,1.0,1.0
+1792.0,MI,D95,Lapeer,Dupont-Lapeer,GA,None,2.0,6.0,-0.6667
+1771.0,MI,3BS,Midland,Jack Barstow,GA,None,2.0,2.0,0.0
+1859.0,MI,4D0,Grand Ledge,Abrams Municipal,GA,None,1.0,0.0,0.0
+1937.0,MI,Y70,Ionia,Ionia County,GA,None,1.0,0.0,0.0
+1897.0,MI,IRS,Sturgis,Kirsch Municipal,GA,None,1.0,0.0,0.0
+9.0,MN,MSP,Minneapolis,Minneapolis-St Paul International/Wold-Chamberlain/,P,L,17482627.0,16022988.0,0.0911
+193.0,MN,DLH,Duluth,Duluth International,P,N,150235.0,119997.0,0.252
+197.0,MN,RST,Rochester,Rochester International,P,N,138041.0,139463.0,-0.0102
+308.0,MN,BJI,Bemidji,Bemidji Regional,P,N,28676.0,27731.0,0.0341
+325.0,MN,STC,St. Cloud,St. Cloud Regional,P,N,21720.0,20024.0,0.0847
+327.0,MN,INL,International Falls,Falls International,P,N,21122.0,19566.0,0.0795
+338.0,MN,BRD,Brainerd,Brainerd Lakes Regional,P,N,19092.0,17836.0,0.0704
+407.0,MN,HIB,Hibbing,Chisholm-Hibbing,CS,None,9461.0,9332.0,0.0138
+477.0,MN,TVF,Thief River Falls,Thief River Falls Regional,CS,None,4570.0,4194.0,0.0897
+709.0,MN,GPZ,Grand Rapids,Grand Rapids/Itasca County Airport-Gordon Newstrom Field,GA,None,800.0,6448.0,-0.8759
+822.0,MN,FCM,Minneapolis,Flying Cloud,GA,None,271.0,146.0,0.8562
+824.0,MN,STP,St. Paul,St Paul Downtown Holman Field,GA,None,268.0,735.0,-0.6354
+875.0,MN,MGG,Maple Lake,Maple Lake Municipal,GA,None,175.0,0.0,0.0
+906.0,MN,MIC,Minneapolis,Crystal,GA,None,129.0,5.0,24.8
+922.0,MN,ULM,New Ulm,New Ulm Municipal,GA,None,113.0,236.0,-0.5212
+985.0,MN,COQ,Cloquet,Cloquet Carlton County,GA,None,78.0,24.0,2.25
+1040.0,MN,MKT,Mankato,Mankato Regional,GA,None,57.0,12.0,3.75
+1059.0,MN,PKD,Park Rapids,Park Rapids Municipal-Konshok Field,GA,None,51.0,0.0,0.0
+1091.0,MN,BDE,Baudette,Baudette International,GA,None,42.0,7.0,5.0
+1122.0,MN,ANE,Blaine,Anoka County-Blaine Airport(Janes Field),GA,None,34.0,42.0,-0.1905
+1150.0,MN,OTG,Worthington,Worthington Municipal,GA,None,30.0,0.0,0.0
+1158.0,MN,MJQ,Jackson,Jackson Municipal,GA,None,29.0,0.0,0.0
+1236.0,MN,MWM,Windom,Windom Municipal,GA,None,20.0,0.0,0.0
+1248.0,MN,LYV,Luverne,Quentin Aanenson Field,GA,None,19.0,0.0,0.0
+1286.0,MN,ELO,Ely,Ely Municipal,GA,None,16.0,1.0,15.0
+1303.0,MN,RGK,Red Wing,Red Wing Regional,GA,None,15.0,7.0,1.1429
+1324.0,MN,TKC,Tracy,Tracy Municipal,GA,None,14.0,0.0,0.0
+1330.0,MN,27D,Canby,Myers Field,GA,None,13.0,0.0,0.0
+1337.0,MN,DVP,Slayton,Slayton Municipal,GA,None,13.0,0.0,0.0
+1360.0,MN,BBB,Benson,Benson Municipal,GA,None,12.0,0.0,0.0
+1364.0,MN,FBL,Faribault,Faribault Municipal,GA,None,12.0,1.0,11.0
+1365.0,MN,GHW,Glenwood,Glenwood Municipal,GA,None,12.0,5.0,1.4
+1387.0,MN,FRM,Fairmont,Fairmont Municipal,GA,None,11.0,11.0,0.0
+1395.0,MN,MML,Marshall,Southwest Minnesota Regional Marshall/Ryan Field,GA,None,11.0,3.0,2.6667
+1404.0,MN,12D,Tower,Tower Municipal,GA,None,10.0,50.0,-0.8
+1468.0,MN,GDB,Granite Falls,Granite Falls Municipal/Lenzen-Roe Memorial Field,GA,None,8.0,0.0,0.0
+1584.0,MN,TOB,Dodge Center,Dodge Center,GA,None,6.0,0.0,0.0
+1569.0,MN,LVN,Lakeville,Airlake,GA,None,6.0,11.0,-0.4545
+1577.0,MN,PQN,Pipestone,Pipestone Municipal,GA,None,6.0,0.0,0.0
+1561.0,MN,ILL,Willmar,Willmar Municipal-John L Rice Field,GA,None,6.0,0.0,0.0
+1714.0,MN,DTL,Detroit Lakes,Detroit Lakes-Wething Field,GA,None,3.0,1.0,2.0
+1725.0,MN,JMR,Mora,Mora Municipal,GA,None,3.0,8.0,-0.625
+1765.0,MN,21D,Lake Elmo,Lake Elmo,GA,None,2.0,0.0,0.0
+1808.0,MN,JKJ,Moorhead,Moorhead Municipal,GA,None,2.0,5.0,-0.6
+1825.0,MN,ROX,Roseau,Roseau Municipal/Rudy Billberg Field,GA,None,2.0,0.0,0.0
+1868.0,MN,AEL,Albert Lea,Albert Lea Municipal,GA,None,1.0,0.0,0.0
+1869.0,MN,AXN,Alexandria,Chandler Field,GA,None,1.0,12.0,-0.9167
+34.0,MO,STL,St. Louis,Lambert-St Louis International,P,M,6377628.0,9922456.0,-0.3573
+39.0,MO,MCI,Kansas City,Kansas City International,P,M,5040595.0,4860047.0,0.0371
+139.0,MO,SGF,Springfield,Springfield-Branson Regional,P,S,354326.0,314834.0,0.1254
+331.0,MO,COU,Columbia,Columbia Regional,P,N,20268.0,22548.0,-0.1011
+391.0,MO,JLN,Joplin,Joplin Regional,P,N,10784.0,15048.0,-0.2834
+440.0,MO,SUS,Chesterfield,Spirit of St. Louis,GA,None,6498.0,4653.0,0.3965
+443.0,MO,TBN,Fort Leonard Wood (U.S. Army),Waynesville Regional Airport at Forney Field,CS,None,6394.0,6254.0,0.0224
+453.0,MO,CGI,Scott City,Cape Girardeau Regional,CS,None,5949.0,8124.0,-0.2677
+585.0,MO,IRK,Kirksville,Kirksville Regional,GA,None,2108.0,2235.0,-0.0568
+677.0,MO,3SQ,St. Charles,St Charles,GA,None,1040.0,0.0,0.0
+702.0,MO,MKC,Kansas City,Charles B. Wheeler Downtown,GA,None,863.0,917.0,-0.0589
+894.0,MO,JEF,Jefferson City,Jefferson City Memorial,GA,None,154.0,74.0,1.0811
+984.0,MO,SZL,Knob Noster,Whiteman AFB,GA,None,79.0,321.0,-0.7539
+1188.0,MO,HAE,Hannibal,Hannibal Regional,GA,None,25.0,0.0,0.0
+1190.0,MO,POF,Poplar Bluff,Poplar Bluff Municipal,GA,None,25.0,116.0,-0.7845
+1224.0,MO,STJ,St. Joseph,Rosecrans Memorial,GA,None,21.0,3.0,6.0
+1278.0,MO,AIZ,Kaiser Lake Ozark,Lee C Fine Memorial,GA,None,16.0,9.0,0.7778
+1442.0,MO,H21,Camdenton,Camdenton Memorial,GA,None,9.0,0.0,0.0
+1439.0,MO,FAM,Farmington,Farmington Regional,GA,None,9.0,0.0,0.0
+1449.0,MO,PLK,Point Lookout,M. Graham Clark - Taney County,GA,None,9.0,50.0,-0.82
+1551.0,MO,EOS,Neosho,Neosho Hugh Robinson,GA,None,6.0,0.0,0.0
+1537.0,MO,3DW,Springfield,Downtown,GA,None,6.0,1.0,5.0
+1637.0,MO,UNO,West Plains,West Plains Municipal,GA,None,5.0,2.0,1.5
+1659.0,MO,GLY,Clinton,Clinton Memorial,GA,None,4.0,0.0,0.0
+1667.0,MO,LXT,Lee's Summit,Lee's Summit Municipal,GA,None,4.0,15.0,-0.7333
+1670.0,MO,M58,Monett,Monett Municipal,GA,None,4.0,0.0,0.0
+1664.0,MO,K15,Osage Beach,Grand Glaize- Osage Beach,GA,None,4.0,0.0,0.0
+1751.0,MO,TKX,Kennett,Kennett Memorial,GA,None,3.0,0.0,0.0
+1736.0,MO,MYJ,Mexico,Mexico Memorial,GA,None,3.0,0.0,0.0
+1700.0,MO,6M6,Monticello,Lewis County Regional,GA,None,3.0,16.0,-0.8125
+1753.0,MO,VIH,Rolla/Vichy,Rolla National,GA,None,3.0,0.0,0.0
+1712.0,MO,DMO,Sedalia,Sedalia Memorial,GA,None,3.0,0.0,0.0
+1703.0,MO,9K4,Warrensburg,Skyhaven,GA,None,3.0,2.0,0.5
+1794.0,MO,DXE,Dexter,Dexter Municipal,GA,None,2.0,0.0,0.0
+1814.0,MO,MBY,Moberly,Omar N Bradley,GA,None,2.0,0.0,0.0
+1809.0,MO,K02,Perryville,Perryville Municipal,GA,None,2.0,14.0,-0.8571
+1763.0,MO,1H0,St. Louis,Creve Coeur,GA,None,2.0,0.0,0.0
+1907.0,MO,M17,Bolivar,Bolivar Municipal,GA,None,1.0,0.0,0.0
+1889.0,MO,H19,Bowling Green,Bowling Green Municipal,GA,None,1.0,0.0,0.0
+1906.0,MO,M05,Caruthersville,Caruthersville Memorial,GA,None,1.0,0.0,0.0
+1902.0,MO,K89,Macon,Macon-Fower Memorial,GA,None,1.0,0.0,0.0
+1909.0,MO,MAW,Malden,Malden Municipal,GA,None,1.0,0.0,0.0
+1911.0,MO,MHL,Marshall,Marshall Memorial Municipal,GA,None,1.0,0.0,0.0
+1888.0,MO,GPH,Mosby,Clay County Regional,GA,None,1.0,0.0,0.0
+1934.0,MO,UUV,Sullivan,Sullivan Regional,GA,None,1.0,0.0,0.0
+111.0,MP,GSN,Saipan,Francisco C. Ada/Saipan International,P,S,584933.0,515115.0,0.1355
+278.0,MP,TNI,Tinian (Municipality),Tinian International,P,N,41080.0,32923.0,0.2478
+297.0,MP,GRO,Rota Island,Rota International,P,N,33990.0,31082.0,0.0936
+105.0,MS,JAN,Jackson,Jackson-Evers International,P,S,639947.0,607968.0,0.0526
+124.0,MS,GPT,Gulfport,Gulfport-Biloxi International,P,S,437099.0,433199.0,0.009
+296.0,MS,GTR,Columbus,Golden Triangle Regional,P,N,34282.0,34475.0,-0.0056
+312.0,MS,MEI,Meridian,Key Field,P,N,27439.0,22009.0,0.2467
+328.0,MS,TUP,Tupelo,Tupelo Regional,P,N,21107.0,20143.0,0.0479
+354.0,MS,PIB,Moselle,Hattiesburg-Laurel Regional,P,N,15430.0,11477.0,0.3444
+382.0,MS,GLH,Greenville,Mid Delta Regional,P,N,11433.0,9631.0,0.1871
+735.0,MS,HKS,Jackson,Hawkins Field,GA,None,627.0,16.0,38.1875
+816.0,MS,CBM,Columbus,Columbus AFB,GA,None,280.0,0.0,0.0
+961.0,MS,OLV,Olive Branch,Olive Branch,GA,None,90.0,132.0,-0.3182
+1006.0,MS,M11,Crystal Springs,Copiah County,GA,None,68.0,0.0,0.0
+1074.0,MS,MBO,Madison,Bruce Campbell Field,GA,None,48.0,0.0,0.0
+1193.0,MS,UTA,Tunica,Tunica Municipal,GA,None,25.0,0.0,0.0
+1203.0,MS,PQL,Pascagoula,Trent Lott International,GA,None,24.0,12.0,1.0
+1513.0,MS,HBG,Hattiesburg,Bobby L Chain Municipal,GA,None,7.0,5.0,0.4
+1529.0,MS,UOX,Oxford,University-Oxford,GA,None,7.0,246.0,-0.9715
+1592.0,MS,1R7,Brookhaven,Brookhaven-Lincoln County,GA,None,5.0,0.0,0.0
+1602.0,MS,CRX,Corinth,Roscoe Turner,GA,None,5.0,2.0,1.5
+1612.0,MS,GWO,Greenwood,Greenwood-Leflore,GA,None,5.0,8.0,-0.375
+1731.0,MS,M40,Aberdeen/Amory,Monroe County,GA,None,3.0,5.0,-0.4
+1754.0,MS,VKS,Vicksburg,Vicksburg Municipal,GA,None,3.0,0.0,0.0
+1831.0,MS,STF,Starkville,George M Bryan,GA,None,2.0,1.0,1.0
+132.0,MT,BIL,Billings,Billings Logan International,P,S,395086.0,360505.0,0.0959
+144.0,MT,BZN,Bozeman,Gallatin Field,P,N,308929.0,281463.0,0.0976
+156.0,MT,MSO,Missoula,Missoula International,P,N,265948.0,254466.0,0.0451
+182.0,MT,GPI,Kalispell,Glacier Park International,P,N,178596.0,170228.0,0.0492
+201.0,MT,GTF,Great Falls,Great Falls International,P,N,133762.0,126735.0,0.0554
+220.0,MT,HLN,Helena,Helena Regional,P,N,84077.0,77184.0,0.0893
+280.0,MT,BTM,Butte,Bert Mooney,P,N,40653.0,38555.0,0.0544
+387.0,MT,SDY,Sidney,Sidney-Richland Municipal,P,N,11082.0,12245.0,-0.095
+549.0,MT,WYS,West Yellowstone,Yellowstone,CS,None,2630.0,3314.0,-0.2064
+595.0,MT,GGW,Glasgow,Wokal Field/Glasgow International,GA,None,2029.0,2347.0,-0.1355
+613.0,MT,OLF,Wolf Point,L M Clayton,GA,None,1674.0,1723.0,-0.0284
+661.0,MT,GDV,Glendive,Dawson Community,GA,None,1179.0,1234.0,-0.0446
+662.0,MT,HVR,Havre,Havre City-County,GA,None,1179.0,1171.0,0.0068
+667.0,MT,MLS,Miles City,Frank Wiley Field,GA,None,1156.0,1167.0,-0.0094
+714.0,MT,LWT,Lewistown,Lewistown Municipal,GA,None,783.0,786.0,-0.0038
+990.0,MT,32S,Stevensville,Stevensville,GA,None,75.0,10.0,6.5
+1121.0,MT,S59,Libby,Libby,GA,None,35.0,2.0,16.5
+1170.0,MT,6S5,Hamilton,Ravalli County,GA,None,27.0,19.0,0.4211
+1295.0,MT,DLN,Dillon,Dillon,GA,None,15.0,32.0,-0.5313
+1548.0,MT,CTB,Cut Bank,Cut Bank Municipal,GA,None,6.0,3.0,1.0
+1695.0,MT,3U3,Anaconda,Bowman Field,GA,None,3.0,0.0,0.0
+1927.0,MT,S27,Kalispell,Kalispell City,GA,None,1.0,0.0,0.0
+1905.0,MT,LVM,Livingston,Mission Field,GA,None,1.0,9.0,-0.8889
+19.0,NC,CLT,Charlotte,Charlotte/Douglas International,P,L,12499476.0,11465366.0,0.0902
+43.0,NC,RDU,Raleigh,Raleigh-Durham International,P,M,4371883.0,3938925.0,0.1099
+79.0,NC,GSO,Greensboro,Piedmont Triad International,P,S,1339579.0,1291949.0,0.0369
+154.0,NC,ILM,Wilmington,Wilmington International,P,N,279308.0,208385.0,0.3403
+157.0,NC,AVL,Asheville,Asheville Regional,P,N,265043.0,222696.0,0.1902
+190.0,NC,FAY,Fayetteville,Fayetteville Regional/Grannis Field,P,N,158782.0,120651.0,0.316
+217.0,NC,EWN,New Bern,Craven County Regional,P,N,88349.0,66258.0,0.3334
+227.0,NC,OAJ,Jacksonville,Albert J Ellis,P,N,72637.0,40833.0,0.7789
+264.0,NC,PGV,Greenville,Pitt-Greenville,P,N,47364.0,34483.0,0.3735
+334.0,NC,NKT,Cherry Point,Cherry Point MCAS /Cunningham Field/,GA,None,19782.0,13595.0,0.4551
+342.0,NC,POB,Fayetteville,Pope AFB,GA,None,18365.0,17124.0,0.0725
+513.0,NC,INT,Winston-Salem,Smith Reynolds,GA,None,3379.0,1373.0,1.461
+533.0,NC,ISO,Kinston,Kinston Regional Jetport at Stallings Field,GA,None,2885.0,1687.0,0.7101
+757.0,NC,GSB,Goldsboro,Seymour Johnson AFB,GA,None,491.0,781.0,-0.3713
+808.0,NC,BUY,Burlington,Burlington-Alamance Regional,GA,None,300.0,0.0,0.0
+938.0,NC,JQF,Concord,Concord Regional,GA,None,104.0,146.0,-0.2877
+997.0,NC,TDF,Roxboro,Person County,GA,None,71.0,0.0,0.0
+1004.0,NC,HKY,Hickory,Hickory Regional,GA,None,69.0,270.0,-0.7444
+1005.0,NC,SOP,Pinehurst/Southern Pines,Moore County,GA,None,69.0,92.0,-0.25
+1051.0,NC,RWI,Rocky Mount,Rocky Mount-Wilson Regional,GA,None,53.0,575.0,-0.9078
+1064.0,NC,VUJ,Albemarle,Stanly County,GA,None,50.0,1.0,49.0
+1319.0,NC,RUQ,Salisbury,Rowan County,GA,None,14.0,6.0,1.3333
+1339.0,NC,EXX,Lexington,Davidson County,GA,None,13.0,0.0,0.0
+1355.0,NC,78N,Reidsville,Rockingham County Nc Shiloh,GA,None,12.0,0.0,0.0
+1422.0,NC,MRH,Beaufort,Michael J. Smith Field,GA,None,10.0,112.0,-0.9107
+1427.0,NC,UKF,North Wilkesboro,Wilkes County,GA,None,10.0,0.0,0.0
+1472.0,NC,IGX,Chapel Hill,Horace Williams,GA,None,8.0,3.0,1.6667
+1480.0,NC,MQI,Manteo,Dare County Regional,GA,None,8.0,8.0,0.0
+1572.0,NC,MRN,Morganton,Morganton-Lenoir,GA,None,6.0,2.0,2.0
+1538.0,NC,45J,Rockingham,Rockingham-Hamlet,GA,None,6.0,0.0,0.0
+1606.0,NC,EQY,Monroe,Monroe Regional,GA,None,5.0,9.0,-0.4444
+1614.0,NC,HNZ,Oxford,Henderson-Oxford,GA,None,5.0,1.0,4.0
+1715.0,NC,ECG,Elizabeth City,Elizabeth City CG Air Station/Regional,GA,None,3.0,8.0,-0.625
+1705.0,NC,AKH,Gastonia,Gastonia Municipal,GA,None,3.0,6.0,-0.5
+1801.0,NC,HBI,Asheboro,Asheboro Municipal,GA,None,2.0,0.0,0.0
+1832.0,NC,SUT,Southport,Brunswick County,GA,None,2.0,85.0,-0.9765
+1833.0,NC,SVH,Statesville,Statesville Regional,GA,None,2.0,18.0,-0.8889
+1896.0,NC,IPJ,Lincolnton,Lincolnton-Lincoln County Regional,GA,None,1.0,0.0,0.0
+1903.0,NC,LBT,Lumberton,Lumberton Municipal,GA,None,1.0,0.0,0.0
+1864.0,NC,5W8,Siler City,Siler City Municipal,GA,None,1.0,0.0,0.0
+158.0,ND,FAR,Fargo,Hector International,P,N,261872.0,250464.0,0.0455
+187.0,ND,BIS,Bismarck,Bismarck Municipal,P,N,163420.0,146077.0,0.1187
+215.0,ND,GFK,Grand Forks,Grand Forks International,P,N,91746.0,89662.0,0.0232
+225.0,ND,MOT,Minot,Minot International,P,N,74594.0,72736.0,0.0255
+447.0,ND,ISN,Williston,Sloulin Field International,CS,None,6192.0,8360.0,-0.2593
+459.0,ND,DIK,Dickinson,Dickinson - Theodore Roosevelt Regional,CS,None,5270.0,3847.0,0.3699
+526.0,ND,DVL,Devils Lake,Devils Lake Municipal,CS,None,2934.0,1998.0,0.4685
+553.0,ND,JMS,Jamestown,Jamestown Regional,CS,None,2557.0,1907.0,0.3408
+972.0,ND,MIB,Minot,Minot AFB,GA,None,83.0,405.0,-0.7951
+1613.0,ND,GWR,Gwinner,Gwinner-Roger Melroe Field,GA,None,5.0,1250.0,-0.996
+1644.0,ND,5B5,Napoleon,Napoleon Municipal,GA,None,4.0,0.0,0.0
+66.0,NE,OMA,Omaha,Eppley Airfield,P,M,1892379.0,1783714.0,0.0609
+168.0,NE,LNK,Lincoln,Lincoln,P,N,220232.0,213882.0,0.0297
+398.0,NE,BFF,Scottsbluff,Western Nebraska Regional/William B. Heilig Field,P,N,10086.0,7677.0,0.3138
+427.0,NE,LBF,North Platte,North Platte Regional Airport Lee Bird Field,CS,None,7480.0,5904.0,0.2669
+438.0,NE,GRI,Grand Island,Central Nebraska Regional,CS,None,6781.0,5908.0,0.1478
+442.0,NE,EAR,Kearney,Kearney Municipal,CS,None,6479.0,5562.0,0.1649
+589.0,NE,MCK,McCook,McCook Regional,GA,None,2085.0,1739.0,0.199
+632.0,NE,CDR,Chadron,Chadron Municipal,GA,None,1484.0,1141.0,0.3006
+634.0,NE,AIA,Alliance,Alliance Municipal,GA,None,1430.0,1050.0,0.3619
+731.0,NE,OFK,Norfolk,Karl Stefan Memorial,GA,None,672.0,1254.0,-0.4641
+846.0,NE,MLE,Omaha,Millard,GA,None,225.0,4.0,55.25
+945.0,NE,AHQ,Wahoo,Wahoo Municipal,GA,None,100.0,0.0,0.0
+967.0,NE,OFF,Omaha,Offutt AFB,GA,None,86.0,123.0,-0.3008
+987.0,NE,HJH,Hebron,Hebron Municipal,GA,None,76.0,0.0,0.0
+1435.0,NE,BIE,Beatrice,Beatrice Municipal,GA,None,9.0,16.0,-0.4375
+1482.0,NE,OLU,Columbus,Columbus Municipal,GA,None,8.0,1.0,7.0
+1838.0,NE,VTN,Valentine,Miller Field,GA,None,2.0,0.0,0.0
+1900.0,NE,JYR,York,York Municipal,GA,None,1.0,14.0,-0.9286
+64.0,NH,MHT,Manchester,Manchester,P,M,1973142.0,1776347.0,0.1108
+324.0,NH,PSM,Portsmouth,Pease International Tradeport,P,N,22279.0,27096.0,-0.1778
+386.0,NH,LEB,Lebanon,Lebanon Municipal,P,N,11134.0,5894.0,0.889
+1089.0,NH,LCI,Laconia,Laconia Municipal,GA,None,43.0,49.0,-0.1224
+1195.0,NH,ASH,Nashua,Boire Field,GA,None,24.0,12.0,1.0
+1284.0,NH,EEN,Keene,Dillant-Hopkins,GA,None,16.0,6.0,1.6667
+1464.0,NH,CON,Concord,Concord Municipal,GA,None,8.0,191.0,-0.9581
+1789.0,NH,CNH,Claremont,Claremont Municipal,GA,None,2.0,2.0,0.0
+12.0,NJ,EWR,Newark,Newark Liberty International,P,L,15827675.0,14628708.0,0.082
+117.0,NJ,ACY,Atlantic City,Atlantic City International,P,S,508879.0,479546.0,0.0612
+364.0,NJ,TTN,Trenton,Trenton Mercer,P,N,13095.0,23997.0,-0.4543
+374.0,NJ,TEB,Teterboro,Teterboro,GA,None,12376.0,12620.0,-0.0193
+389.0,NJ,WRI,Wrightstown,McGuire AFB,GA,None,10902.0,7641.0,0.4268
+563.0,NJ,MMU,Morristown,Morristown Municipal,GA,None,2423.0,472.0,4.1335
+1271.0,NJ,BLM,Belmar,Monmouth Executive,GA,None,17.0,32.0,-0.4688
+1377.0,NJ,WWD,Wildwood,Cape May County,GA,None,12.0,0.0,0.0
+1478.0,NJ,MIV,Millville,Millville Municipal,GA,None,8.0,0.0,0.0
+1535.0,NJ,39N,Rocky Hill,Princeton,GA,None,6.0,1.0,5.0
+1598.0,NJ,AIY,Atlantic City,Atlantic City Municipal/Bader Field,GA,None,5.0,0.0,0.0
+1733.0,NJ,MJX,Toms River,Robert J. Miller Air Park,GA,None,3.0,4.0,-0.25
+1876.0,NJ,CDW,Caldwell,Essex County,GA,None,1.0,150.0,-0.9933
+1858.0,NJ,47N,Manville,Central Jersey Regional,GA,None,1.0,0.0,0.0
+1853.0,NJ,3N6,Old Bridge,Old Bridge,GA,None,1.0,3.0,-0.6667
+1913.0,NJ,N87,Robbinsville,Trenton-Robbinsville,GA,None,1.0,0.0,0.0
+1860.0,NJ,4N1,West Milford,Greenwood Lake,GA,None,1.0,0.0,0.0
+54.0,NM,ABQ,Albuquerque,Albuquerque International Sunport,P,M,3079172.0,2945468.0,0.0454
+304.0,NM,FMN,Farmington,Four Corners Regional,P,N,30517.0,24913.0,0.2249
+337.0,NM,SAF,Santa Fe,Santa Fe Municipal,P,N,19214.0,17830.0,0.0776
+417.0,NM,ROW,Roswell,Roswell International Air Center,CS,None,8482.0,6447.0,0.3157
+506.0,NM,CNM,Carlsbad,Cavern City Air Terminal,CS,None,3512.0,2426.0,0.4477
+587.0,NM,CVN,Clovis,Clovis Municipal,GA,None,2091.0,1347.0,0.5523
+598.0,NM,SVC,Silver City,Grant County,GA,None,2006.0,1510.0,0.3285
+629.0,NM,CVS,Clovis,Cannon AFB,GA,None,1511.0,577.0,1.6187
+656.0,NM,HOB,Hobbs,Lea County Regional,GA,None,1219.0,815.0,0.4957
+679.0,NM,SKX,Taos,Taos Regional,GA,None,1011.0,3725.0,-0.7286
+790.0,NM,HMN,Alamogordo,Holloman AFB,GA,None,338.0,340.0,-0.0059
+795.0,NM,ALM,Alamogordo,Alamogordo-White Sands Regional,GA,None,332.0,1319.0,-0.7483
+951.0,NM,LRU,Las Cruces,Las Cruces International,GA,None,97.0,43.0,1.2558
+1017.0,NM,DMN,Deming,Deming Municipal,GA,None,64.0,10.0,5.4
+1301.0,NM,NM86,Playas,Playas Air Strip,GA,None,15.0,0.0,0.0
+1302.0,NM,ONM,Socorro,Socorro Municipal,GA,None,15.0,0.0,0.0
+1318.0,NM,RTN,Raton,Raton Municipal/Crews Field,GA,None,14.0,100.0,-0.86
+1323.0,NM,TCS,Truth or Consequences,Truth Or Consequences Municipal,GA,None,14.0,2.0,6.0
+1359.0,NM,ATS,Artesia,Artesia Municipal,GA,None,12.0,3.0,3.0
+1557.0,NM,GUP,Gallup,Gallup Municipal,GA,None,6.0,1512.0,-0.996
+1570.0,NM,LVS,Las Vegas,Las Vegas Municipal,GA,None,6.0,8.0,-0.25
+1682.0,NM,SRR,Ruidoso,Sierra Blanca Regional,GA,None,4.0,59.0,-0.9322
+1702.0,NM,94E,Silver City,Whiskey Creek,GA,None,3.0,23.0,-0.8696
+1795.0,NM,E05,Hatch,Hatch Municipal,GA,None,2.0,0.0,0.0
+1867.0,NM,AEG,Albuquerque,Double Eagle II,GA,None,1.0,19.0,-0.9474
+1863.0,NM,5V5,Shiprock,Shiprock Airstrip,GA,None,1.0,0.0,0.0
+6.0,NV,LAS,Las Vegas,McCarran International,P,L,19943025.0,17097738.0,0.1664
+60.0,NV,RNO,Reno,Reno/Tahoe International,P,M,2478179.0,2242299.0,0.1052
+155.0,NV,VGT,Las Vegas,North Las Vegas,P,N,279211.0,226722.0,0.2315
+233.0,NV,EKO,Elko,Elko Regional,P,N,71513.0,83837.0,-0.147
+298.0,NV,HND,Las Vegas,Henderson Executive,P,N,33502.0,30894.0,0.0844
+545.0,NV,LSV,Las Vegas,Nellis AFB,GA,None,2692.0,2084.0,0.2917
+649.0,NV,ELY,Ely,Ely /Yelland Field/,GA,None,1285.0,907.0,0.4168
+874.0,NV,61B,Boulder City,Boulder City Municipal,GA,None,175.0,393.0,-0.5547
+975.0,NV,67L,Mesquite,Mesquite,GA,None,82.0,22.0,2.7273
+1421.0,NV,MEV,Minden,Minden-Tahoe,GA,None,10.0,3.0,2.3333
+1785.0,NV,BTY,Beatty,Beatty,GA,None,2.0,0.0,0.0
+8.0,NY,JFK,New York,John F Kennedy International,P,L,18586863.0,15676352.0,0.1857
+20.0,NY,LGA,New York,La Guardia,P,L,12312561.0,11367309.0,0.0832
+63.0,NY,BUF,Buffalo,Buffalo Niagara International,P,M,2206385.0,2039475.0,0.0818
+71.0,NY,ALB,Albany,Albany International,P,S,1536263.0,1405611.0,0.093
+78.0,NY,ROC,Rochester,Greater Rochester International,P,S,1364869.0,1233378.0,0.1066
+85.0,NY,SYR,Syracuse,Syracuse Hancock International,P,S,1130236.0,954229.0,0.1844
+88.0,NY,ISP,Islip,Long Island MacArthur,P,S,986103.0,939880.0,0.0492
+121.0,NY,HPN,White Plains,Westchester County,P,S,462981.0,426864.0,0.0846
+160.0,NY,SWF,Newburgh,Stewart International,P,N,250006.0,201851.0,0.2386
+200.0,NY,BGM,Binghamton,Greater Binghamton/Edwin A Link Field,P,N,133894.0,126252.0,0.0605
+211.0,NY,ELM,Elmira/Corning,Elmira/Corning Regional,P,N,97122.0,86931.0,0.1172
+232.0,NY,ITH,Ithaca,Ithaca Tompkins Regional,P,N,72383.0,68262.0,0.0604
+385.0,NY,JHW,Jamestown,Chautauqua County/Jamestown,P,N,11276.0,8661.0,0.3019
+495.0,NY,ART,Watertown,Watertown International,CS,None,3728.0,2381.0,0.5657
+517.0,NY,GTB,Fort Drum,Wheeler-Sack AAF,GA,None,3203.0,3348.0,-0.0433
+519.0,NY,MSS,Massena,Massena International-Richards Field,CS,None,3083.0,2256.0,0.3666
+550.0,NY,SLK,Saranac Lake,Adirondack Regional,CS,None,2597.0,2269.0,0.1446
+570.0,NY,OGS,Ogdensburg,Ogdensburg International,GA,None,2261.0,1901.0,0.1894
+584.0,NY,UCA,Utica,Oneida County,GA,None,2122.0,1965.0,0.0799
+607.0,NY,PLB,Plattsburgh,Clinton County,GA,None,1712.0,1370.0,0.2496
+611.0,NY,FRG,North Babylon,Republic,GA,None,1692.0,2211.0,-0.2347
+696.0,NY,IAG,Niagara Falls,Niagara Falls International,GA,None,904.0,621.0,0.4557
+745.0,NY,1B1,Hudson,Columbia County,GA,None,546.0,6.0,90.0
+771.0,NY,HTO,East Hampton,East Hampton,GA,None,420.0,3503.0,-0.8801
+802.0,NY,ELZ,Wellsville,"Wellsville Municipal Airport,Tarantine Field",GA,None,309.0,181.0,0.7072
+839.0,NY,SCH,Schenectady,Schenectady County,GA,None,235.0,5.0,46.0
+946.0,NY,H43,Haverstraw,Haverstraw,GA,None,100.0,0.0,0.0
+968.0,NY,GFL,Glens Falls,Floyd Bennett Memorial,GA,None,85.0,47.0,0.8085
+1018.0,NY,FOK,Westhampton Beach,Francis S Gabreski,GA,None,64.0,93.0,-0.3118
+1032.0,NY,JRA,New York,West 30th St.,GA,None,60.0,0.0,0.0
+1044.0,NY,OLE,Olean,Cattaraugus County-Olean,GA,None,56.0,28.0,1.0
+1053.0,NY,5B2,Saratoga Springs,Saratoga County,GA,None,52.0,16.0,2.25
+1083.0,NY,POU,Poughkeepsie,Dutchess County,GA,None,45.0,124.0,-0.6371
+1159.0,NY,MTP,Montauk,Montauk,GA,None,29.0,146.0,-0.8014
+1163.0,NY,MGJ,Montgomery,Orange County,GA,None,28.0,6.0,3.6667
+1227.0,NY,6N5,New York,East 34th Street,GA,None,20.0,0.0,0.0
+1233.0,NY,JRB,New York,Port Authority Downtown Manhattan/Wall St,GA,None,20.0,0.0,0.0
+1251.0,NY,PTD,Potsdam,Potsdam Municipal/Damon Field/,GA,None,19.0,21.0,-0.0952
+1305.0,NY,0B8,Fishers Island,Elizabeth Field,GA,None,14.0,119.0,-0.8824
+1332.0,NY,4G6,Hornell,Hornell Municipal,GA,None,13.0,56.0,-0.7679
+1345.0,NY,LKP,Lake Placid,Lake Placid,GA,None,13.0,312.0,-0.9583
+1430.0,NY,44N,Millbrook,Sky Acres,GA,None,9.0,2.0,3.5
+1455.0,NY,9G3,Akron,Akron,GA,None,8.0,0.0,0.0
+1453.0,NY,21N,Mattituck,Mattituck,GA,None,8.0,1.0,7.0
+1508.0,NY,DSV,Dansville,Dansville Municipal,GA,None,7.0,5.0,0.4
+1603.0,NY,D38,Canandaigua,Canandaigua,GA,None,5.0,4.0,0.25
+1622.0,NY,N03,Cortland,Cortland County-Chase Field,GA,None,5.0,0.0,0.0
+1625.0,NY,OIC,Norwich,Lt Warren Eaton,GA,None,5.0,2.0,1.5
+1629.0,NY,PEO,Penn Yan,Penn Yan,GA,None,5.0,6.0,-0.1667
+1674.0,NY,N89,Ellenville,Joseph Y Resnick,GA,None,4.0,3.0,0.3333
+1673.0,NY,N66,Oneonta,Oneonta Municipal,GA,None,4.0,0.0,0.0
+1640.0,NY,0G7,Seneca Falls,Finger Lakes Regional,GA,None,4.0,0.0,0.0
+1711.0,NY,DKK,Dunkirk,Chautauqua County/Dunkirk,GA,None,3.0,3.0,0.0
+1741.0,NY,NY0,Johnstown,Fulton County,GA,None,3.0,5.0,-0.4
+1734.0,NY,MSV,Monticello,Sullivan County International,GA,None,3.0,0.0,0.0
+1746.0,NY,RME,Rome,Griffiss Airpark,GA,None,3.0,0.0,0.0
+1819.0,NY,N23,Sidney,Sidney Municipal,GA,None,2.0,0.0,0.0
+1866.0,NY,7N1,Corning,Corning-Painted Post,GA,None,1.0,0.0,0.0
+1891.0,NY,HWV,Shirley,Brookhaven,GA,None,1.0,0.0,0.0
+35.0,OH,CLE,Cleveland,Cleveland-Hopkins International,P,M,5389196.0,5012446.0,0.0752
+55.0,OH,CMH,Columbus,Port Columbus International,P,M,3071447.0,3050585.0,0.0068
+76.0,OH,DAY,Dayton,James M Cox Dayton International,P,S,1442849.0,1306740.0,0.1042
+102.0,OH,CAK,Akron,Akron-Canton Regional,P,S,671278.0,576472.0,0.1645
+148.0,OH,TOL,Toledo,Toledo Express,P,N,305229.0,295309.0,0.0336
+219.0,OH,LCK,Columbus,Rickenbacker International,P,N,84859.0,25514.0,2.326
+326.0,OH,YNG,Youngstown/Warren,Youngstown-Warren Regional,GA,None,21403.0,8078.0,1.6495
+633.0,OH,BKL,Cleveland,Burke Lakefront,GA,None,1471.0,573.0,1.5672
+718.0,OH,LUK,Cincinnati,Cincinnati Municipal Airport Lunken Field,GA,None,766.0,386.0,0.9845
+760.0,OH,16G,Tiffin,Seneca County,GA,None,477.0,163.0,1.9264
+763.0,OH,FFO,Dayton,Wright-Patterson AFB,GA,None,469.0,552.0,-0.1504
+770.0,OH,FDY,Findlay,Findlay,GA,None,420.0,266.0,0.5789
+774.0,OH,LNN,Willoughby,Willoughby Lost Nation Municipal,GA,None,403.0,7.0,56.5714
+821.0,OH,38D,Salem,Salem Airpark Inc,GA,None,272.0,268.0,0.0149
+833.0,OH,5G7,Bluffton,Bluffton,GA,None,249.0,230.0,0.0826
+854.0,OH,OSU,Columbus,Ohio State University,GA,None,211.0,49.0,3.3061
+898.0,OH,MFD,Mansfield,Mansfield Lahm Regional,GA,None,148.0,166.0,-0.1084
+908.0,OH,PMH,Portsmouth,Greater Portsmouth Regional,GA,None,127.0,0.0,0.0
+924.0,OH,I68,Lebanon,Lebanon-Warren County,GA,None,112.0,7.0,15.0
+959.0,OH,CGF,Cleveland,Cuyahoga County,GA,None,90.0,59.0,0.5254
+980.0,OH,TDZ,Walbridge,Metcalf Field,GA,None,80.0,49.0,0.6327
+994.0,OH,AOH,Lima,Lima Allen County,GA,None,73.0,130.0,-0.4385
+1052.0,OH,1G0,Bowling Green,Wood County,GA,None,52.0,10.0,4.2
+1054.0,OH,FZI,Fostoria,Fostoria Metropolitan,GA,None,52.0,7.0,6.4286
+1058.0,OH,MGY,Dayton,Dayton-Wright Brothers,GA,None,51.0,34.0,0.5
+1093.0,OH,LHQ,Lancaster,Fairfield County,GA,None,42.0,4.0,9.5
+1134.0,OH,SKY,Sandusky,Griffing Sandusky,GA,None,32.0,37.0,-0.1351
+1168.0,OH,56D,Upper Sandusky,Wyandot County,GA,None,27.0,10.0,1.7
+1184.0,OH,UNI,Athens/Albany,Ohio University Snyder Field,GA,None,26.0,8.0,2.25
+1182.0,OH,S24,Fremont,Sandusky County Regional,GA,None,26.0,31.0,-0.1613
+1200.0,OH,MNN,Marion,Marion Municipal,GA,None,24.0,2.0,11.0
+1201.0,OH,MRT,Marysville,Union County,GA,None,24.0,8.0,2.0
+1235.0,OH,LPR,Lorain,Lorain County Regional,GA,None,20.0,24.0,-0.1667
+1250.0,OH,PCW,Port Clinton,Carl R Keller Field,GA,None,19.0,13.0,0.4615
+1257.0,OH,GQQ,Crestline,Galion Municipal,GA,None,18.0,8.0,1.25
+1269.0,OH,AKR,Akron,Akron Fulton International,GA,None,17.0,2.0,7.5
+1288.0,OH,ISZ,Cincinnati,Cincinnati-Blue Ash,GA,None,16.0,6.0,1.6667
+1312.0,OH,DLZ,Delaware,Delaware Municipal,GA,None,14.0,32.0,-0.5625
+1326.0,OH,VTA,Newark,Newark-Heath,GA,None,14.0,3.0,3.6667
+1308.0,OH,3W2,Put-in-Bay,Put-in-Bay,GA,None,14.0,0.0,0.0
+1321.0,OH,SGH,Springfield,Springfield-Beckley Municipal,GA,None,14.0,8.0,0.75
+1349.0,OH,1G5,Medina,Medina Municipal,GA,None,12.0,1.0,11.0
+1370.0,OH,MWO,Middletown,Hook Field Municipal,GA,None,12.0,3.0,3.0
+1351.0,OH,4I9,Mount Gilead,Morrow County,GA,None,12.0,10.0,0.2
+1378.0,OH,14G,Fremont,Fremont,GA,None,11.0,22.0,-0.5
+1391.0,OH,HAO,Hamilton,Butler County Regional,GA,None,11.0,10.0,0.1
+1406.0,OH,AXV,Wapakoneta,Neil Armstrong,GA,None,10.0,29.0,-0.6552
+1483.0,OH,OXD,Oxford,Miami University,GA,None,8.0,8.0,0.0
+1530.0,OH,VES,Versailles,Darke County,GA,None,7.0,8.0,-0.125
+1560.0,OH,I43,Jackson,James A Rhodes,GA,None,6.0,0.0,0.0
+1540.0,OH,4G4,Youngstown,Youngstown Elser Metro,GA,None,6.0,5.0,0.2
+1589.0,OH,10G,Millersburg,Holmes County,GA,None,5.0,0.0,0.0
+1626.0,OH,OWX,Ottawa,Putnam County,GA,None,5.0,0.0,0.0
+1616.0,OH,I17,Piqua,Piqua - Hartzell Field,GA,None,5.0,3.0,0.6667
+1638.0,OH,VNW,Van Wert,Van Wert County,GA,None,5.0,0.0,0.0
+1653.0,OH,DFI,Defiance,Defiance Memorial,GA,None,4.0,1.0,3.0
+1690.0,OH,ZZV,Zanesville,Zanesville Municipal,GA,None,4.0,0.0,0.0
+1691.0,OH,17G,Bucyrus,Port Bucyrus-Crawford County,GA,None,3.0,0.0,0.0
+1708.0,OH,CQA,Celina,Lakefield,GA,None,3.0,3.0,0.0
+1747.0,OH,RZT,Chillicothe,Ross County,GA,None,3.0,14.0,-0.7857
+1796.0,OH,EDJ,Bellefontaine,Bellefontaine Regional,GA,None,2.0,15.0,-0.8667
+1791.0,OH,CYO,Circleville,Pickaway County Memorial,GA,None,2.0,0.0,0.0
+1759.0,OH,02G,East Liverpool,Columbiana County,GA,None,2.0,11.0,-0.8182
+1779.0,OH,7W5,Napoleon,Henry County,GA,None,2.0,7.0,-0.7143
+1773.0,OH,3G3,Wadsworth,Wadsworth Municipal,GA,None,2.0,0.0,0.0
+1806.0,OH,I23,Washington Court House,Fayette County,GA,None,2.0,0.0,0.0
+1783.0,OH,BJJ,Wooster,Wayne County,GA,None,2.0,5.0,-0.6
+1805.0,OH,I19,Xenia,Greene County-Lewis A. Jackson Regional,GA,None,2.0,0.0,0.0
+1893.0,OH,HZY,Ashtabula,Ashtabula County,GA,None,1.0,0.0,0.0
+1932.0,OH,TZR,Columbus,Bolton Field,GA,None,1.0,0.0,0.0
+69.0,OK,OKC,Oklahoma City,Will Rogers World,P,S,1695096.0,1615264.0,0.0494
+74.0,OK,TUL,Tulsa,Tulsa International,P,S,1462799.0,1363682.0,0.0727
+266.0,OK,LAW,Lawton,Lawton-Fort Sill Regional,P,N,46211.0,44673.0,0.0344
+601.0,OK,WDG,Enid,Enid Woodring Regional,GA,None,1891.0,1816.0,0.0413
+630.0,OK,PNC,Ponca City,Ponca City Regional,GA,None,1499.0,1743.0,-0.14
+762.0,OK,END,Enid,Vance AFB,GA,None,470.0,219.0,1.1461
+789.0,OK,SWO,Stillwater,Stillwater Regional,GA,None,341.0,636.0,-0.4638
+1128.0,OK,GUY,Guymon,Guymon Municipal,GA,None,33.0,195.0,-0.8308
+1160.0,OK,DUA,Durant,Eaker Field,GA,None,28.0,5.0,4.6
+1164.0,OK,PWA,Oklahoma City,Wiley Post,GA,None,28.0,217.0,-0.871
+1477.0,OK,MIO,Miami,Miami Municipal,GA,None,8.0,1.0,7.0
+1498.0,OK,ADM,Ardmore,Ardmore Municipal,GA,None,7.0,0.0,0.0
+1525.0,OK,RVS,Tulsa,Richard Lloyd Jones Jr,GA,None,7.0,9.0,-0.2222
+1552.0,OK,FDR,Frederick,Frederick Municipal,GA,None,6.0,3.0,1.0
+1721.0,OK,GCM,Claremore,Claremore Regional,GA,None,3.0,0.0,0.0
+1790.0,OK,CSM,Burns Flat,Clinton-Sherman,GA,None,2.0,7.0,-0.7143
+1797.0,OK,F29,Oklahoma City,Clarence E Page Municipal,GA,None,2.0,0.0,0.0
+1824.0,OK,RKR,Poteau,Robert S Kerr,GA,None,2.0,1.0,1.0
+1800.0,OK,H71,Pryor,Mid-America Industrial,GA,None,2.0,2.0,0.0
+1871.0,OK,AXS,Altus,Altus/Quartz Mountain Regional,GA,None,1.0,2.0,-0.5
+1887.0,OK,GMJ,Grove,Grove Municipal,GA,None,1.0,2.0,-0.5
+33.0,OR,PDX,Portland,Portland International,P,M,6379884.0,6059860.0,0.0528
+140.0,OR,EUG,Eugene,Mahlon Sweet Field,P,N,349161.0,300092.0,0.1635
+159.0,OR,MFR,Medford,Rogue Valley International - Medford,P,N,256896.0,233806.0,0.0988
+194.0,OR,RDM,Redmond,Roberts Field,P,N,149445.0,139410.0,0.072
+303.0,OR,OTH,North Bend,North Bend Municipal,P,N,31198.0,30835.0,0.0118
+311.0,OR,LMT,Klamath Falls,Klamath Falls,P,N,27527.0,28375.0,-0.0299
+358.0,OR,UAO,Aurora,Aurora State,GA,None,14217.0,9667.0,0.4707
+428.0,OR,PDT,Pendleton,Eastern Oregon Regional at Pendleton,CS,None,7454.0,8896.0,-0.1621
+843.0,OR,SLE,Salem,McNary Field,GA,None,228.0,150.0,0.52
+882.0,OR,HIO,Portland,Portland-Hillsboro,GA,None,167.0,30.0,4.5667
+886.0,OR,48OR,Roseburg,Lookingglass,GA,None,163.0,86.0,0.8953
+1070.0,OR,S33,Madras,City-County,GA,None,49.0,71.0,-0.3099
+1108.0,OR,S07,Bend,Bend Municipal,GA,None,40.0,14.0,1.8571
+1137.0,OR,BKE,Baker City,Baker City Municipal,GA,None,31.0,21.0,0.4762
+1204.0,OR,S03,Ashland,Ashland Municipal-Sumner Parker Field,GA,None,24.0,0.0,0.0
+1262.0,OR,RBG,Roseburg,Roseburg Regional,GA,None,18.0,18.0,0.0
+1315.0,OR,HRI,Hermiston,Hermiston Municipal,GA,None,14.0,24.0,-0.4167
+1363.0,OR,CVO,Corvallis,Corvallis Municipal,GA,None,12.0,25.0,-0.52
+1353.0,OR,5J0,John Day,Grant County Regional/Ogilvie Field,GA,None,12.0,8.0,0.5
+1368.0,OR,LGD,La Grande,La Grande/Union County,GA,None,12.0,10.0,0.2
+1423.0,OR,ONP,Newport,Newport Municipal,GA,None,10.0,11.0,-0.0909
+1411.0,OR,DLS,The Dalles,Columbia Gorge Regional/The Dalles Municipal,GA,None,10.0,10.0,0.0
+1456.0,OR,9S9,Lexington,Lexington,GA,None,8.0,0.0,0.0
+1520.0,OR,MMV,McMinnville,McMinnville Municipal,GA,None,7.0,25.0,-0.72
+1544.0,OR,AST,Astoria,Astoria Regional,GA,None,6.0,436.0,-0.9862
+1542.0,OR,77S,Creswell,Hobby Field,GA,None,6.0,0.0,0.0
+1579.0,OR,S21,Sunriver,Sunriver,GA,None,6.0,25.0,-0.76
+1827.0,OR,S39,Prineville,Prineville,GA,None,2.0,0.0,0.0
+1925.0,OR,S05,Bandon,Bandon State,GA,None,1.0,6.0,-0.8333
+1854.0,OR,3S8,Grants Pass,Grants Pass,GA,None,1.0,3.0,-0.6667
+17.0,PA,PHL,Philadelphia,Philadelphia International,P,L,13824332.0,11870928.0,0.1646
+32.0,PA,PIT,Pittsburgh,Pittsburgh International,P,M,6606117.0,7113460.0,-0.0713
+99.0,PA,MDT,Harrisburg,Harrisburg International,P,S,688610.0,650340.0,0.0588
+118.0,PA,ABE,Allentown,Lehigh Valley International,P,S,507203.0,494173.0,0.0264
+174.0,PA,AVP,Wilkes-Barre/Scranton,Wilkes-Barre/Scranton International,P,N,203356.0,180418.0,0.1271
+183.0,PA,ERI,Erie,Erie International/Tom Ridge Field,P,N,176112.0,138256.0,0.2738
+198.0,PA,UNV,State College,University Park,P,N,137066.0,123871.0,0.1065
+295.0,PA,IPT,Williamsport,Williamsport Regional,P,N,34499.0,27799.0,0.241
+362.0,PA,LBE,Latrobe,Arnold Palmer Regional,P,N,13329.0,16965.0,-0.2143
+381.0,PA,JST,Johnstown,John Murtha Johnstown-Cambria County,P,N,11448.0,9387.0,0.2196
+403.0,PA,DUJ,Brookville,Du Bois-Jefferson County,CS,None,9639.0,7883.0,0.2228
+410.0,PA,RDG,Reading,Reading Regional/Carl A Spaatz Field,CS,None,9288.0,17670.0,-0.4744
+421.0,PA,BFD,Bradford,Bradford Regional,CS,None,8101.0,3962.0,1.0447
+441.0,PA,AOO,Altoona,Altoona-Blair County,CS,None,6494.0,5838.0,0.1124
+520.0,PA,FKL,Franklin,Venango Regional,CS,None,3066.0,3085.0,-0.0062
+556.0,PA,LNS,Lancaster,Lancaster,CS,None,2529.0,1287.0,0.965
+699.0,PA,DYL,Doylestown,Doylestown,GA,None,897.0,17.0,51.7647
+766.0,PA,PNE,Philadelphia,Northeast Philadelphia,GA,None,449.0,356.0,0.2612
+817.0,PA,AGC,Pittsburgh,Allegheny County,GA,None,279.0,263.0,0.0608
+840.0,PA,NXX,Willow Grove,Willow Grove NAS Jrb,GA,None,232.0,73.0,2.1781
+870.0,PA,AFJ,Washington,Washington County,GA,None,183.0,208.0,-0.1202
+974.0,PA,40N,Coatesville,Chester County G O Carlson,GA,None,82.0,12.0,5.8333
+1030.0,PA,CXY,New Cumberland,Capital City,GA,None,60.0,14.0,3.2857
+1041.0,PA,THV,York,York,GA,None,57.0,4.0,13.25
+1106.0,PA,LOM,Ambler,Wings Field,GA,None,40.0,24.0,0.6667
+1173.0,PA,MPO,Mount Pocono,Pocono Mountains Municipal,GA,None,27.0,26.0,0.0385
+1289.0,PA,PTW,Pottstown,Pottstown Limerick,GA,None,16.0,8.0,1.0
+1297.0,PA,IDI,Indiana,Indiana County/Jimmy Stewart Field/,GA,None,15.0,12.0,0.25
+1328.0,PA,WBW,Wilkes-Barre,Wilkes-Barre Wyoming Valley,GA,None,14.0,0.0,0.0
+1361.0,PA,BTP,Butler,Butler County/K W Scholter Field,GA,None,12.0,1.0,11.0
+1481.0,PA,N79,Shamokin,Northumberland County,GA,None,8.0,0.0,0.0
+1554.0,PA,GKJ,Meadville,Port Meadville,GA,None,6.0,8.0,-0.25
+1582.0,PA,SEG,Selinsgrove,Penn Valley,GA,None,6.0,1.0,5.0
+1627.0,PA,OYM,St. Marys,St Marys Municipal,GA,None,5.0,0.0,0.0
+1623.0,PA,N99,West Chester,Brandywine,GA,None,5.0,1.0,4.0
+1740.0,PA,N94,Carlisle,Carlisle,GA,None,3.0,1.0,2.0
+1755.0,PA,VVS,Connellsville,Connellsville,GA,None,3.0,4.0,-0.25
+1729.0,PA,LHV,Lock Haven,William T. Piper Memorial,GA,None,3.0,4.0,-0.25
+1758.0,PA,ZER,Pottsville,Schuylkill County /Joe Zerbey/,GA,None,3.0,2.0,0.5
+1739.0,PA,N57,Toughkenamon,New Garden,GA,None,3.0,2.0,0.5
+1802.0,PA,HMZ,Bedford,Bedford County,GA,None,2.0,8.0,-0.75
+1839.0,PA,W05,Gettysburg,Gettysburg Airport and Travel Center,GA,None,2.0,0.0,0.0
+1835.0,PA,UCP,New Castle,New Castle Municipal,GA,None,2.0,138.0,-0.9855
+1777.0,PA,6G1,Titusville,Titusville,GA,None,2.0,0.0,0.0
+1843.0,PA,WAY,Waynesburg,Greene County,GA,None,2.0,0.0,0.0
+1870.0,PA,AXQ,Clarion,Clarion County,GA,None,1.0,0.0,0.0
+38.0,PR,SJU,San Juan,Luis Munoz Marin International,P,M,5222456.0,4706846.0,0.1095
+209.0,PR,BQN,Aguadilla,Rafael Hernandez,P,N,110379.0,62585.0,0.7637
+316.0,PR,X95,Fajardo,Diego Jimenez Torres,P,N,26678.0,54199.0,-0.5078
+340.0,PR,MAZ,Mayaguez,Eugenio Maria De Hostos,P,N,18578.0,20338.0,-0.0865
+356.0,PR,SIG,San Juan,Fernando Luis Ribas Dominicci,P,N,15014.0,5184.0,1.8962
+377.0,PR,VQS,Isla De Vieques,Antonio Rivera Rodriguez,P,N,11884.0,46164.0,-0.7426
+483.0,PR,CPX,Isla De Culebra,Benjamin Rivera Noriega,GA,None,4306.0,8536.0,-0.4955
+512.0,PR,PSE,Ponce,Mercedita,CS,None,3384.0,3052.0,0.1088
+716.0,PR,NRR,Roosevelt Roads,Roosevelt Roads NS (Ofstie Field),GA,None,775.0,12234.0,-0.9367
+57.0,RI,PVD,Warwick,Theodore Francis Green State,P,M,2732524.0,2553584.0,0.0701
+436.0,RI,WST,Westerly,Westerly State,CS,None,6907.0,7997.0,-0.1363
+439.0,RI,BID,Block Island,Block Island State,CS,None,6760.0,7924.0,-0.1469
+1167.0,RI,UUU,Newport,Newport State,GA,None,28.0,128.0,-0.7813
+1237.0,RI,OQU,North Kingstown,Quonset State,GA,None,20.0,2.0,9.0
+1374.0,RI,SFZ,Pawtucket,North Central State,GA,None,12.0,6.0,1.0
+92.0,SC,CHS,Charleston,Charleston AFB/International,P,S,909084.0,809052.0,0.1236
+95.0,SC,GSP,Greer,Greenville Spartanburg International,P,S,780842.0,675498.0,0.156
+96.0,SC,MYR,Myrtle Beach,Myrtle Beach International,P,S,748608.0,650106.0,0.1515
+107.0,SC,CAE,Columbia,Columbia Metropolitan,P,S,625825.0,510860.0,0.225
+245.0,SC,HXD,Hilton Head Island,Hilton Head,P,N,63256.0,60954.0,0.0378
+272.0,SC,FLO,Florence,Florence Regional,P,N,43376.0,40790.0,0.0634
+678.0,SC,SSC,Sumter,Shaw AFB,GA,None,1022.0,1545.0,-0.3385
+768.0,SC,73J,Beaufort,Beaufort County,GA,None,422.0,298.0,0.4161
+891.0,SC,GYH,Greenville,Donaldson Center,GA,None,160.0,1.0,159.0
+962.0,SC,AND,Anderson,Anderson Regional,GA,None,88.0,212.0,-0.5849
+981.0,SC,AIK,Aiken,Aiken Municipal,GA,None,79.0,3.0,25.3333
+983.0,SC,CKI,Kingstree,Williamsburg Regional,GA,None,79.0,1.0,78.0
+1008.0,SC,CRE,North Myrtle Beach,Grand Strand,GA,None,67.0,393.0,-0.8295
+1077.0,SC,JZI,Charleston,Charleston Executive,GA,None,47.0,1.0,46.0
+1082.0,SC,GMU,Greenville,Greenville Downtown,GA,None,45.0,41.0,0.0976
+1090.0,SC,OGB,Orangeburg,Orangeburg Municipal,GA,None,43.0,0.0,0.0
+1110.0,SC,GGE,Georgetown,Georgetown County,GA,None,39.0,8.0,3.875
+1165.0,SC,SPA,Spartanburg,Spartanburg Downtown Memorial,GA,None,28.0,3.0,8.3333
+1229.0,SC,CUB,Columbia,Columbia Owens Downtown,GA,None,20.0,31.0,-0.3548
+1277.0,SC,UDG,Darlington,Darlington County Jetport,GA,None,17.0,0.0,0.0
+1325.0,SC,UZA,Rock Hill,Rock Hill/York County/Bryant Field,GA,None,14.0,15.0,-0.0667
+1350.0,SC,3J1,Ridgeland,Ridgeland,GA,None,12.0,0.0,0.0
+1448.0,SC,MMT,Eastover,Mc Entire ANGS,GA,None,9.0,0.0,0.0
+1438.0,SC,DYB,Summerville,Summerville,GA,None,9.0,100.0,-0.91
+1462.0,SC,CEU,Seneca,Oconee County Regional,GA,None,8.0,9.0,-0.1111
+1496.0,SC,6J4,Saluda,Saluda County,GA,None,7.0,0.0,0.0
+1547.0,SC,CDN,Camden,Woodward Field,GA,None,6.0,6.0,0.0
+1541.0,SC,50J,Moncks Corner,Berkeley County,GA,None,6.0,1.0,5.0
+1611.0,SC,GRD,Greenwood,Greenwood County,GA,None,5.0,4.0,0.25
+1593.0,SC,27J,Newberry,Newberry County,GA,None,5.0,0.0,0.0
+1661.0,SC,HYW,Conway,Conway-Horry County,GA,None,4.0,0.0,0.0
+1671.0,SC,MAO,Marion,Marion County,GA,None,4.0,0.0,0.0
+1798.0,SC,FDW,Winnsboro,Fairfield County,GA,None,2.0,0.0,0.0
+1922.0,SC,RBW,Walterboro,Lowcountry Regional,GA,None,1.0,2.0,-0.5
+141.0,SD,FSD,Sioux Falls,Joe Foss Field,P,N,333338.0,298448.0,0.1169
+162.0,SD,RAP,Rapid City,Rapid City Regional,P,N,240703.0,217949.0,0.1044
+310.0,SD,ABR,Aberdeen,Aberdeen Regional,P,N,27766.0,25980.0,0.0687
+353.0,SD,PIR,Pierre,Pierre Regional,P,N,15514.0,15811.0,-0.0188
+413.0,SD,ATY,Watertown,Watertown Municipal,CS,None,8742.0,7963.0,0.0978
+600.0,SD,RCA,Rapid City,Ellsworth AFB,GA,None,1945.0,1451.0,0.3405
+627.0,SD,HON,Huron,Huron Regional,GA,None,1552.0,1328.0,0.1687
+715.0,SD,BKX,Brookings,Brookings Municipal,GA,None,775.0,634.0,0.2224
+841.0,SD,SPF,Spearfish,Black Hills-Clyde Ice Field,GA,None,232.0,650.0,-0.6431
+893.0,SD,0V6,Mission,Mission Sioux,GA,None,156.0,0.0,0.0
+1046.0,SD,AGZ,Wagner,Wagner Municipal,GA,None,54.0,1.0,53.0
+1072.0,SD,YKN,Yankton,Chan Gurney Municipal,GA,None,49.0,0.0,0.0
+1096.0,SD,Y14,Tea,Marv Skie-Lincoln County,GA,None,42.0,29.0,0.4483
+1113.0,SD,SFD,Winner,Bob Wiley Field,GA,None,38.0,0.0,0.0
+1149.0,SD,MHE,Mitchell,Mitchell Municipal,GA,None,30.0,14.0,1.1429
+1171.0,SD,9V9,Chamberlain,Chamberlain Municipal,GA,None,27.0,1.0,26.0
+1228.0,SD,9D1,Gregory,"Gregory Municipal, Flynn Field",GA,None,20.0,3.0,5.6667
+1253.0,SD,VMR,Vermillion,Harold Davidson Field,GA,None,19.0,0.0,0.0
+1268.0,SD,7G9,Canton,Canton Municipal,GA,None,17.0,0.0,0.0
+1292.0,SD,600000.0,De Smet,Wilder,GA,None,15.0,0.0,0.0
+1334.0,SD,8D3,Sisseton,Sisseton Municipal,GA,None,13.0,0.0,0.0
+1519.0,SD,MDS,Madison,Madison Municipal,GA,None,7.0,8.0,-0.125
+1514.0,SD,IEN,Pine Ridge,Pine Ridge,GA,None,7.0,1.0,6.0
+1492.0,SD,1D3,Platte,Platte Municipal,GA,None,7.0,0.0,0.0
+1493.0,SD,1D8,Redfield,Redfield Municipal,GA,None,7.0,0.0,0.0
+1595.0,SD,5H3,Clear Lake,Clear Lake Municipal,GA,None,5.0,0.0,0.0
+1621.0,SD,MKA,Miller,Miller Municipal,GA,None,5.0,0.0,0.0
+1596.0,SD,6V4,Wall,Wall Municipal,GA,None,5.0,5.0,0.0
+36.0,TN,MEM,Memphis,Memphis International,P,M,5295062.0,5411496.0,-0.0215
+44.0,TN,BNA,Nashville,Nashville International,P,M,4298703.0,3943236.0,0.0901
+94.0,TN,TYS,Maryville,McGhee Tyson,P,S,782135.0,692271.0,0.1298
+163.0,TN,CHA,Chattanooga,Lovell Field,P,N,235968.0,232198.0,0.0162
+172.0,TN,TRI,Bristol/Johnson/Kingsport,Tri-Cities Regional TN/VA,P,N,213650.0,195749.0,0.0914
+494.0,TN,MKL,Jackson,McKellar-Sipes Regional,CS,None,3787.0,5754.0,-0.3418
+811.0,TN,MQY,Smyrna,Smyrna,GA,None,293.0,11.0,25.6364
+831.0,TN,MOR,Morristown,Moore-Murrell,GA,None,255.0,60.0,3.25
+852.0,TN,2M8,Millington,Charles W. Baker,GA,None,213.0,33.0,5.4545
+871.0,TN,GCY,Greeneville,Greeneville-Greene County Municipal,GA,None,181.0,240.0,-0.2458
+876.0,TN,NQA,Millington,Millington Regional Jetport,GA,None,175.0,52.0,2.3654
+929.0,TN,BGF,Winchester,Winchester Municipal,GA,None,107.0,7.0,14.2857
+1079.0,TN,CSV,Crossville,Crossville Memorial-Whitson Field,GA,None,46.0,0.0,0.0
+1129.0,TN,THA,Tullahoma,Tullahoma Regional Airport/Wm Northern Field,GA,None,33.0,0.0,0.0
+1198.0,TN,M33,Gallatin,Sumner County Regional,GA,None,24.0,0.0,0.0
+1243.0,TN,3M3,Collegedale,Collegedale Municipal,GA,None,19.0,14.0,0.3571
+1294.0,TN,DKX,Knoxville,Knoxville Downtown Island,GA,None,15.0,1.0,14.0
+1394.0,TN,MBT,Murfreesboro,Murfreesboro Municipal,GA,None,11.0,2.0,4.5
+1479.0,TN,MMI,Athens,McMinn County,GA,None,8.0,2.0,3.0
+1485.0,TN,PHT,Paris,Henry County,GA,None,8.0,0.0,0.0
+1518.0,TN,M08,Bolivar,William L. Whitehurst Field,GA,None,7.0,0.0,0.0
+1555.0,TN,GKT,Sevierville,Gatlinburg-Pigeon Forge,GA,None,6.0,3.0,1.0
+1618.0,TN,LUG,Lewisburg,Ellington,GA,None,5.0,252.0,-0.9802
+1649.0,TN,CKV,Clarksville,Outlaw Field,GA,None,4.0,10.0,-0.6
+1641.0,TN,2A0,Dayton,Mark Anton,GA,None,4.0,0.0,0.0
+1730.0,TN,M29,Clifton,Hassell Field,GA,None,3.0,0.0,0.0
+1750.0,TN,TGC,Trenton,Gibson County,GA,None,3.0,0.0,0.0
+1815.0,TN,MRC,Columbia/Mount Pleasant,Maury County,GA,None,2.0,0.0,0.0
+1826.0,TN,RVN,Rogersville,Hawkins County,GA,None,2.0,0.0,0.0
+1836.0,TN,UCY,Union City,Everett-Stewart,GA,None,2.0,17.0,-0.8824
+1924.0,TN,RNC,McMinnville,Warren County Memorial,GA,None,1.0,0.0,0.0
+1899.0,TN,JWN,Nashville,John C Tune,GA,None,1.0,278.0,-0.9964
+4.0,TX,DFW,Fort Worth,Dallas/Fort Worth International,P,L,28063035.0,24976881.0,0.1236
+10.0,TX,IAH,Houston,George Bush Intercontinental/Houston,P,L,17322065.0,16134684.0,0.0736
+46.0,TX,HOU,Houston,William P Hobby,P,M,3960890.0,3703767.0,0.0694
+47.0,TX,AUS,Austin,Austin-Bergstrom International,P,M,3446564.0,3177889.0,0.0845
+48.0,TX,SAT,San Antonio,San Antonio International,P,M,3376750.0,3120098.0,0.0823
+56.0,TX,DAL,Dallas,Dallas Love Field,P,M,2945909.0,2797303.0,0.0531
+70.0,TX,ELP,El Paso,El Paso International,P,S,1555212.0,1409164.0,0.1036
+116.0,TX,LBB,Lubbock,Lubbock Preston Smith International,P,S,534388.0,508138.0,0.0517
+125.0,TX,HRL,Harlingen,Valley International,P,S,433385.0,391401.0,0.1073
+127.0,TX,AMA,Amarillo,Rick Husband Amarillo International,P,S,419055.0,387809.0,0.0806
+129.0,TX,MAF,Midland,Midland International,P,S,414883.0,395011.0,0.0503
+133.0,TX,CRP,Corpus Christi,Corpus Christi International,P,S,391952.0,360799.0,0.0863
+150.0,TX,MFE,McAllen,McAllen Miller International,P,N,301764.0,270325.0,0.1163
+221.0,TX,LRD,Laredo,Laredo International,P,N,83690.0,76077.0,0.1001
+226.0,TX,CLL,College Station,Easterwood Field,P,N,73584.0,66721.0,0.1029
+231.0,TX,GRK,Killeen,Robert Gray AAF,P,N,72436.0,0.0,0.0
+235.0,TX,TYR,Tyler,Tyler Pounds Regional,P,N,70407.0,59970.0,0.174
+238.0,TX,ABI,Abilene,Abilene Regional,P,N,67773.0,52021.0,0.3028
+239.0,TX,BRO,Brownsville,Brownsville/South Padre Island International,P,N,66587.0,60207.0,0.106
+242.0,TX,ACT,Waco,Waco Regional,P,N,65213.0,56429.0,0.1557
+246.0,TX,ILE,Killeen,Skylark Field,P,N,62216.0,123066.0,-0.4945
+250.0,TX,SJT,San Angelo,San Angelo Regional/Mathis Field,P,N,59430.0,48299.0,0.2305
+255.0,TX,BPT,Beaumont/Port Arthur,Southeast Texas Regional,P,N,53974.0,42244.0,0.2777
+269.0,TX,SPS,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,P,N,44379.0,39275.0,0.13
+305.0,TX,EFD,Houston,Ellington Field,P,N,30384.0,46484.0,-0.3464
+321.0,TX,GGG,Longview,East Texas Regional,P,N,23795.0,28986.0,-0.1791
+348.0,TX,BIF,Fort Bliss/El Paso/,Biggs AAF (Fort Bliss),GA,None,16755.0,9594.0,0.7464
+355.0,TX,LBX,Angleton/Lake Jackson,Brazoria County,GA,None,15420.0,6328.0,1.4368
+392.0,TX,VCT,Victoria,Victoria Regional,P,N,10763.0,11853.0,-0.092
+624.0,TX,GLS,Galveston,Scholes International at Galveston,GA,None,1596.0,382.0,3.178
+626.0,TX,FTW,Fort Worth,Fort Worth Meacham International,GA,None,1569.0,369.0,3.252
+628.0,TX,ADS,Dallas,Addison,GA,None,1540.0,91.0,15.9231
+635.0,TX,BWD,Brownwood,Brownwood Regional,GA,None,1417.0,1764.0,-0.1967
+637.0,TX,DYS,Abilene,Dyess AFB,GA,None,1399.0,846.0,0.6537
+653.0,TX,SKF,San Antonio,Lackland AFB (Kelly Field Annex),GA,None,1245.0,654.0,0.9037
+669.0,TX,DWH,Houston,David Wayne Hooks Memorial,GA,None,1109.0,1803.0,-0.3849
+691.0,TX,LVJ,Houston,Pearland Regional,GA,None,955.0,967.0,-0.0124
+692.0,TX,SGR,Houston,Sugar Land Regional,GA,None,948.0,986.0,-0.0385
+724.0,TX,RND,Universal City,Randolph AFB,GA,None,703.0,68.0,9.3382
+729.0,TX,AFW,Fort Worth,Fort Worth Alliance,GA,None,673.0,1024.0,-0.3428
+861.0,TX,07TA,Danbury,Salaika Aviation,GA,None,200.0,0.0,0.0
+982.0,TX,BPG,Big Spring,Big Spring McMahon-Wrinkle,GA,None,79.0,100.0,-0.21
+1000.0,TX,E41,Big Lake,Reagan County,GA,None,70.0,0.0,0.0
+1001.0,TX,FST,Fort Stockton,Fort Stockton-Pecos County,GA,None,70.0,3.0,22.3333
+1105.0,TX,HDO,Hondo,Hondo Municipal,GA,None,40.0,0.0,0.0
+1107.0,TX,PVW,Plainview,Hale County,GA,None,40.0,0.0,0.0
+1238.0,TX,OZA,Ozona,Ozona Municipal,GA,None,20.0,0.0,0.0
+1240.0,TX,VHN,Van Horn,Culberson County,GA,None,20.0,0.0,0.0
+1282.0,TX,CXO,Conroe,Lone Star Executive,GA,None,16.0,13.0,0.2308
+1389.0,TX,GLE,Gainesville,Gainesville Municipal,GA,None,11.0,4.0,1.75
+1382.0,TX,CNW,Waco,TSTC Waco,GA,None,11.0,0.0,0.0
+1429.0,TX,11R,Brenham,Brenham Municipal,GA,None,9.0,2.0,3.5
+1512.0,TX,GKY,Arlington,Arlington Municipal,GA,None,7.0,4.0,0.75
+1515.0,TX,JSO,Jacksonville,Cherokee County,GA,None,7.0,2.0,2.5
+1501.0,TX,ASL,Marshall,Harrison County,GA,None,7.0,0.0,0.0
+1556.0,TX,GPM,Grand Prairie,Grand Prairie Municipal,GA,None,6.0,6.0,0.0
+1585.0,TX,TPL,Temple,Draughon-Miller Central Texas Regional,GA,None,6.0,0.0,0.0
+1632.0,TX,SEP,Stephenville,Clark Field Municipal,GA,None,5.0,0.0,0.0
+1660.0,TX,GTU,Georgetown,Georgetown Municipal,GA,None,4.0,2.0,1.0
+1710.0,TX,CZT,Carrizo Springs,Dimmit County,GA,None,3.0,0.0,0.0
+1782.0,TX,BFE,Brownfield,Terry County,GA,None,2.0,0.0,0.0
+1793.0,TX,DTO,Denton,Denton Municipal,GA,None,2.0,0.0,0.0
+1803.0,TX,HRX,Hereford,Hereford Municipal,GA,None,2.0,0.0,0.0
+1816.0,TX,MRF,Marfa,Marfa Municipal,GA,None,2.0,19.0,-0.8947
+1818.0,TX,MWL,Mineral Wells,Mineral Wells,GA,None,2.0,2.0,0.0
+1820.0,TX,OSA,Mount Pleasant,Mount Pleasant Regional,GA,None,2.0,0.0,0.0
+1804.0,TX,I06,Tulia,City of Tulia/Swisher County Municipal,GA,None,2.0,0.0,0.0
+1931.0,TX,TDW,Amarillo,Tradewind,GA,None,1.0,0.0,0.0
+1861.0,TX,4XS7,Austin,Horseshoe Bay Airpark,GA,None,1.0,0.0,0.0
+1912.0,TX,MKN,Comanche,Comanche County-City,GA,None,1.0,0.0,0.0
+1879.0,TX,DRT,Del Rio,Del Rio International,GA,None,1.0,1.0,0.0
+1933.0,TX,UTS,Huntsville,Huntsville Municipal,GA,None,1.0,0.0,0.0
+1920.0,TX,PPA,Pampa,Perry Lefors Field,GA,None,1.0,0.0,0.0
+1892.0,TX,HYI,San Marcos,San Marcos Municipal,GA,None,1.0,0.0,0.0
+1930.0,TX,SLR,Sulphur Springs,Sulphur Springs Municipal,GA,None,1.0,3.0,-0.6667
+1935.0,TX,UVA,Uvalde,Garner Field,GA,None,1.0,0.0,0.0
+989.0,UM,MDY,Sand Island,Henderson Field,GA,None,76.0,123.0,-0.3821
+27.0,UT,SLC,Salt Lake City,Salt Lake City International,P,L,8884880.0,8958003.0,-0.0082
+262.0,UT,SGU,St. George,St George Municipal,P,N,48101.0,46301.0,0.0389
+430.0,UT,CDC,Cedar City,Cedar City Regional,CS,None,7226.0,8625.0,-0.1622
+461.0,UT,UT25,Monument Valley,Monument Valley,GA,None,5233.0,5432.0,-0.0366
+504.0,UT,CNY,Moab,Canyonlands Field,CS,None,3522.0,2914.0,0.2086
+528.0,UT,BCE,Bryce Canyon,Bryce Canyon,CS,None,2915.0,2112.0,0.3802
+647.0,UT,BTF,Bountiful,Skypark,GA,None,1289.0,0.0,0.0
+682.0,UT,HIF,Ogden,Hill AFB,GA,None,1002.0,714.0,0.4034
+693.0,UT,UT03,Hanksville,Hite,GA,None,925.0,610.0,0.5164
+701.0,UT,PVU,Provo,Provo Municipal,GA,None,882.0,800.0,0.1025
+711.0,UT,VEL,Vernal,Vernal,GA,None,788.0,2189.0,-0.64
+778.0,UT,BDG,Blanding,Blanding Municipal,GA,None,371.0,1202.0,-0.6913
+810.0,UT,PUC,Price,Carbon County,GA,None,294.0,11.0,25.7273
+856.0,UT,U34,Green River,Green River Municipal,GA,None,206.0,128.0,0.6094
+947.0,UT,U43,Monticello,Monticello,GA,None,100.0,2.0,49.0
+1095.0,UT,U52,Beaver,Beaver Municipal,GA,None,42.0,0.0,0.0
+1094.0,UT,U14,Nephi,Nephi Municipal,GA,None,42.0,0.0,0.0
+1112.0,UT,RIF,Richfield,Richfield Municipal,GA,None,38.0,10.0,2.8
+1174.0,UT,OGD,Ogden,Ogden-Hinckley,GA,None,27.0,9.0,2.0
+1192.0,UT,U55,Panguitch,Panguitch Municipal,GA,None,25.0,0.0,0.0
+1254.0,UT,74V,Roosevelt,Roosevelt Municipal,GA,None,18.0,0.0,0.0
+1412.0,UT,DTA,Delta,Delta Municipal,GA,None,10.0,5.0,1.0
+1418.0,UT,KNB,Kanab,Kanab Municipal,GA,None,10.0,17.0,-0.4118
+1586.0,UT,UT09,Green River,Tavapats Ranch,GA,None,6.0,0.0,0.0
+1567.0,UT,LGU,Logan,Logan-Cache,GA,None,6.0,5.0,0.2
+1591.0,UT,1L7,Escalante,Escalante Municipal,GA,None,5.0,0.0,0.0
+1636.0,UT,U19,Fillmore,Fillmore Municipal,GA,None,5.0,0.0,0.0
+1769.0,UT,36U,Heber City,Heber City Municipal - Russ McDonald Field,GA,None,2.0,63.0,-0.9683
+1837.0,UT,UT59,Monticello,Needles Outpost,GA,None,2.0,0.0,0.0
+1890.0,UT,HVE,Hanksville,Hanksville,GA,None,1.0,8.0,-0.875
+1852.0,UT,38U,Loa,Wayne Wonderland,GA,None,1.0,0.0,0.0
+21.0,VA,IAD,Dulles International Airport,Washington Dulles International,P,L,10961614.0,8050506.0,0.3616
+30.0,VA,DCA,Arlington,Ronald Reagan Washington National,P,L,7661532.0,6813148.0,0.1245
+65.0,VA,ORF,Norfolk,Norfolk International,P,M,1895472.0,1722999.0,0.1001
+82.0,VA,RIC,Highland Springs,Richmond International,P,S,1251406.0,1194270.0,0.0478
+122.0,VA,PHF,Newport News,Newport News/Williamsburg International,P,S,451113.0,360018.0,0.253
+147.0,VA,ROA,Roanoke,Roanoke Regional/Woodrum Field,P,N,306896.0,289055.0,0.0617
+179.0,VA,CHO,Charlottesville,Charlottesville-Albemarle,P,N,185531.0,165565.0,0.1206
+247.0,VA,LYH,Timberlake,Lynchburg Regional/Preston Glenn Field,P,N,61441.0,48608.0,0.264
+281.0,VA,NGU,Norfolk,Norfolk NS (Chambers Field),GA,None,39917.0,39295.0,0.0158
+426.0,VA,SHD,Weyers Cave,Shenandoah Valley Regional,CS,None,7709.0,7473.0,0.0316
+575.0,VA,LFI,Hampton,Langley AFB,GA,None,2238.0,93345.0,-0.976
+756.0,VA,HEF,Manassas,Manassas Regional/Harry P. Davis Field,GA,None,507.0,271.0,0.8708
+895.0,VA,NTU,Virginia Beach,Oceana NAS /Apollo Soucek Field/,GA,None,152.0,27.0,4.6296
+1014.0,VA,PSK,Dublin,New River Valley,GA,None,65.0,8.0,7.125
+1062.0,VA,DAN,Danville,Danville Regional,GA,None,50.0,5.0,9.0
+1104.0,VA,FCI,Chesterfield,Chesterfield County,GA,None,40.0,76.0,-0.4737
+1117.0,VA,PVG,Chesapeake,Hampton Roads Executive,GA,None,36.0,441.0,-0.9184
+1179.0,VA,JYO,Leesburg,Leesburg Executive,GA,None,26.0,40.0,-0.35
+1206.0,VA,VJI,Abingdon,Virginia Highlands,GA,None,24.0,30.0,-0.2
+1216.0,VA,BCB,Blacksburg,Virginia Tech/Montgomery Executive,GA,None,21.0,12.0,0.75
+1249.0,VA,OKV,Winchester,Winchester Regional,GA,None,19.0,98.0,-0.8061
+1347.0,VA,OFP,Ashland,Hanover County Municipal,GA,None,13.0,103.0,-0.8738
+1524.0,VA,RMN,Stafford,Stafford Regional,GA,None,7.0,5.0,0.4
+1531.0,VA,W66,Warrenton,Warrenton-Fauquier,GA,None,7.0,14.0,-0.5
+1615.0,VA,HSP,Hot Springs,Ingalls Field,GA,None,5.0,4.0,0.25
+1617.0,VA,LNP,Wise,Lonesome Pine,GA,None,5.0,5.0,0.0
+1745.0,VA,OMH,Orange,Orange County,GA,None,3.0,0.0,0.0
+1799.0,VA,GDY,Grundy,Grundy Municipal,GA,None,2.0,0.0,0.0
+1817.0,VA,MTV,Spencer,Blue Ridge,GA,None,2.0,2.0,0.0
+114.0,VI,STT,Charlotte Amalie,Cyril E King,P,S,557101.0,555010.0,0.0038
+186.0,VI,STX,Christiansted,Henry E Rohlsen,P,N,166070.0,152296.0,0.0904
+223.0,VI,VI22,Charlotte Amalie,Charlotte Amalie Harbor,GA,None,76820.0,0.0,0.0
+228.0,VI,VI32,Christiansted St Croix,Christiansted Harbor-SSB,GA,None,72632.0,0.0,0.0
+106.0,VT,BTV,Burlington,Burlington International,P,S,627423.0,546452.0,0.1482
+546.0,VT,RUT,Rutland,Rutland State,CS,None,2689.0,1858.0,0.4473
+1222.0,VT,MPV,Barre,Edward F Knapp State,GA,None,21.0,14.0,0.5
+1410.0,VT,DDH,Bennington,William H. Morse State,GA,None,10.0,4.0,1.5
+1454.0,VT,6B0,Middlebury,Middlebury State,GA,None,8.0,0.0,0.0
+1735.0,VT,MVL,Morrisville,Morrisville-Stowe State,GA,None,3.0,0.0,0.0
+1882.0,VT,EFK,Newport,Newport State,GA,None,1.0,0.0,0.0
+16.0,WA,SEA,Seattle,Seattle-Tacoma International,P,L,14092285.0,13109153.0,0.075
+72.0,WA,GEG,Spokane,Spokane International,P,S,1508921.0,1375698.0,0.0968
+170.0,WA,PSC,Pasco,Tri-Cities,P,N,218546.0,210979.0,0.0359
+222.0,WA,BLI,Bellingham,Bellingham International,P,N,82205.0,66437.0,0.2373
+254.0,WA,YKM,Yakima,Yakima Air Terminal/McAllister Field,P,N,54846.0,55877.0,-0.0185
+276.0,WA,EAT,East Wenatchee,Pangborn Memorial,P,N,41610.0,40609.0,0.0246
+309.0,WA,BFI,Seattle,Boeing Field/King County International,P,N,28458.0,16220.0,0.7545
+319.0,WA,ALW,Walla Walla,Walla Walla Regional,P,N,25558.0,26312.0,-0.0287
+322.0,WA,FHR,Friday Harbor,Friday Harbor,P,N,23329.0,16497.0,0.4141
+329.0,WA,PUW,Pullman,Pullman/Moscow Regional,P,N,20980.0,24569.0,-0.1461
+332.0,WA,S60,Kenmore,Kenmore Air Harbor Inc,GA,None,20213.0,36028.0,-0.439
+351.0,WA,TCM,Tacoma,McChord AFB,GA,None,16201.0,26927.0,-0.3983
+384.0,WA,CLM,Port Angeles,William R Fairchild International,P,N,11421.0,23172.0,-0.5071
+468.0,WA,MWH,Moses Lake,Grant County International,CS,None,4906.0,4976.0,-0.0141
+482.0,WA,ORS,Eastsound,Orcas Island,CS,None,4323.0,3213.0,0.3455
+484.0,WA,OLM,Olympia,Olympia,CS,None,4258.0,6868.0,-0.38
+535.0,WA,74S,Anacortes,Anacortes,CS,None,2873.0,2464.0,0.166
+744.0,WA,NUW,Oak Harbor,Whidbey Island NAS /Ault Field/,GA,None,547.0,942.0,-0.4193
+777.0,WA,PAE,Everett,Snohomish County (Paine Field),GA,None,374.0,289.0,0.2941
+873.0,WA,S31,Lopez,Lopez Island,GA,None,176.0,174.0,0.0115
+884.0,WA,76S,Oak Harbor,Wes Lupien,GA,None,166.0,460.0,-0.6391
+918.0,WA,2S0,Twisp,Twisp Municipal,GA,None,117.0,0.0,0.0
+933.0,WA,RNT,Renton,Renton Municipal,GA,None,106.0,6.0,16.6667
+956.0,WA,TIW,Tacoma,Tacoma Narrows,GA,None,93.0,30.0,2.1
+1012.0,WA,ELN,Ellensburg,Bowers Field,GA,None,65.0,50.0,0.3
+1027.0,WA,S10,Chelan,Lake Chelan,GA,None,62.0,43.0,0.4419
+1080.0,WA,DEW,Deer Park,Deer Park,GA,None,46.0,0.0,0.0
+1100.0,WA,S52,Winthrop,Methow Valley State,GA,None,41.0,20.0,1.05
+1143.0,WA,OMK,Omak,Omak,GA,None,31.0,20.0,0.55
+1177.0,WA,AWO,Arlington,Arlington Municipal,GA,None,26.0,33.0,-0.2121
+1194.0,WA,1S5,Sunnyside,Sunnyside Municipal,GA,None,24.0,12.0,1.0
+1207.0,WA,VUO,Vancouver,Pearson Field,GA,None,24.0,9.0,1.6667
+1213.0,WA,SFF,Spokane,Felts Field,GA,None,22.0,12.0,0.8333
+1215.0,WA,63S,Colville,Colville Municipal,GA,None,21.0,0.0,0.0
+1263.0,WA,S97,Brewster,Anderson Field,GA,None,18.0,8.0,1.25
+1291.0,WA,WA09,Roche Harbor,Roche Harbor,GA,None,16.0,18.0,-0.1111
+1327.0,WA,W39,Roche Harbor,Roche Harbor,GA,None,14.0,9.0,0.5556
+1403.0,WA,W01,Tonasket,Tonasket Municipal,GA,None,11.0,5.0,1.2
+1424.0,WA,RLD,Richland,Richland,GA,None,10.0,14.0,-0.2857
+1437.0,WA,CLS,Chehalis,Chehalis-Centralia,GA,None,9.0,0.0,0.0
+1459.0,WA,BVS,Burlington,Skagit Regional,GA,None,8.0,5.0,0.6
+1471.0,WA,HQM,Hoquiam,Bowerman,GA,None,8.0,10.0,-0.2
+1486.0,WA,S40,Prosser,Prosser,GA,None,8.0,11.0,-0.2727
+1490.0,WA,0S7,Oroville,Dorothy Scott,GA,None,7.0,3.0,1.3333
+1491.0,WA,0S9,Port Townsend,Jefferson County International,GA,None,7.0,9.0,-0.2222
+1580.0,WA,S98,Kennewick,Vista Field,GA,None,6.0,4.0,0.5
+1534.0,WA,1S0,Puyallup,Pierce County - Thun Field,GA,None,6.0,1.0,5.0
+1583.0,WA,SHN,Shelton,Sanderson Field,GA,None,6.0,0.0,0.0
+1631.0,WA,PWT,Bremerton,Bremerton National,GA,None,5.0,1.0,4.0
+1643.0,WA,38WA,Blakely Island,Blakely Island,GA,None,4.0,41.0,-0.9024
+1687.0,WA,WA40,Darrington,Darrington Clinic EMS,GA,None,4.0,0.0,0.0
+1647.0,WA,80T,Quincy,Quincy Municipal,GA,None,4.0,2.0,1.0
+1716.0,WA,EPH,Ephrata,Ephrata Municipal,GA,None,3.0,3.0,0.0
+1776.0,WA,68S,Davenport,Davenport,GA,None,2.0,0.0,0.0
+1842.0,WA,WA77,Enumclaw,Enumclaw,GA,None,2.0,0.0,0.0
+1811.0,WA,KLS,Kelso,Kelso-Longview,GA,None,2.0,0.0,0.0
+1829.0,WA,S70,Othello,Othello Municipal,GA,None,2.0,5.0,-0.6
+1767.0,WA,33S,Ritzville,Pru Field,GA,None,2.0,0.0,0.0
+1761.0,WA,11S,Sekiu,Sekiu,GA,None,2.0,1.0,1.0
+1840.0,WA,W28,Sequim,Sequim Valley,GA,None,2.0,1.0,1.0
+1828.0,WA,S43,Snohomish,Harvey Field,GA,None,2.0,2.0,0.0
+1929.0,WA,S94,Colfax,Port of Whitman Business Air Center,GA,None,1.0,0.0,0.0
+1856.0,WA,3W7,Electric City,Grand Coulee Dam,GA,None,1.0,1.0,0.0
+1926.0,WA,S18,Forks,Forks,GA,None,1.0,1.0,0.0
+1921.0,WA,R49,Republic,Ferry County,GA,None,1.0,0.0,0.0
+51.0,WI,MKE,Milwaukee,General Mitchell International,P,M,3302604.0,3114864.0,0.0603
+93.0,WI,MSN,Madison,Dane County Regional-Truax Field,P,S,846369.0,802730.0,0.0544
+130.0,WI,GRB,Green Bay,Austin Straubel International,P,S,400699.0,379849.0,0.0549
+153.0,WI,ATW,Appleton,Outagamie County Regional,P,N,288197.0,250225.0,0.1518
+188.0,WI,CWA,Mosinee,Central Wisconsin,P,N,163361.0,154183.0,0.0595
+202.0,WI,LSE,La Crosse,La Crosse Municipal,P,N,123678.0,112545.0,0.0989
+283.0,WI,RHI,Rhinelander,Rhinelander-Oneida County,P,N,39094.0,33476.0,0.1678
+318.0,WI,EAU,Eau Claire,Chippewa Valley Regional,P,N,25880.0,21659.0,0.1949
+454.0,WI,VOK,Camp Douglas,Volk Field,GA,None,5941.0,6350.0,-0.0644
+736.0,WI,UES,Waukesha,Waukesha County,GA,None,613.0,918.0,-0.3322
+855.0,WI,SBM,Sheboygan,Sheboygan County Memorial,GA,None,209.0,131.0,0.5954
+868.0,WI,OSH,Oshkosh,Wittman Regional,GA,None,186.0,548.0,-0.6606
+970.0,WI,MTW,Manitowoc,Manitowoc County,GA,None,84.0,62.0,0.3548
+1003.0,WI,AUW,Wausau,Wausau Downtown,GA,None,69.0,86.0,-0.1977
+1037.0,WI,RPD,Rice Lake,Rice Lake Regional - Carl's Field,GA,None,58.0,29.0,1.0
+1048.0,WI,MWC,Milwaukee,Lawrence J Timmerman,GA,None,54.0,217.0,-0.7512
+1098.0,WI,ETB,West Bend,West Bend Municipal,GA,None,41.0,35.0,0.1714
+1111.0,WI,2P2,Washington Island,Washington Island,GA,None,38.0,30.0,0.2667
+1153.0,WI,SUE,Sturgeon Bay,Door County Cherryland,GA,None,30.0,25.0,0.2
+1156.0,WI,ARV,Minocqua-Woodruff,Lakeland/Noble F. Lee Memorial Field,GA,None,29.0,32.0,-0.0938
+1162.0,WI,EGV,Eagle River,Eagle River Union,GA,None,28.0,17.0,0.6471
+1172.0,WI,JVL,Janesville,Southern Wisconsin Regional,GA,None,27.0,97.0,-0.7216
+1187.0,WI,FLD,Fond du Lac,Fond du Lac County,GA,None,25.0,11.0,1.2727
+1316.0,WI,MFI,Marshfield,Marshfield Municipal,GA,None,14.0,54.0,-0.7407
+1317.0,WI,RAC,Racine,John H Batten,GA,None,14.0,28.0,-0.5
+1336.0,WI,DLL,Baraboo,Baraboo Wisconsin Dells,GA,None,13.0,273.0,-0.9524
+1343.0,WI,HYR,Hayward,Sawyer County,GA,None,13.0,23.0,-0.4348
+1358.0,WI,ASX,Ashland,John F Kennedy Memorial,GA,None,12.0,10.0,0.2
+1393.0,WI,LUM,Menomonie,Menomonie Municipal-Score Field,GA,None,11.0,0.0,0.0
+1401.0,WI,STE,Stevens Point,Stevens Point Municipal,GA,None,11.0,339.0,-0.9676
+1413.0,WI,ENW,Kenosha,Kenosha Regional,GA,None,10.0,3.0,2.3333
+1425.0,WI,RYV,Watertown,Watertown Municipal,GA,None,10.0,15.0,-0.3333
+1488.0,WI,Y72,Tomah,Bloyer Field,GA,None,8.0,7.0,0.1429
+1504.0,WI,CLI,Clintonville,Clintonville Municipal,GA,None,7.0,11.0,-0.3636
+1494.0,WI,3D2,Ephraim,Ephraim-Fish Creek,GA,None,7.0,0.0,0.0
+1685.0,WI,UNU,Juneau,Dodge County,GA,None,4.0,8.0,-0.5
+1645.0,WI,73C,Lancaster,Lancaster Municipal,GA,None,4.0,0.0,0.0
+1666.0,WI,LNL,Land O'Lakes,Kings Land O' Lakes,GA,None,4.0,0.0,0.0
+1648.0,WI,C29,Middleton,Middleton Municipal - Morey Field,GA,None,4.0,447.0,-0.9911
+1683.0,WI,TKV,Tomahawk,Tomahawk Regional,GA,None,4.0,0.0,0.0
+1787.0,WI,C59,Delavan,Lake Lawn,GA,None,2.0,12.0,-0.8333
+1775.0,WI,57C,East Troy,East Troy Municipal,GA,None,2.0,0.0,0.0
+1821.0,WI,PBH,Phillips,Price County,GA,None,2.0,7.0,-0.7143
+1845.0,WI,WS51,Soldiers Grove,Leeward Farm,GA,None,2.0,0.0,0.0
+1904.0,WI,LNR,Lone Rock,Tri-County Regional,GA,None,1.0,0.0,0.0
+1875.0,WI,C35,Reedsburg,Reedsburg Municipal,GA,None,1.0,0.0,0.0
+1898.0,WI,ISW,Wisconsin Rapids,Alexander Field South Wood County,GA,None,1.0,36.0,-0.9722
+996.0,WK,AWK,Wake Island,Wake Island Airfield,GA,None,71.0,867.0,-0.9181
+152.0,WV,CRW,Charleston,Yeager,P,N,292054.0,239634.0,0.2188
+277.0,WV,HTS,Huntington,Tri-State/Milton J. Ferguson Field,P,N,41419.0,40958.0,0.0113
+347.0,WV,PKB,Parkersburg,Mid-Ohio Valley Regional,P,N,17018.0,12090.0,0.4076
+379.0,WV,MGW,Morgantown,Morgantown Municipal-Walter L. Bill Hart Field,P,N,11625.0,10187.0,0.1412
+380.0,WV,LWB,Lewisburg,Greenbrier Valley,P,N,11549.0,11226.0,0.0288
+402.0,WV,CKB,Clarksburg,Harrison/Marion Regional,CS,None,9722.0,10193.0,-0.0462
+522.0,WV,BKW,Beckley,Raleigh County Memorial,CS,None,3040.0,2860.0,0.0629
+593.0,WV,BLF,Bluefield,Mercer County,GA,None,2041.0,1627.0,0.2545
+976.0,WV,HLG,Wheeling,Wheeling Ohio County,GA,None,82.0,8.0,9.25
+1009.0,WV,MRB,Martinsburg,Eastern WV Regional/Shepherd Field,GA,None,67.0,110.0,-0.3909
+1701.0,WV,74D,Moundsville,Marshall County,GA,None,3.0,0.0,0.0
+1936.0,WV,W99,Petersburg,Grant County,GA,None,1.0,0.0,0.0
+173.0,WY,JAC,Jackson,Jackson Hole,P,N,212247.0,212067.0,0.0008
+237.0,WY,CPR,Casper,Natrona County International,P,N,68644.0,59546.0,0.1528
+315.0,WY,COD,Cody,Yellowstone Regional,P,N,26896.0,20216.0,0.3304
+350.0,WY,CYS,Cheyenne,Cheyenne Regional/Jerry Olson Field,P,N,16495.0,14866.0,0.1096
+359.0,WY,GCC,Gillette,Gillette-Campbell County,P,N,13544.0,12854.0,0.0537
+373.0,WY,SHR,Sheridan,Sheridan County,P,N,12398.0,10664.0,0.1626
+375.0,WY,RKS,Rock Springs,Rock Springs-Sweetwater County,P,N,12189.0,9071.0,0.3437
+376.0,WY,RIW,Riverton,Riverton Regional,P,N,12123.0,10234.0,0.1846
+396.0,WY,LAR,Laramie,Laramie Regional,P,N,10225.0,8828.0,0.1582
+562.0,WY,WRL,Worland,Worland Municipal,GA,None,2437.0,2706.0,-0.0994
+860.0,WY,SAA,Saratoga,Shively Field,GA,None,201.0,0.0,0.0
+914.0,WY,RWL,Rawlins,Rawlins Municipal/Harvey Field,GA,None,120.0,0.0,0.0
+1011.0,WY,EAN,Wheatland,Phifer Airfield,GA,None,65.0,0.0,0.0
+1130.0,WY,7V6,Guernsey,Camp Guernsey,GA,None,32.0,0.0,0.0
+1142.0,WY,LND,Lander,Hunt Field,GA,None,31.0,14.0,1.2143
+1218.0,WY,DGW,Douglas,Converse County,GA,None,21.0,0.0,0.0
+1231.0,WY,EMM,Kemmerer,Kemmerer Municipal,GA,None,20.0,0.0,0.0
+1426.0,WY,U68,Cowley/Lovell/Byron,North Big Horn County,GA,None,10.0,0.0,0.0
+1414.0,WY,EVW,Evanston,Evanston-Uinta County Burns Field,GA,None,10.0,0.0,0.0
+1450.0,WY,PNA,Pinedale,Ralph Wenz Field,GA,None,9.0,34.0,-0.7353
+1487.0,WY,TOR,Torrington,Torrington Municipal,GA,None,8.0,0.0,0.0
+1499.0,WY,AFO,Afton,Afton Municipal,GA,None,7.0,14.0,-0.5
+1503.0,WY,BPI,Big Piney,Big Piney-Marbleton,GA,None,7.0,6.0,0.1667
+1546.0,WY,BYG,Buffalo,Johnson County,GA,None,6.0,0.0,0.0
+1657.0,WY,GEY,Greybull,South Big Horn County,GA,None,4.0,265.0,-0.9849
+,,,1937.0,Airports,,,706424048.0,,

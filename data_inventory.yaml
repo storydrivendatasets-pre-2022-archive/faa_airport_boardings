@@ -2,11 +2,11 @@
 
 ### airport data
 
-data/stashed/airports.xls:
+data/stashed/airport_data/airports.xls:
   url: 'https://www.faa.gov/airports/airport_safety/airportdata_5010/menu/nfdcfacilitiesexport.cfm?Region=&District=&State=&County=&City=&Use=PU&Certification='
   landing_page: https://www.faa.gov/airports/airport_safety/airportdata_5010/menu/
 
-data/stashed/runways.xls:
+data/stashed/airport_data/runways.xls:
   url: 'https://www.faa.gov/airports/airport_safety/airportdata_5010/menu/nfdcrunwaysexport.cfm?Region=&District=&State=&County=&City=&Use=PU&Certification='
   landing_page: https://www.faa.gov/airports/airport_safety/airportdata_5010/menu/
 
