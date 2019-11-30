@@ -15,6 +15,7 @@ from xlrd import open_workbook
 def extract_csv(xlspath):
     if re.search(r'\.xls$', str(xlspath)):
         # old format; use xlrd
+        # note that integers are wrongly typecasted to floats, but oh well
         sheet = open_workbook(xlspath).sheets()[0]
         ncols = sheet.row_len(0)
         nrows = sheet.nrows

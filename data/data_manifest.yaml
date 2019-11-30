@@ -13,72 +13,72 @@ stashed/originals/runways.xls:
 
 ## boarding data
 
-stashed/originals/boardings_2018.xlsx:
+stashed/originals/boardings/2018.xlsx:
   url: https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/media/cy18-commercial-service-enplanements.xlsx
   landing_page: https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/
 
-stashed/originals/boardings_2017.xlsx:
+stashed/originals/boardings/2017.xlsx:
   url: https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/media/cy17-commercial-service-enplanements.xlsx
   landing_page: https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/previous_years/
 
-stashed/originals/boardings_2016.xlsx:
+stashed/originals/boardings/2016.xlsx:
   url: https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/media/cy16-commercial-service-enplanements.xlsx
 
-stashed/originals/boardings_2015.xlsx:
+stashed/originals/boardings/2015.xlsx:
   url: https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/media/cy15-commercial-service-enplanements.xlsx
 
-stashed/originals/boardings_2014.xlsx:
+stashed/originals/boardings/2014.xlsx:
   url: https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/media/cy14-commercial-service-enplanements.xlsx
 
-stashed/originals/boardings_2013.xlsx:
+stashed/originals/boardings/2013.xlsx:
   url: https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/media/cy13-commercial-service-enplanements.xlsx
 
-stashed/originals/boardings_2012.xlsx:
+stashed/originals/boardings/2012.xlsx:
   url: https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/media/CY12CommercialServiceEnplanements.xlsx
 
-stashed/originals/boardings_2011.xlsx:
+stashed/originals/boardings/2011.xlsx:
   url: https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/media/cy11_primary_enplanements.xlsx
 
 
-stashed/originals/boardings_2010.xls:
+stashed/originals/boardings/2010.xls:
   url: https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/media/cy10_primary_enplanements.xls
 
 
-stashed/originals/boardings_2009.xls:
+stashed/originals/boardings/2009.xls:
   url: https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/media/cy09_cs_enplanements.xls
 
 
-stashed/originals/boardings_2008.xls:
+stashed/originals/boardings/2008.xls:
   url: https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/media/cy08_primary_np_comm.xls
 
 
-stashed/originals/boardings_2007.xls:
+stashed/originals/boardings/2007.xls:
   url: https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/media/cy07_primary_np_comm.xls
 
-stashed/originals/boardings_2006.xls:
+stashed/originals/boardings/2006.xls:
   url: https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/media/cy06_primary_np_comm.xls
 
 
-stashed/originals/boardings_2005.xls:
+stashed/originals/boardings/2005.xls:
   url: https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/media/cy05_primary_np_commercial.xls
 
 
-stashed/originals/boardings_2004.xls:
+stashed/originals/boardings/2004.xls:
   url: https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/media/cy04_primary_boardings.xls
 
 
-stashed/originals/boardings_2003.xls:
+stashed/originals/boardings/2003.xls:
   url: https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/media/cy03_commercial.xls
 
 
-stashed/originals/boardings_2002.xls:
+stashed/originals/boardings/2002.xls:
   url: https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/media/cy02_commercial.xls
 
 
 
-stashed/originals/boardings_2001.xls:
+stashed/originals/boardings/2001.xls:
   url: https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/media/cy01_primary.xls
 
 
-stashed/originals/boardings_2000.pdf:
+stashed/originals/boardings/2000.pdf:
   url: https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/media/cy00_primary_rankorder.pdf

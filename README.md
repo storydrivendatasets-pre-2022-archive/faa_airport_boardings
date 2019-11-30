@@ -9,7 +9,5 @@ It also has metadata for each airport and runway:
 
 https://www.faa.gov/airports/airport_safety/airportdata_5010/menu/nfdcrunwaysexport.cfm?Region=&District=&State=&County=&City=&Use=PU&Certification=
 
-
-
 Source file manifest: [data/data_manifest.yaml](data/data_manifest.yaml)
 

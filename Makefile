@@ -13,7 +13,8 @@ ALL: clean sqlize
 
 clean:
 	@echo --- Cleaning
-	test -f $(SQLIZED_DB)  && rm $(SQLIZED_DB) || true
+	rm -f
+	rm -rf data/stashed/processed
 	rm -f data/wrangled/hello.csv
 
 
@@ -35,13 +36,20 @@ $(SQLIZED_DB): wrangle
 stash: fetch_stash process_stash
 
 process_stash:
-	./scripts/stash/pdf2txt.sh \
-		data/stashed/originals \
-		data/stashed/processed
-	@echo ""
-	./scripts/stash/excel2csv.py \
-		data/stashed/originals \
-		data/stashed/processed
+	@echo "processing boardings data"
+	./scripts/stash/boardings/excel2csv.py \
+		data/stashed/originals/boardings \
+		data/stashed/processed/boardings
+
+	./scripts/stash/boardings/pdf2txt.sh \
+		data/stashed/originals/boardings \
+		data/stashed/processed/boardings
+
+	echo ""
+	./scripts/stash/boardings/pdftext2csv.py \
+		data/stashed/processed/boardings \
+		data/stashed/processed/boardings
+
 
 # only run this when you need to do a full refresh of the source data
 # for some reason
