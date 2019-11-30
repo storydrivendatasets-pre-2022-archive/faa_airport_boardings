@@ -66,11 +66,15 @@ def process_file(srcpath):
             if '_primary' in fname and not d.get('service_level'):
                 d['service_level'] = 'P'
 
+
             # for some older XLS files, integer values in rank, boardings, and previous_year_boardings
             #   were converted to floats during the convert stage
+            # They sometimes also had commas
+
             for _k in ('rank', 'boardings', 'previous_year_boardings'):
                 val = d.get(_k)
                 if val:
+                    val = re.sub(r',+', '', val)
                     d[_k] = int(float(val))
 
             data.append(d)
