@@ -11,3 +11,11 @@ https://www.faa.gov/airports/airport_safety/airportdata_5010/menu/nfdcrunwaysexp
 
 Source file manifest: [data/data_manifest.yaml](data/data_manifest.yaml)
 
+
+## Being a developer
+
+To run the Python scripts, you'll need to load the dependencies in [requirements.txt](requirements.txt)
+
+```sh
+pip install -r requirements.txt
+```
