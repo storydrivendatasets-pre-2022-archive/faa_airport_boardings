@@ -19,3 +19,15 @@ To run the Python scripts, you'll need to load the dependencies in [requirements
 ```sh
 pip install -r requirements.txt
 ```
+
+To build the wrangled and sqlized data (i.e. `data/faa_airport_boardings.sqlite`) from the data stored in [data/stashed](data/stashed), run:
+
+```sh
+make ALL
+```
+
+To fetch the data from the FAA website – which necessitates manually fixing the [data/stashed/airport_data/manual_fix/airports.xls](data/stashed/airport_data/manual_fix/airports.xls) and [data/stashed/airport_data/manual_fix/runways.xls](data/stashed/airport_data/manual_fix/runways.xls), run:
+
+```sh
+make REBOOT
+```

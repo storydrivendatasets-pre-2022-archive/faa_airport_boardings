@@ -1,13 +1,18 @@
 #!/usr/bin/env python
 
 """
-collate.py
+collate_boardings.py
 
-gather files from data/stashed/processed.csv
+gather files from gather files from data/converted/boardings
+
+Example usage:
+
+$ scripts/collate/collate_boardings.py
+
 
 - Remove ,$ from salary column
 - collapse and strip whitespace
-- unite them as data/collated/airport_annual_boardings.csv
+- unite them as data/collated/boardings.csv
 """
 import csv
 import json

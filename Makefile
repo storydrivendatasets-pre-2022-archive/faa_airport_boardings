@@ -1,7 +1,7 @@
 .DEFAULT_GOAL := help
 .PHONY : clean help ALL manual_fix
 
-SQLIZED_DB = data/sqlized.sqlite
+SQLIZED_DB = data/faa_airport_boardings.sqlite
 
 
 
@@ -23,7 +23,9 @@ help:
 
 ALL: clean sqlize
 
+REBOOT: clean_start ALL
 
+# only do this when you want to fetch (and manually fix) data from the source
 clean_start: clean
 	rm -rf data/stashed/boardings
 	rm -rf data/stashed/airport_data
@@ -45,17 +47,21 @@ $(SQLIZED_DB): wrangle
 	@echo ""
 	@echo --- Building $@
 	@echo
-	./scripts/sqlizeboot.sh \
+	./scripts/sqlize/sqlizeboot.sh \
 		$(SQLIZED_DB) \
 		data/wrangled
+
+wrangle: collate
+	@echo "just a stub"
+	mkdir -p data/wrangled
+	cp data/collated/*.csv data/wrangled
 
 
 ## collate stuff
 collate: collate_airport_data collate_boardings
 
-collate_airport_data:
-	@echo "airports todo; mostly little cleaning"
-
+collate_airport_data: data/converted/airport_data
+	./scripts/collate/collate_airport_data.py
 
 
 collate_boardings: data/collated/boardings.csv
@@ -74,16 +80,15 @@ data/collated/boardings.csv: scripts/collate/collate_boardings.py data/converted
 convert: convert_airport_data convert_boardings
 
 
-$(CONVERTED_AIRPORT_DATA): manual_fix
-
-
-convert_airport_data: stash
+convert_airport_data: data/converted/airport_data/
+data/converted/airport_data: stash
 	@echo "converting airport data"
 	./scripts/convert/excel2csv.py \
 		data/stashed/airport_data/manual_fix \
 		data/converted/airport_data
 
-convert_boardings: stash
+convert_boardings: data/converted/boardings/
+data/converted/boardings: stash
 	@echo "converting boardings"
 	./scripts/convert/excel2csv.py \
 		data/stashed/boardings \

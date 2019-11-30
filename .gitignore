@@ -2,10 +2,10 @@
 *.egg-info
 
 # names for data stash folders that shouldn't be committed
+*.sqlite
 _drafts/
 junk/
 zunk/
-ZUNK/
 
 # try to prevent the inclusion of credentials
 creds/
