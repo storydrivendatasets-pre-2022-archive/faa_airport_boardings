@@ -19,7 +19,8 @@ DEST_PATH = Path('data', 'collated', 'airport_annual_boardings.csv')
 
 Rank,RO,ST,Locid,City,Airport Name,S/L,Hub,CY 09 Boardings,CY 08 Boardings,% Change,,
 
-OUTPUT_HEADERS = ('year', 'rank', )
+OUTPUT_HEADERS = ('year', 'rank', 'region', 'state', 'airport_code', 'airport_name',
+                  'airport_type', 'hub_type', 'enplanements', 'yoy_change')
 
 
 def cleanspace(txt):

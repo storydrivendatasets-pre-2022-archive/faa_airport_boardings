@@ -14,9 +14,6 @@ import re
 from sys import argv, stderr
 
 
-
-HEADERS = ('rank', "airport_code", "airport_name", "city", "state", "enplanements",)
-
 """
 #   Example raw text data lines:
 
@@ -34,9 +31,7 @@ The pattern:
     - enplanements: 1-or-more digits-or-commas, followed by 0-or-more whitespaces, then end-of-line
 """
 
-
-
-DATA_LINE_RX = (
+RX_DATA_LINE = (
                 r'^\s*(?P<rank>\d+)\s+'
                 + r'(?P<airport_code>[A-Z0-9]{3})\s+'
                 + r'(?P<airport_name>.+?)\s{3,}'
@@ -45,18 +40,35 @@ DATA_LINE_RX = (
                 + r'(?P<enplanements>[\d,]+)\s*$'
                )
 
-def process_line(line):
+"""
+ Rnk LOCID Airport (City, State)                    CY2000     Change      CY1999
+   1 ATL THE WILLIAM B HARTSFIE(ATLANTA,GA)       39,277,901      3.0%   38,136,866
+   2 ORD CHICAGO O'HARE INTL(CHICAGO,IL)          33,845,895     -0.6%   34,050,083
+
+"""
+
+RX_YOY_DATA_LINE = (
+                r'^\s*(?P<rank_2000>\d+)\s+'
+                + r'(?P<airport_code>[A-Z0-9]{3})\s+'
+                + r'(?P<airport_name>[^(]+)\('
+                + r'(?P<city>.+?),(?=[A-Z]{2}\))'
+                + r'(?P<state>[A-Z]{2})\)\s+'
+                + r'(?P<enplanements_2000>[\d,]+)\s+'
+                + r'(?P<yoy_change>[\-0-9\.]+%)\s+'
+                + r'(?P<enplanements_1999>[\d,]+)\s*$'
+               )
+
+
+def process_line(line, data_pattern):
     """
     line is a plaintext string, straight from the pdftotext -layout formatted text file
-
+    data_pattern is a string that represents a regex pattern for a data line
     Returns:
         - None if the line is perceived to be a non-data line, such as a header
-        - a list of strings if it is a data line
-
-
+        - a dict of strings
 
     """
-    mx = re.match(DATA_LINE_RX, line)
+    mx = re.match(data_pattern, line)
     if mx:
         return mx.groupdict()
     else:
@@ -65,12 +77,18 @@ def process_line(line):
         return None
 
 
-def process_textfile(srcpath):
-    """srcpath is a path to a text file, presumably from pdftotext"""
+def process_textfile(srcpath, data_pattern):
+    """
+    srcpath is a path to a text file, presumably from pdftotext
+
+    data_pattern is a string that represents a regex pattern for a data line
+
+    Returns: a list of dicts
+    """
 
     data = []
     for line in srcpath.open():
-        record = process_line(line)
+        record = process_line(line, data_pattern)
         if record:
             data.append(record)
     return data
@@ -81,16 +99,19 @@ def main():
     srcdir = Path(argv[1])
     destdir = Path(argv[2])
     destdir.mkdir(exist_ok=True, parents=True)
-
     for srcpath in srcdir.glob('*.pdf.txt'):
 
         stderr.write(f"Opening {srcpath}\n")
-        data = process_textfile(srcpath)
+        if 'yoy_change' in str(srcpath):
+            data = process_textfile(srcpath, data_pattern=RX_YOY_DATA_LINE)
+        else:
+            data = process_textfile(srcpath, data_pattern=RX_DATA_LINE)
 
-        destpath = destdir.joinpath(f'{srcpath.stem}.csv')
+        year = re.match(r'^\d{4}', srcpath.stem).group()
+        destpath = destdir.joinpath(f'{year}.csv')
         stderr.write(f"Writing {len(data)} rows to {destpath}\n")
         with open(destpath, 'w') as w:
-            outs = csv.DictWriter(w, fieldnames=HEADERS)
+            outs = csv.DictWriter(w, fieldnames=data[0].keys())
             outs.writeheader()
             outs.writerows(data)
 

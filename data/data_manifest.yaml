@@ -82,3 +82,10 @@ stashed/originals/boardings/2001.xls:
 
 stashed/originals/boardings/2000.pdf:
   url: https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/media/cy00_primary_rankorder.pdf
+
+
+stashed/originals/boardings/1999_yoy_change.pdf:
+  url: https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/media/cy00_primary_change.pdf
+  landing_page: https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/previous_years/#2000
+  description: |
+    This report technically comes from 2000, but it contains 1999 enplanements, and year-over-year change into 2000

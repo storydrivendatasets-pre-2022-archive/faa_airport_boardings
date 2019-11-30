@@ -1,3 +1,3 @@
-airport-data-dictionaries.xlsx:
+documents/airport-data-dictionaries.xlsx:
   url: https://www.faa.gov/airports/airport_safety/airportdata_5010/media/airport-data-dictionaries.xlsx
   landing_page: 'https://www.faa.gov/airports/airport_safety/airportdata_5010/#datadictionaries'
