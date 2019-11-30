@@ -107,8 +107,7 @@ def main():
         else:
             data = process_textfile(srcpath, data_pattern=RX_DATA_LINE)
 
-        year = re.match(r'^\d{4}', srcpath.stem).group()
-        destpath = destdir.joinpath(f'{year}.csv')
+        destpath = destdir.joinpath(f'{srcpath.stem}.csv')
         stderr.write(f"Writing {len(data)} rows to {destpath}\n")
         with open(destpath, 'w') as w:
             outs = csv.DictWriter(w, fieldnames=data[0].keys())

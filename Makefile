@@ -13,7 +13,7 @@ ALL: clean sqlize
 
 clean:
 	@echo --- Cleaning
-	rm -f
+	rm -f $(SQLIZED_DB)
 	rm -rf data/stashed/processed
 	rm -f data/wrangled/hello.csv
 
@@ -36,7 +36,7 @@ $(SQLIZED_DB): wrangle
 stash: fetch_stash process_stash
 
 process_stash:
-	@echo "processing boardings data"
+	@echo "processing boardings"
 	./scripts/stash/boardings/excel2csv.py \
 		data/stashed/originals/boardings \
 		data/stashed/processed/boardings

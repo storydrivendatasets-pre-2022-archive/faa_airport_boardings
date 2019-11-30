@@ -13,14 +13,13 @@ import csv
 from pathlib import Path
 import re
 
-SRC_DIR = Path('data', 'stashed', 'processed')
-DEST_PATH = Path('data', 'collated', 'airport_annual_boardings.csv')
+SRC_DIR = Path('data', 'stashed', 'processed', 'boardings')
+DEST_PATH = Path('data', 'collated', 'boardings.csv')
 
 
-Rank,RO,ST,Locid,City,Airport Name,S/L,Hub,CY 09 Boardings,CY 08 Boardings,% Change,,
-
-OUTPUT_HEADERS = ('year', 'rank', 'region', 'state', 'airport_code', 'airport_name',
-                  'airport_type', 'hub_type', 'enplanements', 'yoy_change')
+OUTPUT_HEADERS = ('year', 'rank', 'region', 'state',
+                  'airport_code', 'airport_name', 'service_level', 'hub_type',
+                  'enplanements', 'prev_year_enplanements', 'yoy_change',)
 
 
 def cleanspace(txt):
@@ -52,16 +51,23 @@ def cleanspace(txt):
 
 
 
-# def main():
-#     DEST_PATH.parent.mkdir(exist_ok=True, parents=True)
-#     destfile = DEST_PATH.open('w')
-#     outs = csv.writer(destfile)
-#     outs.writerow(HEADERS)
-#     for fn in sorted(SRC_DIR.glob('*.csv')):
-#         for row in process_file(fn):
-#             outs.writerow(row)
-#     destfile.close()
-#     print("Wrote", DEST_PATH.stat().st_size, 'bytes to', DEST_PATH)
+def main():
+    # DEST_PATH.parent.mkdir(exist_ok=True, parents=True)
+    # destfile = DEST_PATH.open('w')
+    # outs = csv.writer(destfile)
+    # outs.writerow(HEADERS)
+    for fn in sorted(SRC_DIR.glob('*.csv')):
+        with open(fn) as src:
+            data = list(csv.DictReader(src))
 
-# if __name__ == '__main__':
-#     main()
+        headers = list(data[0].keys())
+        print(fn.name, "columns:", len(headers))
+        print("\t", ", ".join(headers))
+
+    #     for row in process_file(fn):
+    #         outs.writerow(row)
+    # destfile.close()
+    # print("Wrote", DEST_PATH.stat().st_size, 'bytes to', DEST_PATH)
+
+if __name__ == '__main__':
+    main()
