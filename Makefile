@@ -1,22 +1,31 @@
 .DEFAULT_GOAL := help
-.PHONY : clean help ALL \
-	stash process_stash fetch_stash
+.PHONY : clean help ALL
 
 SQLIZED_DB = data/sqlized.sqlite
+STASHED_FILES = data/stashed/boardings/2018.xlsx \
+				data/stashed/boardings/1999_primary_yoy_change.pdf
 
+CONVERTED_BOARDINGS = data/converted/boardings/2018.csv \
+			      data/stashed/boardings/1999_primary_yoy_change.pdf.csv
 
+CONVERTED_FILES = $(CONVERTED_BOARDINGS) \
+				  data/converted/airports.csv \
+				  data/converted/runways.csv
 help:
 	@echo 'Run `make ALL` to see how things run from scratch'
 
 ALL: clean sqlize
 
 
+clean_start: clean
+	rm -rf data/stashed
+
 clean:
 	@echo --- Cleaning
+	rm -rf data/converted
+	rm -rf data/collated
+	rm -rf data/wrangled
 	rm -f $(SQLIZED_DB)
-	rm -rf data/stashed/processed
-	rm -f data/wrangled/hello.csv
-
 
 # change sqlize task to do something else besides sqlize_bootstrap.sh,
 # when you need something more sophisticated
@@ -32,27 +41,53 @@ $(SQLIZED_DB): wrangle
 		data/wrangled
 
 
+## collate stuff
+collate: collate_boardings
+
+collate_boardings: data/collated/boardings.csv
+
+data/collated/boardings.csv: scripts/collate/collate_boardings.py data/converted/boardings
+
+	./scripts/collate/collate_boardings.py
+
+
+
 ## stash stuff
-stash: fetch_stash process_stash
 
-process_stash:
-	@echo "processing boardings"
-	./scripts/stash/boardings/excel2csv.py \
-		data/stashed/originals/boardings \
-		data/stashed/processed/boardings
 
-	./scripts/stash/boardings/pdf2txt.sh \
-		data/stashed/originals/boardings \
-		data/stashed/processed/boardings
+convert: $(CONVERTED_FILES)
+
+
+$(CONVERTED_FILES): stash
+	@echo "converting airports and runways"
+	./scripts/convert/excel2csv.py \
+		data/stashed \
+		data/converted
+
+
+	@echo "converting boardings"
+	./scripts/convert/excel2csv.py \
+		data/stashed/boardings \
+		data/converted/boardings
 
 	echo ""
-	./scripts/stash/boardings/pdftext2csv.py \
-		data/stashed/processed/boardings \
-		data/stashed/processed/boardings
+	./scripts/convert/pdf2txt.sh \
+		data/stashed/boardings \
+		data/converted/boardings
 
+	echo ""
+	./scripts/convert/pdftext2csv.py \
+		data/converted/boardings \
+		data/converted/boardings
 
+stash: $(STASHED_FILES)
 # only run this when you need to do a full refresh of the source data
 # for some reason
-fetch_stash:
-	./scripts/stash/fetch_files.py
+
+
+$(STASHED_FILES): ./scripts/stash_files.py
+
+	./scripts/stash_files.py
+
+
 

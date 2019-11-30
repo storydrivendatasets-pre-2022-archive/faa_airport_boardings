@@ -1,0 +1,21 @@
+documents/airport-data-dictionaries.xlsx:
+  url: https://www.faa.gov/airports/airport_safety/airportdata_5010/media/airport-data-dictionaries.xlsx
+  landing_page: 'https://www.faa.gov/airports/airport_safety/airportdata_5010/#datadictionaries'
+
+documents/airport_hub_categories_cy2001.doc:
+  url: https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/media/cy01_hub_categories.doc
+  landing_page: https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/previous_years/
+
+
+documents/cy06_all_enplanements.pdf:
+  url: https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/media/cy06_all_enplanements.pdf
+  landing_page: "https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/previous_years/#2006"
+  description: |
+    An example of how the data format changes year after year for inexplicable reasons. The 2006 "all_enplanements" file
+    has columns for scheduled and unscheduled boardings, which no other year has.
+
+    https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/media/cy06_all_enplanements.xls
+
+    https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/media/cy05_all_enplanements.pdf
+
+    https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/media/cy05_all_enplanements.xls
